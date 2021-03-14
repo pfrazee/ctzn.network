@@ -1,0 +1,97 @@
+---
+layout: base-layout.liquid
+title: Video Dev Log | CTZN.network
+---
+<style>
+.padleft {
+  padding-left: 320px;
+}
+.marker {
+  left: -26px;
+  top: 4px;
+}
+iframe {
+  width: 560px;
+  height: 315px;
+}
+@media (max-width: 630px) {
+  iframe {
+    width: calc(100% - 40px);
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+  }
+}
+@media (max-width: 450px) {
+  iframe {
+    height: 200px;
+  }
+}
+</style>
+
+<div class="mb-32 mt-24 mx-auto text-center px-2" style="max-width: 640px;">
+  <h1 class="font-semibold mb-8 text-4xl sm:text-6xl">Video Dev Log</h1>
+  <p class="text-lg">
+    CTZN's development is <a class="text-blue-600 hover:underline" href="https://www.youtube.com/channel/UCSkcL4my2wgDRFvjQOJzrlg">livestreamed on YouTube</a>
+    by <a class="text-blue-600 hover:underline" href="https://ctznry.com/pfrazee@ctzn.one">Paul Frazee</a>.
+    This page provides an archive of those livestreams, with links matching commits to
+    <a class="text-blue-600 hover:underline" href="https://github.com/pfrazee/ctzn">ctzn</a>
+    and <a class="text-blue-600 hover:underline" href="https://github.com/pfrazee/ctznry">ctznry</a>
+    to the video timestamps.
+  </p>
+</div>
+
+<div class="mx-auto" style="max-width: 590px">
+  {% assign last_day = false %}
+  {% assign last_video = false %}
+  <div>
+  {% for commit in vlog %}
+    {% assign day = commit.authorDate | date: "%A %Y-%m-%d" %}
+    {% if day != last_day %}
+      </div>
+      <h2 class="font-bold pb-1 text-center text-gray-700 text-lg">
+        {{ commit.authorDate | date: "%A" }}
+        <small class="text-gray-500 font-medium">{{ commit.authorDate | date: "%Y-%m-%d" }}</small>
+      </h2>
+      <div class="border border-gray-300 mb-4 py-3 rounded-2xl">
+    {% endif %}
+    {% if commit.videoUrl and commit.videoUrl != last_video %}
+      <iframe
+        class="mx-auto mb-2 mt-1 rounded-xl"
+        src="https://www.youtube.com/embed/{{commit.videoId}}"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      ></iframe>
+      {% assign last_video = commit.videoUrl %}
+    {% endif %}
+    <div class="ml-6 pl-4 pr-4 py-2 border-l-4 border-gray-200">
+      <div class="relative text-gray-600">
+        <span class="marker absolute bg-gray-400 rounded-full border-4 border-white w-4 h-4"></span>
+        {% if commit.videoUrl %}
+          <a
+            class="font-medium text-blue-600 hover:underline"
+            href="{{commit.videoUrl}}{{commit.videoQP}}"
+            target="_blank"
+          ><span class="fab fa-fw fa-youtube"></span> {{ commit.subject | escape }}</a>
+        {% else %}
+          <span class="text-gray-700">{{ commit.subject | escape }}</span>
+        {% endif %}
+        <a
+          class="text-gray-700 hover:text-blue-600 hover:underline"
+          href="https://github.com/pfrazee/{{commit.repo}}"
+          target="_blank"
+        >{{ commit.repo }}</a>
+        &middot;
+        <span class="text-sm">
+          <a
+            class="hover:text-blue-600 font-mono hover:underline"
+            href="https://github.com/pfrazee/{{commit.repo}}/commit/{{commit.hash}}"
+            target="_blank"
+          >{{ commit.abbrevHash }}</a>
+        </span>
+      </div>
+      {% assign last_day = commit.authorDate | date: "%A %Y-%m-%d" %}
+    </div>
+  {% endfor %}
+  </div>
+</div>

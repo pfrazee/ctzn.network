@@ -1,0 +1,18 @@
+{
+  "name": "ctzn.network",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "full-build": "node ./_scripts/fetch-yt-data.js && npm run build",
+    "build": "eleventy"
+  },
+  "keywords": [],
+  "author": "Paul Frazee <pfrazee@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gitlog": "^4.0.4",
+    "google-auth-library": "^7.0.2",
+    "googleapis": "^67.1.1",
+    "lodash.chunk": "^4.2.0"
+  }
+}
