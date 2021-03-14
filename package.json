@@ -12,7 +12,7 @@
   "author": "Paul Frazee <pfrazee@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "eleventy": "^1.0.6",
+    "@11ty/eleventy": "^0.11.1",
     "gitlog": "^4.0.4",
     "google-auth-library": "^7.0.2",
     "googleapis": "^67.1.1",
