@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "",
   "scripts": {
-    "full-build": "node ./_scripts/fetch-yt-data.js && npm run build",
+    "tailwind": "npx tailwindcss-cli@latest build -o css/tailwind.css",
+    "build-prod": "node ./_scripts/fetch-yt-data.js && node ./_scripts/fetch-git-data.js && node ./_scripts/gen-vlog-data.js && node ./_scripts/fetch-schemas.js && NODE_ENV=production npm run tailwind && npm run build",
     "build": "eleventy"
   },
   "keywords": [],
