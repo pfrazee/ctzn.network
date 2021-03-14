@@ -1,0 +1,33 @@
+{
+  "id": "ctzn.network/index-state",
+  "title": "Index State",
+  "description": "Metadata records for tracking secondary-index states",
+  "type": "json-table",
+  "definition": {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "required": ["schemaId", "subject", "updatedAt"],
+    "properties": {
+      "schemaId": {
+        "type": "string"
+      },
+      "subject": {
+        "type": "object",
+        "required": ["dbUrl", "lastIndexedSeq"],
+        "properties": {
+          "dbUrl": {
+            "type": "string",
+            "format": "uri"
+          },
+          "lastIndexedSeq": {
+            "type": "number"
+          }
+        }
+      },
+      "updatedAt": {
+        "type": "string",
+        "format": "date-time"
+      }
+    }
+  }
+}

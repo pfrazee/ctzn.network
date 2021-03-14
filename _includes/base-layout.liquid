@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/css/tailwind.css">
     <link rel="stylesheet" href="/css/fontawesome.css">
-    <title>{{ title }}</title>
+    <title>{{ renderData.title or title }}</title>
   </head>
   <body>
-    <header class="px-4 py-2 mb-8">
-      <a class="font-bold hover:underline text-2xl mr-4" href="/">CTZN.network</a>
+    <header class="px-4 py-2 mb-8 bg-gray-100 sm:bg-transparent">
+      <a class="font-bold hover:underline text-lg sm:text-2xl mr-4" href="/">CTZN.network</a>
       <a class="mr-4 hover:underline" href="/schemas">Schemas</a>
       <a class="hover:underline" href="/dev-vlog">Video Devlog</a>
     </header>

@@ -3,4 +3,22 @@ layout: base-layout.liquid
 title: Schemas | CTZN.network
 ---
 
-<h1>Schemas</h1>
+<div class="mb-32 mt-12 sm:mt-24 mx-auto px-2" style="max-width: 640px;">
+  <h1 class="text-center font-semibold mb-3 text-4xl sm:text-6xl">
+    Schemas
+  </h1>
+  <p class="text-center text-xl mb-16 sm:mb-24">
+    CTZN uses strictly-defined, machine-readable, URI-addressed schemas for all data in the network.
+    This page lists all currently specified schemas.
+  </p>
+  <div class="p-2 border border-gray-300 rounded-xl">
+    {% for otherSchema in schemas %}
+      <div class="block mr-2">
+        <a
+          href="/{{ otherSchema[0] }}"
+          class="block font-mono text-blue-600 px-4 py-4 rounded bg-gray-50 mb-2 hover:underline"
+        >ctzn.network/{{ otherSchema[0] }}</a>
+      </div>
+    {% endfor %}
+  </div>
+</div>
