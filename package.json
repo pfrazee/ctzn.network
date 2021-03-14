@@ -3,14 +3,16 @@
   "version": "0.0.1",
   "description": "",
   "scripts": {
+    "generate": "node ./_scripts/fetch-yt-data.js && node ./_scripts/fetch-git-data.js && node ./_scripts/gen-vlog-data.js && node ./_scripts/fetch-schemas.js",
     "tailwind": "npx tailwindcss-cli@latest build -o css/tailwind.css",
-    "build-prod": "node ./_scripts/fetch-yt-data.js && node ./_scripts/fetch-git-data.js && node ./_scripts/gen-vlog-data.js && node ./_scripts/fetch-schemas.js && NODE_ENV=production npm run tailwind && npm run build",
+    "build-prod": "NODE_ENV=production npm run tailwind && npm run build",
     "build": "eleventy"
   },
   "keywords": [],
   "author": "Paul Frazee <pfrazee@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "eleventy": "^1.0.6",
     "gitlog": "^4.0.4",
     "google-auth-library": "^7.0.2",
     "googleapis": "^67.1.1",
