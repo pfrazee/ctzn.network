@@ -377,14 +377,6 @@
   },
   {
     "repo": "ctzn",
-    "hash": "0c528e2cda72c581043af35e11f98738b7142eaa",
-    "abbrevHash": "0c528e2",
-    "subject": "tweak readme",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-01-27T15:53:28.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "5f8ed85bfcc4eb57b9525c0037ea79dd8b9e6109",
     "abbrevHash": "5f8ed85",
     "subject": "Add higher-level testing framework",
@@ -510,6 +502,14 @@
     "subject": "Add better duration tracking to perf measurements",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-02T18:22:06.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "dd3d8623d2d04d54048356efe557ff9d3524b496",
+    "abbrevHash": "dd3d862",
+    "subject": "Accept --port and --domain on start command",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-02T20:48:12.000Z"
   },
   {
     "repo": "ctzn",
@@ -697,19 +697,19 @@
   },
   {
     "repo": "ctznry",
-    "hash": "f7e538bb78cc60f337a5b5d8681f041d8346aa22",
-    "abbrevHash": "f7e538b",
-    "subject": "Update social graph rendering",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-08T19:37:37.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "b66a4d46592349c8dd451eed9456da89ea7a1632",
     "abbrevHash": "b66a4d4",
     "subject": "Fix notification rendering for replies",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-08T19:48:48.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "4da417eb9489649d6998c05755cb300f66c4fefd",
+    "abbrevHash": "4da417e",
+    "subject": "Render parents of posts inline in the feed",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-08T20:04:35.000Z"
   },
   {
     "repo": "ctznry",
@@ -1633,14 +1633,6 @@
   },
   {
     "repo": "ctzn",
-    "hash": "6bb4f9291fbbf1db459d2e32481e150b7d5cc51c",
-    "abbrevHash": "6bb4f92",
-    "subject": "0.7.0",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-17T18:51:24.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "3cb58b4f19682b966b9fcc19f863702348088b15",
     "abbrevHash": "3cb58b4",
     "subject": "Fix some references",
@@ -1992,6 +1984,14 @@
     "authorDate": "2021-02-23T20:18:21.000Z"
   },
   {
+    "repo": "ctzn",
+    "hash": "dd3b40d9bc85159dea122a33ae82657170fac4f8",
+    "abbrevHash": "dd3b40d",
+    "subject": "Implement community moderation remove post/comment",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-23T20:18:21.000Z"
+  },
+  {
     "repo": "ctznry",
     "hash": "be5412987666c7531cb2924d63d71aea3e9ebedf",
     "abbrevHash": "be54129",
@@ -2312,14 +2312,6 @@
     "authorDate": "2021-03-01T17:07:35.000Z"
   },
   {
-    "repo": "ctznry",
-    "hash": "4a7228817247d8c23c8acb4d54f9348ed6dd926c",
-    "abbrevHash": "4a72288",
-    "subject": "Use blended timestamp for notifications",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-01T17:07:35.000Z"
-  },
-  {
     "repo": "ctzn",
     "hash": "c8136d748a542efd3649dd8a6991d8dc2bbab7a5",
     "abbrevHash": "c8136d7",
@@ -2334,6 +2326,14 @@
     "subject": "Update notifications to use blendedCreatedAt",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-01T17:26:17.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "087953764e3258747b6659126438c7bd3f525ffa",
+    "abbrevHash": "0879537",
+    "subject": "Deduplicate notifications",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-01T17:28:41.000Z"
   },
   {
     "repo": "ctznry",
@@ -3614,5 +3614,157 @@
     "subject": "Fix some coersion issues",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-12T22:29:10.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "818fc2995fb4b2fec04f395f60c46d8e09ffbf52",
+    "abbrevHash": "818fc29",
+    "subject": "Fix: include simulateHyperspace in config",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-15T17:19:42.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "82c9c1cf7acc908113667cf2e97ba0ac45c97c8f",
+    "abbrevHash": "82c9c1c",
+    "subject": "Add LICENSE",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-15T17:33:40.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "98bbf9370089eb320e630ea04c3d8eb4de836f29",
+    "abbrevHash": "98bbf93",
+    "subject": "Add jsconfig.json to enabled typescript checking",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-15T17:33:54.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "6d287668bf4e9175c110b934e488825cdfc7b7c2",
+    "abbrevHash": "6d28766",
+    "subject": "Add remoteHandle() protocol to dbmethods",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-15T17:35:58.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "f1d299b35471f627a0dad935bca2523a128e8755",
+    "abbrevHash": "f1d299b",
+    "subject": "Add specific error for reverse-dns failures",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-15T17:45:36.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "706c0e926376d34cd78f7373e5aa1b8dd93c42b0",
+    "abbrevHash": "706c0e9",
+    "subject": "Fix bad import path",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-15T17:46:29.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "7da5c4e445e8f03a40d9c9434c89504e535fbd03",
+    "abbrevHash": "7da5c4e",
+    "subject": "Dont let dbmethod.remoteHandle failures respond with an error",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-15T17:48:43.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "18bd49fd688646a04e0a6fd02b3b97fe3dc6f15a",
+    "abbrevHash": "18bd49f",
+    "subject": "Optimize initial load by moving catchupIndexes to a background task",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-15T18:17:27.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "81d8156827e6ba9e0f44fd7367af10eb067b8446",
+    "abbrevHash": "81d8156",
+    "subject": "Minor API tweaks (blobs -> blob, add blob.update, remove profiles, etc)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-15T18:33:21.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "6bb3baad648fc34ddd270f2ade85b6d148061d15",
+    "abbrevHash": "6bb3baa",
+    "subject": "Add ctzn.network/dbmethod-calls-view",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-15T18:52:15.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "1e7a64fc3951327b5a340b598e0613419e92c7c4",
+    "abbrevHash": "1e7a64f",
+    "subject": "Automatically generate createdAt",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-15T19:20:24.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "57ddaff685a66dd5fc75d7bfd49042f32c0a9218",
+    "abbrevHash": "57ddaff",
+    "subject": "Correctly handle null list opts",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-15T19:44:04.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "5c39cedea0f6ba17e05321e90d24ec253ae3ebc3",
+    "abbrevHash": "5c39ced",
+    "subject": "Handle unsupported table schemas more gracefully",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-15T20:23:45.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "ca0feccf48484ae4279a6d203201ad98957512e1",
+    "abbrevHash": "ca0fecc",
+    "subject": "Fix http .view param parsing",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-15T20:29:46.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "9bdeff1b8abd96c1fa219cef12c4fbf3a5e495f0",
+    "abbrevHash": "9bdeff1",
+    "subject": "Correctly parse .view http get when query-params are present",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-15T20:36:25.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "ca940cffadeb96fdfd4a8e1275c33a995fcb62b0",
+    "abbrevHash": "ca940cf",
+    "subject": "Add 'ctzn.network/dbmethod-results-view'",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-15T20:48:03.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "922e0b8f98ee9cef1be90aa63040ff0082ac6a04",
+    "abbrevHash": "922e0b8",
+    "subject": "0.18.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-15T21:25:19.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "b41f3b4c2b0d4c6acb1bdd9c89972040851fb75b",
+    "abbrevHash": "b41f3b4",
+    "subject": "Add LICENSE",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-15T21:25:34.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "196927dbf04713149657238eafb0b1764dc7591b",
+    "abbrevHash": "196927d",
+    "subject": "Rework API access for ctzn@0.18 and add dbmethod-results feed",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-15T21:25:56.000Z"
   }
 ]

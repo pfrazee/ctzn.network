@@ -367,5 +367,15 @@
       "actualEndTime": "2021-03-12T22:46:52Z",
       "scheduledStartTime": "2021-03-12T16:45:00Z"
     }
+  },
+  {
+    "videoId": "3oFiL3H3-Zs",
+    "videoPublishedAt": "2021-03-15T14:48:34Z",
+    "liveStreamingDetails": {
+      "actualStartTime": "2021-03-15T14:51:17Z",
+      "actualEndTime": "2021-03-15T22:10:41Z",
+      "scheduledStartTime": "2021-03-15T14:50:00Z",
+      "activeLiveChatId": "Cg0KCzNvRmlMM0gzLVpzKicKGFVDU2tjTDRteTJ3Z0RSRnZqUU9KenJsZxILM29GaUwzSDMtWnM"
+    }
   }
 ]
