@@ -1,5 +1,269 @@
 [
   {
+    "repo": "ctzn",
+    "hash": "0613b7daf3c26a9d0abf359f44cb0225a3c41d40",
+    "abbrevHash": "0613b7d",
+    "subject": "Implement items",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T23:38:28.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=27460"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "9d644817aa86274dcb8fa5483cf910907ba44cfc",
+    "abbrevHash": "9d64481",
+    "subject": "Improve UI responsiveness to work in progress",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T19:19:07.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=11899"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "fd85b714d617464bf556cdbf643b51e398c5150c",
+    "abbrevHash": "fd85b71",
+    "subject": "Improve call log styling",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T19:13:04.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=11536"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "7b6f216493ccd395612d64a1f1a99b64e8cb3f18",
+    "abbrevHash": "7b6f216",
+    "subject": "Fix navigation in user view",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T19:12:47.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=11519"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "c05e0923f39420d7e452d2867ec1352e796c6675",
+    "abbrevHash": "c05e092",
+    "subject": "Fix vercel config again",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T18:57:27.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=10599"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "a4575338f0e177698a0dc61439e33e6476740b10",
+    "abbrevHash": "a457533",
+    "subject": "Fix vercel config",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T18:54:59.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=10451"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "ff315869cbfad71c1858f822b1cbd6b215f41405",
+    "abbrevHash": "ff31586",
+    "subject": "Deploy the new service worker more aggressively",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T18:47:02.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=9974"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "53d0165339f4691311e7110d9bff56578a0ab2cf",
+    "abbrevHash": "53d0165",
+    "subject": "Fix: handle empty notifications without errors",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T18:36:09.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=9321"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "fe3aa56d1525179ae82d83710175425eaf48e029",
+    "abbrevHash": "fe3aa56",
+    "subject": "Fix: dont require notificationsClearedAt in view response",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T18:35:45.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=9297"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "acf46e09e6d5457303da78db1d6265ccfab22ebd",
+    "abbrevHash": "acf46e0",
+    "subject": "Fix some uncloseable popups",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T18:32:07.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=9079"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "73914d4f2008178a8bd2ebb795fb544d2afe556e",
+    "abbrevHash": "73914d4",
+    "subject": "Add another debugging utility to track down the hyperbee stall issue",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T18:29:11.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=8903"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "cab3c588ccfc6a33435e957cf6b2814238c9f1ee",
+    "abbrevHash": "cab3c58",
+    "subject": "Add CSP headers",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T17:59:47.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=7139"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "94cb84391e50ae509164d94c4da01f6d5fcb9b70",
+    "abbrevHash": "94cb843",
+    "subject": "0.18.4",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T17:59:23.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=7115"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "01be78726e819625015932c0f4217033e1d89a63",
+    "abbrevHash": "01be787",
+    "subject": "Apply CSPs to responses to avoid XSS",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T17:59:21.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=7113"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "a503bee056a8d5f09327ce1d1a6df12f048db69e",
+    "abbrevHash": "a503bee",
+    "subject": "0.18.3",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T17:28:58.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=5290"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "7d788292fa642c5d501e1c8cce3c43a9f6161573",
+    "abbrevHash": "7d78829",
+    "subject": "Include list() in the stall hack",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T17:28:56.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=5288"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "931beca13dd30257155f6533ff6c2006eaa27dd0",
+    "abbrevHash": "931beca",
+    "subject": "0.18.2",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T17:23:40.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=4972"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "cc21c927342916a7ee55dcdf8df25717812b4693",
+    "abbrevHash": "cc21c92",
+    "subject": "Expand the hyperbee stall hack to cover more operations",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T17:23:36.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=4968"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "3e79e8d977bb5b1fa12efe401325334beadffcab",
+    "abbrevHash": "3e79e8d",
+    "subject": "0.18.1",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T16:56:50.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=3362"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "b6700d18573ad641348d86eaab30f31b6ab4bdf3",
+    "abbrevHash": "b6700d1",
+    "subject": "Add a hackfix to the hyperbee stalling issue (fingers crossed!)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T16:56:47.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=3359"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "c0a9a588360d9830cfcffe69d2b3de78e9feaf69",
+    "abbrevHash": "c0a9a58",
+    "subject": "Parallelize member db loading to improve startup performance",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T16:37:43.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=2215"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "b3d81d377560d509810edd871396c8a9e001a36c",
+    "abbrevHash": "b3d81d3",
+    "subject": "Filter out failed userId fetches from reactions",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T16:20:02.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=1154"
+  },
+  {
     "repo": "ctznry",
     "hash": "196927dbf04713149657238eafb0b1764dc7591b",
     "abbrevHash": "196927d",
@@ -1987,6 +2251,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "a6f7b97d9bb6444784f0f1ae9ecacba32bc73985",
+    "abbrevHash": "a6f7b97",
+    "subject": "Improve mobile menu behavior (fix visual bugs, handle clicks outside)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-01T20:09:41.000Z",
+    "interesting": false,
+    "videoId": "6VcKU_8YAgs",
+    "videoUrl": "https://youtu.be/6VcKU_8YAgs",
+    "videoQP": "?t=16359"
+  },
+  {
+    "repo": "ctznry",
     "hash": "e5fb34cf27d76651ae4a53cd948cddac9fe31fc6",
     "abbrevHash": "e5fb34c",
     "subject": "Fix permissions check in communities",
@@ -2116,18 +2392,6 @@
     "videoId": "6VcKU_8YAgs",
     "videoUrl": "https://youtu.be/6VcKU_8YAgs",
     "videoQP": "?t=6722"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "087953764e3258747b6659126438c7bd3f525ffa",
-    "abbrevHash": "0879537",
-    "subject": "Deduplicate notifications",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-01T17:28:41.000Z",
-    "interesting": false,
-    "videoId": "6VcKU_8YAgs",
-    "videoUrl": "https://youtu.be/6VcKU_8YAgs",
-    "videoQP": "?t=6699"
   },
   {
     "repo": "ctznry",
@@ -2311,6 +2575,18 @@
     "videoId": "RyObd_MAUkg",
     "videoUrl": "https://youtu.be/RyObd_MAUkg",
     "videoQP": "?t=14853"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "d153ea6dc7e59c9cad8be6caba8ef3b9d05b6031",
+    "abbrevHash": "d153ea6",
+    "subject": "Add timeouts to all hyperbee reads",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-26T20:31:47.000Z",
+    "interesting": false,
+    "videoId": "RyObd_MAUkg",
+    "videoUrl": "https://youtu.be/RyObd_MAUkg",
+    "videoQP": "?t=14798"
   },
   {
     "repo": "ctzn",
@@ -2635,18 +2911,6 @@
     "videoId": "8FraHpJjztg",
     "videoUrl": "https://youtu.be/8FraHpJjztg",
     "videoQP": "?t=9558"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "dd3b40d9bc85159dea122a33ae82657170fac4f8",
-    "abbrevHash": "dd3b40d",
-    "subject": "Implement community moderation remove post/comment",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-23T20:18:21.000Z",
-    "interesting": false,
-    "videoId": "8FraHpJjztg",
-    "videoUrl": "https://youtu.be/8FraHpJjztg",
-    "videoQP": "?t=9472"
   },
   {
     "repo": "ctzn",
@@ -4167,6 +4431,18 @@
     "videoQP": "?t=4588"
   },
   {
+    "repo": "ctznry",
+    "hash": "4e039cce52441d4f91453f0cda62bdcf9d3ac152",
+    "abbrevHash": "4e039cc",
+    "subject": "Handle user not-found rendering",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-09T16:43:48.000Z",
+    "interesting": false,
+    "videoId": "FxoZBXNDmK4",
+    "videoUrl": "https://youtu.be/FxoZBXNDmK4",
+    "videoQP": "?t=4588"
+  },
+  {
     "repo": "ctzn",
     "hash": "fd2e9d87d82903d9a85afb1521e176b8bb923baf",
     "abbrevHash": "fd2e9d8",
@@ -4384,18 +4660,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "4da417eb9489649d6998c05755cb300f66c4fefd",
-    "abbrevHash": "4da417e",
-    "subject": "Render parents of posts inline in the feed",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-08T20:04:35.000Z",
-    "interesting": false,
-    "videoId": "MylTaZx2Q_w",
-    "videoUrl": "https://youtu.be/MylTaZx2Q_w",
-    "videoQP": "?t=12695"
-  },
-  {
-    "repo": "ctznry",
     "hash": "b66a4d46592349c8dd451eed9456da89ea7a1632",
     "abbrevHash": "b66a4d4",
     "subject": "Fix notification rendering for replies",
@@ -4489,6 +4753,18 @@
     "videoId": "MylTaZx2Q_w",
     "videoUrl": "https://youtu.be/MylTaZx2Q_w",
     "videoQP": "?t=951"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "4be59465f565eabd717714de03cfa7fe1e092deb",
+    "abbrevHash": "4be5946",
+    "subject": "Add communities and merge comments and posts into one type (posts)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-05T20:48:18.000Z",
+    "interesting": false,
+    "videoId": "li0_4gcY4mw",
+    "videoUrl": "https://youtu.be/li0_4gcY4mw",
+    "videoQP": "?t=19374"
   },
   {
     "repo": "ctzn",
@@ -4669,18 +4945,6 @@
     "videoId": "jIMlZQf-ks0",
     "videoUrl": "https://youtu.be/jIMlZQf-ks0",
     "videoQP": "?t=11757"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "dd3d8623d2d04d54048356efe557ff9d3524b496",
-    "abbrevHash": "dd3d862",
-    "subject": "Accept --port and --domain on start command",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-02T20:48:12.000Z",
-    "interesting": false,
-    "videoId": "jIMlZQf-ks0",
-    "videoUrl": "https://youtu.be/jIMlZQf-ks0",
-    "videoQP": "?t=9237"
   },
   {
     "repo": "ctzn",
