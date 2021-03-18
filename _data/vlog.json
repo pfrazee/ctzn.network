@@ -1,5 +1,77 @@
 [
   {
+    "repo": "ctznry",
+    "hash": "9c25dd933a9fdcf678a6878e58d5ad40bb4fe57d",
+    "abbrevHash": "9c25dd9",
+    "subject": "Fix CSPs in vercel config",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-18T00:04:42.000Z",
+    "interesting": false,
+    "videoId": "YMw1fFQql7w",
+    "videoUrl": "https://youtu.be/YMw1fFQql7w",
+    "videoQP": "?t=14974"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "49ac200e376bc0827e31fee3c0eb94bc970ef819",
+    "abbrevHash": "49ac200",
+    "subject": "Add basic virtual management UIs",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-18T00:01:17.000Z",
+    "interesting": false,
+    "videoId": "YMw1fFQql7w",
+    "videoUrl": "https://youtu.be/YMw1fFQql7w",
+    "videoQP": "?t=14769"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "8de8a6698f2ea1a6d2d40aa1f93cf369f667ffeb",
+    "abbrevHash": "8de8a66",
+    "subject": "0.19.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-18T00:00:38.000Z",
+    "interesting": false,
+    "videoId": "YMw1fFQql7w",
+    "videoUrl": "https://youtu.be/YMw1fFQql7w",
+    "videoQP": "?t=14730"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "655b0a2bfd00933c0d430a073b992805281b2b27",
+    "abbrevHash": "655b0a2",
+    "subject": "Fix bug in transfer-item-method",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-17T23:58:45.000Z",
+    "interesting": false,
+    "videoId": "YMw1fFQql7w",
+    "videoUrl": "https://youtu.be/YMw1fFQql7w",
+    "videoQP": "?t=14617"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "96f142c4d724055137f5e4c29278646497eef537",
+    "abbrevHash": "96f142c",
+    "subject": "Implement ctzn.network/owned-items-view",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-17T21:15:50.000Z",
+    "interesting": false,
+    "videoId": "YMw1fFQql7w",
+    "videoUrl": "https://youtu.be/YMw1fFQql7w",
+    "videoQP": "?t=4842"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "b02b9ccfc2837cfa1a5f8c5b06db4258d63d9420",
+    "abbrevHash": "b02b9cc",
+    "subject": "Add owned-items-idx",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-17T21:02:15.000Z",
+    "interesting": false,
+    "videoId": "YMw1fFQql7w",
+    "videoUrl": "https://youtu.be/YMw1fFQql7w",
+    "videoQP": "?t=4027"
+  },
+  {
     "repo": "ctzn",
     "hash": "0613b7daf3c26a9d0abf359f44cb0225a3c41d40",
     "abbrevHash": "0613b7d",
@@ -2227,6 +2299,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "7e5a34879810f164f6924bb3be9e4e4e721ae567",
+    "abbrevHash": "7e5a348",
+    "subject": "Reposition the logout button in the menu on mobile",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-01T20:21:13.000Z",
+    "interesting": false,
+    "videoId": "6VcKU_8YAgs",
+    "videoUrl": "https://youtu.be/6VcKU_8YAgs",
+    "videoQP": "?t=17051"
+  },
+  {
+    "repo": "ctznry",
     "hash": "9bd1aaa5d46176f60106dfba9eba8e2373204e1b",
     "abbrevHash": "9bd1aaa",
     "subject": "Fix: avoid putting type=submit on non-button HTML",
@@ -2236,18 +2320,6 @@
     "videoId": "6VcKU_8YAgs",
     "videoUrl": "https://youtu.be/6VcKU_8YAgs",
     "videoQP": "?t=16919"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "a6f7b97d9bb6444784f0f1ae9ecacba32bc73985",
-    "abbrevHash": "a6f7b97",
-    "subject": "Improve mobile menu behavior (fix visual bugs, handle clicks outside)",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-01T20:09:41.000Z",
-    "interesting": false,
-    "videoId": "6VcKU_8YAgs",
-    "videoUrl": "https://youtu.be/6VcKU_8YAgs",
-    "videoQP": "?t=16359"
   },
   {
     "repo": "ctznry",
@@ -2542,6 +2614,15 @@
   },
   {
     "repo": "ctzn",
+    "hash": "a3bf422ae60ab4a77150ca95cac85682960f6098",
+    "abbrevHash": "a3bf422",
+    "subject": "Expect nullability consistently",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-26T21:04:26.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctzn",
     "hash": "02f2f4aab62e0c6e6681700fda3895a7c090711a",
     "abbrevHash": "02f2f4a",
     "subject": "small bit of roadmap formatting",
@@ -2575,18 +2656,6 @@
     "videoId": "RyObd_MAUkg",
     "videoUrl": "https://youtu.be/RyObd_MAUkg",
     "videoQP": "?t=14853"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "d153ea6dc7e59c9cad8be6caba8ef3b9d05b6031",
-    "abbrevHash": "d153ea6",
-    "subject": "Add timeouts to all hyperbee reads",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-26T20:31:47.000Z",
-    "interesting": false,
-    "videoId": "RyObd_MAUkg",
-    "videoUrl": "https://youtu.be/RyObd_MAUkg",
-    "videoQP": "?t=14798"
   },
   {
     "repo": "ctzn",
@@ -4408,6 +4477,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "61c7303ae522d8a247bd41312e00f3e6711abc6d",
+    "abbrevHash": "61c7303",
+    "subject": "Redirect notifications page to home if logged out",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-09T17:06:46.000Z",
+    "interesting": false,
+    "videoId": "FxoZBXNDmK4",
+    "videoUrl": "https://youtu.be/FxoZBXNDmK4",
+    "videoQP": "?t=5966"
+  },
+  {
+    "repo": "ctznry",
     "hash": "6c5f885f42b4757ab7c7d8513521339f1ff4e64b",
     "abbrevHash": "6c5f885",
     "subject": "Improve the logged out home screen",
@@ -4417,18 +4498,6 @@
     "videoId": "FxoZBXNDmK4",
     "videoUrl": "https://youtu.be/FxoZBXNDmK4",
     "videoQP": "?t=5870"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "4e039cce52441d4f91453f0cda62bdcf9d3ac152",
-    "abbrevHash": "4e039cc",
-    "subject": "Handle user not-found rendering",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-09T16:43:48.000Z",
-    "interesting": false,
-    "videoId": "FxoZBXNDmK4",
-    "videoUrl": "https://youtu.be/FxoZBXNDmK4",
-    "videoQP": "?t=4588"
   },
   {
     "repo": "ctznry",
@@ -4720,6 +4789,18 @@
   },
   {
     "repo": "ctzn",
+    "hash": "be16fe79537ed837159f4fede113cc9a2e42b843",
+    "abbrevHash": "be16fe7",
+    "subject": "Fix userId assignment to loaded databases",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-08T17:16:39.000Z",
+    "interesting": false,
+    "videoId": "MylTaZx2Q_w",
+    "videoUrl": "https://youtu.be/MylTaZx2Q_w",
+    "videoQP": "?t=2619"
+  },
+  {
+    "repo": "ctzn",
     "hash": "40272573b899bd81bbef3ec505e812a473d53e61",
     "abbrevHash": "4027257",
     "subject": "Remove any customization of responses in the hyper gateway",
@@ -4753,18 +4834,6 @@
     "videoId": "MylTaZx2Q_w",
     "videoUrl": "https://youtu.be/MylTaZx2Q_w",
     "videoQP": "?t=951"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "4be59465f565eabd717714de03cfa7fe1e092deb",
-    "abbrevHash": "4be5946",
-    "subject": "Add communities and merge comments and posts into one type (posts)",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-05T20:48:18.000Z",
-    "interesting": false,
-    "videoId": "li0_4gcY4mw",
-    "videoUrl": "https://youtu.be/li0_4gcY4mw",
-    "videoQP": "?t=19374"
   },
   {
     "repo": "ctzn",
