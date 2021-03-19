@@ -664,14 +664,6 @@
     "authorDate": "2021-02-08T17:16:39.000Z"
   },
   {
-    "repo": "ctzn",
-    "hash": "be16fe79537ed837159f4fede113cc9a2e42b843",
-    "abbrevHash": "be16fe7",
-    "subject": "Fix userId assignment to loaded databases",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-08T17:16:39.000Z"
-  },
-  {
     "repo": "ctznry",
     "hash": "dc292bc3f3d9a910ebb05e6f12e5e7bef21ed654",
     "abbrevHash": "dc292bc",
@@ -817,6 +809,14 @@
   },
   {
     "repo": "ctzn",
+    "hash": "f7a3dd3557beafaafb850e012ab17d1423893979",
+    "abbrevHash": "f7a3dd3",
+    "subject": "Tweaks to default community avatar",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-09T15:50:13.000Z"
+  },
+  {
+    "repo": "ctzn",
     "hash": "16ade6276bcd350ce4f02871f97b22ed51427e28",
     "abbrevHash": "16ade62",
     "subject": "Fix output ordering of notifications.list()",
@@ -872,20 +872,20 @@
     "authorDate": "2021-02-09T17:06:46.000Z"
   },
   {
-    "repo": "ctznry",
-    "hash": "61c7303ae522d8a247bd41312e00f3e6711abc6d",
-    "abbrevHash": "61c7303",
-    "subject": "Redirect notifications page to home if logged out",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-09T17:06:46.000Z"
-  },
-  {
     "repo": "ctzn",
     "hash": "d68a44e4e3b69e49e5c25abb47dc0a7b465ac230",
     "abbrevHash": "d68a44e",
     "subject": "Implement accounts.register()",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-09T17:56:42.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "78cc1cafa53c1ef1e14f581d9f26dfd5fd1be8e1",
+    "abbrevHash": "78cc1ca",
+    "subject": "Add temporary signup flow",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-09T17:57:49.000Z"
   },
   {
     "repo": "ctznry",
@@ -2232,14 +2232,6 @@
     "authorDate": "2021-02-26T21:04:26.000Z"
   },
   {
-    "repo": "ctzn",
-    "hash": "a3bf422ae60ab4a77150ca95cac85682960f6098",
-    "abbrevHash": "a3bf422",
-    "subject": "Expect nullability consistently",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-26T21:04:26.000Z"
-  },
-  {
     "repo": "ctznry",
     "hash": "9540e8500455b8cd22ac6133c8e65f6a3bdff6af",
     "abbrevHash": "9540e85",
@@ -2384,6 +2376,14 @@
     "authorDate": "2021-03-01T19:24:12.000Z"
   },
   {
+    "repo": "ctzn",
+    "hash": "66e920d3cb805b98fcefa9a5c353acf125a5ae1b",
+    "abbrevHash": "66e920d",
+    "subject": "0.12.1",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-01T19:24:12.000Z"
+  },
+  {
     "repo": "ctznry",
     "hash": "23bf314aad190ecf05617f333e061bbbacdc10db",
     "abbrevHash": "23bf314",
@@ -2449,11 +2449,11 @@
   },
   {
     "repo": "ctznry",
-    "hash": "7e5a34879810f164f6924bb3be9e4e4e721ae567",
-    "abbrevHash": "7e5a348",
-    "subject": "Reposition the logout button in the menu on mobile",
+    "hash": "36ddfdc5cdbbd626d870509ac83ef94b9583e2ab",
+    "abbrevHash": "36ddfdc",
+    "subject": "Close the header menu when buttons are pressed",
     "authorName": "Paul Frazee",
-    "authorDate": "2021-03-01T20:21:13.000Z"
+    "authorDate": "2021-03-01T20:25:05.000Z"
   },
   {
     "repo": "ctznry",
@@ -3990,5 +3990,61 @@
     "subject": "Fix CSPs in vercel config",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-18T00:04:42.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "8397a717de67e608c5f01d42ebc73a086315fd43",
+    "abbrevHash": "8397a71",
+    "subject": "Add broken notice",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-18T01:37:46.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "8eec5e8ce9923d2ef3f6d7a1d8c0a1e5d1944808",
+    "abbrevHash": "8eec5e8",
+    "subject": "Fix items-test cleanup",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-18T18:32:30.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "642393cf56f610c1b37d4670acba0b2fb987a181",
+    "abbrevHash": "642393c",
+    "subject": "Reimplement indexer to use diffs rather than history stream and to batch updates",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-18T20:36:01.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "28fa84ebf348aa8309fb36cb378214de55d1af6d",
+    "abbrevHash": "28fa84e",
+    "subject": "Hack around bug in hyperbee createDiffStream when using sub()",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-18T21:32:28.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "64b2750fbfdecad2479b9aa100fa1bdf3514532a",
+    "abbrevHash": "64b2750",
+    "subject": "Update the owned-items-idx to use new system",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-18T21:33:21.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "34a5ffe1edcc43838fd17c3f4e113eaa294da4fd",
+    "abbrevHash": "34a5ffe",
+    "subject": "Cache subscriptions in the indexer to decrease reads",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-18T21:54:27.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "c02affee765d01c97a99855168cabf6dcdfbc45d",
+    "abbrevHash": "c02affe",
+    "subject": "Add CPU profiling tool",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-18T22:57:18.000Z"
   }
 ]
