@@ -1,3 +1,3 @@
 # CTZN.network protocol page
 
-https://ctzn.network/
+[Link](https://ctzn.network/)
