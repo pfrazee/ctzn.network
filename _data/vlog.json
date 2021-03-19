@@ -1,6 +1,54 @@
 [
   {
     "repo": "ctzn",
+    "hash": "4d7a1ee7454218e07be07ca6210c3ba03581f3a0",
+    "abbrevHash": "4d7a1ee",
+    "subject": "Apply timeout on put-avatar method",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-19T20:17:01.000Z",
+    "interesting": false,
+    "videoId": "yV2b1vmw_Pc",
+    "videoUrl": "https://youtu.be/yV2b1vmw_Pc",
+    "videoQP": "?t=14816"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "4c7ba17d1baeca484c755911f57f6d0e8d0ab3cb",
+    "abbrevHash": "4c7ba17",
+    "subject": "Apply 'row level' lock on indexer",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-19T20:16:42.000Z",
+    "interesting": false,
+    "videoId": "yV2b1vmw_Pc",
+    "videoUrl": "https://youtu.be/yV2b1vmw_Pc",
+    "videoQP": "?t=14797"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "2f7b32174818862aaa137a2656548be7b84cc951",
+    "abbrevHash": "2f7b321",
+    "subject": "Rearchitect indexing to put all indexes on the public server db rather than individual user databases",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-19T19:55:15.000Z",
+    "interesting": false,
+    "videoId": "yV2b1vmw_Pc",
+    "videoUrl": "https://youtu.be/yV2b1vmw_Pc",
+    "videoQP": "?t=13510"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "44a648a7b7c0e4c3e225fd62c62b7da450a0f027",
+    "abbrevHash": "44a648a",
+    "subject": "Update follows to use new view",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-19T19:54:07.000Z",
+    "interesting": false,
+    "videoId": "yV2b1vmw_Pc",
+    "videoUrl": "https://youtu.be/yV2b1vmw_Pc",
+    "videoQP": "?t=13442"
+  },
+  {
+    "repo": "ctzn",
     "hash": "c02affee765d01c97a99855168cabf6dcdfbc45d",
     "abbrevHash": "c02affe",
     "subject": "Add CPU profiling tool",
@@ -70,15 +118,6 @@
     "videoId": "xwTeR_jRAVw",
     "videoUrl": "https://youtu.be/xwTeR_jRAVw",
     "videoQP": "?t=9262"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "8397a717de67e608c5f01d42ebc73a086315fd43",
-    "abbrevHash": "8397a71",
-    "subject": "Add broken notice",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-18T01:37:46.000Z",
-    "interesting": false
   },
   {
     "repo": "ctznry",
@@ -2199,6 +2238,18 @@
     "videoQP": "?t=1201"
   },
   {
+    "repo": "ctzn",
+    "hash": "96c5d2f32af9c561265dfdb518c4993e37ee9bb1",
+    "abbrevHash": "96c5d2f",
+    "subject": "Add etag caching headers & behaviors to avatar hosting",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-02T17:32:09.000Z",
+    "interesting": false,
+    "videoId": "t17pO4Bnvbo",
+    "videoUrl": "https://youtu.be/t17pO4Bnvbo",
+    "videoQP": "?t=1201"
+  },
+  {
     "repo": "ctznry",
     "hash": "4765db42f6ffdcfc0021f28e44386f05ff8e2624",
     "abbrevHash": "4765db4",
@@ -2473,18 +2524,6 @@
     "videoId": "6VcKU_8YAgs",
     "videoUrl": "https://youtu.be/6VcKU_8YAgs",
     "videoQP": "?t=13654"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "66e920d3cb805b98fcefa9a5c353acf125a5ae1b",
-    "abbrevHash": "66e920d",
-    "subject": "0.12.1",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-01T19:24:12.000Z",
-    "interesting": false,
-    "videoId": "6VcKU_8YAgs",
-    "videoUrl": "https://youtu.be/6VcKU_8YAgs",
-    "videoQP": "?t=13630"
   },
   {
     "repo": "ctzn",
@@ -4608,6 +4647,18 @@
     "videoQP": "?t=3410"
   },
   {
+    "repo": "ctzn",
+    "hash": "fd2e9d87d82903d9a85afb1521e176b8bb923baf",
+    "abbrevHash": "fd2e9d8",
+    "subject": "Add hyperspaceHost and hyperspaceStorage config params",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-09T16:24:10.000Z",
+    "interesting": false,
+    "videoId": "FxoZBXNDmK4",
+    "videoUrl": "https://youtu.be/FxoZBXNDmK4",
+    "videoQP": "?t=3410"
+  },
+  {
     "repo": "ctznry",
     "hash": "08e292b6ee1db32590d7e346b7a8acb327f0086a",
     "abbrevHash": "08e292b",
@@ -4642,18 +4693,6 @@
     "videoId": "FxoZBXNDmK4",
     "videoUrl": "https://youtu.be/FxoZBXNDmK4",
     "videoQP": "?t=1822"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "f7a3dd3557beafaafb850e012ab17d1423893979",
-    "abbrevHash": "f7a3dd3",
-    "subject": "Tweaks to default community avatar",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-09T15:50:13.000Z",
-    "interesting": false,
-    "videoId": "FxoZBXNDmK4",
-    "videoUrl": "https://youtu.be/FxoZBXNDmK4",
-    "videoQP": "?t=1373"
   },
   {
     "repo": "ctzn",
