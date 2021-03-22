@@ -1,6 +1,90 @@
 [
   {
     "repo": "ctzn",
+    "hash": "a7ae42b2a813bdf13c4b44a327787a126b1bae47",
+    "abbrevHash": "a7ae42b",
+    "subject": "0.20.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-22T20:05:26.000Z",
+    "interesting": false,
+    "videoId": "TvNVmkE12Ns",
+    "videoUrl": "https://youtu.be/TvNVmkE12Ns",
+    "videoQP": "?t=18140"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "49a74d522504084ef2539d2cc89db4ac37b351bf",
+    "abbrevHash": "49a74d5",
+    "subject": "Remove logging",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-22T20:04:58.000Z",
+    "interesting": false,
+    "videoId": "TvNVmkE12Ns",
+    "videoUrl": "https://youtu.be/TvNVmkE12Ns",
+    "videoQP": "?t=18112"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "1387deac6f65f4a7eb016b3d12c052e853aa1985",
+    "abbrevHash": "1387dea",
+    "subject": "Correctly load cross-server feed view",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-22T20:01:33.000Z",
+    "interesting": false,
+    "videoId": "TvNVmkE12Ns",
+    "videoUrl": "https://youtu.be/TvNVmkE12Ns",
+    "videoQP": "?t=17907"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "74b84a5cf1e8780a5f648b76da5a11d32f19d1cb",
+    "abbrevHash": "74b84a5",
+    "subject": "Add the ability to address server DBs at reserved server@{domain} userID",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-22T18:54:09.000Z",
+    "interesting": false,
+    "videoId": "TvNVmkE12Ns",
+    "videoUrl": "https://youtu.be/TvNVmkE12Ns",
+    "videoQP": "?t=13863"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "82bcb6b45bf2e3489498ffc56ac57f34db001125",
+    "abbrevHash": "82bcb6b",
+    "subject": "Add indexes rebuilding tool",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-22T18:03:41.000Z",
+    "interesting": false,
+    "videoId": "TvNVmkE12Ns",
+    "videoUrl": "https://youtu.be/TvNVmkE12Ns",
+    "videoQP": "?t=10835"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "642fd3aad9f7fb44babdd6ff0ba35a47943039f6",
+    "abbrevHash": "642fd3a",
+    "subject": "Fix feed index ordering",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-22T18:02:47.000Z",
+    "interesting": false,
+    "videoId": "TvNVmkE12Ns",
+    "videoUrl": "https://youtu.be/TvNVmkE12Ns",
+    "videoQP": "?t=10781"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "57540f78e73708db92844b0b7805acc26ccfcda8",
+    "abbrevHash": "57540f7",
+    "subject": "Fix 'isFollowingMe'",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-22T16:54:10.000Z",
+    "interesting": false,
+    "videoId": "TvNVmkE12Ns",
+    "videoUrl": "https://youtu.be/TvNVmkE12Ns",
+    "videoQP": "?t=6664"
+  },
+  {
+    "repo": "ctzn",
     "hash": "4d7a1ee7454218e07be07ca6210c3ba03581f3a0",
     "abbrevHash": "4d7a1ee",
     "subject": "Apply timeout on put-avatar method",
@@ -1963,6 +2047,18 @@
   },
   {
     "repo": "ctzn",
+    "hash": "e1ff2835a4efe48a3d3124db651d96f7283da877",
+    "abbrevHash": "e1ff283",
+    "subject": "0.13.1",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-02T22:18:40.000Z",
+    "interesting": false,
+    "videoId": "t17pO4Bnvbo",
+    "videoUrl": "https://youtu.be/t17pO4Bnvbo",
+    "videoQP": "?t=18392"
+  },
+  {
+    "repo": "ctzn",
     "hash": "ddd7e73159c38bba9f5432eb1795c05ad626fa78",
     "abbrevHash": "ddd7e73",
     "subject": "Make the user database handling case insensitive (stops registration of 2 dbs with the same userId)",
@@ -2238,18 +2334,6 @@
     "videoQP": "?t=1201"
   },
   {
-    "repo": "ctzn",
-    "hash": "96c5d2f32af9c561265dfdb518c4993e37ee9bb1",
-    "abbrevHash": "96c5d2f",
-    "subject": "Add etag caching headers & behaviors to avatar hosting",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-02T17:32:09.000Z",
-    "interesting": false,
-    "videoId": "t17pO4Bnvbo",
-    "videoUrl": "https://youtu.be/t17pO4Bnvbo",
-    "videoQP": "?t=1201"
-  },
-  {
     "repo": "ctznry",
     "hash": "4765db42f6ffdcfc0021f28e44386f05ff8e2624",
     "abbrevHash": "4765db4",
@@ -2407,15 +2491,15 @@
   },
   {
     "repo": "ctznry",
-    "hash": "36ddfdc5cdbbd626d870509ac83ef94b9583e2ab",
-    "abbrevHash": "36ddfdc",
-    "subject": "Close the header menu when buttons are pressed",
+    "hash": "7ed2d89db1eef517782bf9e3613930edd9bfc1aa",
+    "abbrevHash": "7ed2d89",
+    "subject": "Handle swipes to the right on mobile by opening the menu",
     "authorName": "Paul Frazee",
-    "authorDate": "2021-03-01T20:25:05.000Z",
+    "authorDate": "2021-03-01T20:34:06.000Z",
     "interesting": false,
     "videoId": "6VcKU_8YAgs",
     "videoUrl": "https://youtu.be/6VcKU_8YAgs",
-    "videoQP": "?t=17283"
+    "videoQP": "?t=17824"
   },
   {
     "repo": "ctznry",
@@ -4432,6 +4516,18 @@
   },
   {
     "repo": "ctzn",
+    "hash": "d97d3a18c482d737f4974fd87fa924544a785ee0",
+    "abbrevHash": "d97d3a1",
+    "subject": "Add shebang to bin.js",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-09T20:15:25.000Z",
+    "interesting": false,
+    "videoId": "FxoZBXNDmK4",
+    "videoUrl": "https://youtu.be/FxoZBXNDmK4",
+    "videoQP": "?t=17285"
+  },
+  {
+    "repo": "ctzn",
     "hash": "d8e9c2a6bc4737a4d925f6b6ef0e04770d2c828a",
     "abbrevHash": "d8e9c2a",
     "subject": "0.1.1",
@@ -4551,6 +4647,18 @@
     "videoQP": "?t=13345"
   },
   {
+    "repo": "ctznry",
+    "hash": "bcb92571ed0bacead5d3cc49d7d3dbbfa1d974a5",
+    "abbrevHash": "bcb9257",
+    "subject": "Add static .html files",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-09T19:09:45.000Z",
+    "interesting": false,
+    "videoId": "FxoZBXNDmK4",
+    "videoUrl": "https://youtu.be/FxoZBXNDmK4",
+    "videoQP": "?t=13345"
+  },
+  {
     "repo": "ctzn",
     "hash": "9c368fd13ffff7ded958d783af157aaae2833be7",
     "abbrevHash": "9c368fd",
@@ -4561,18 +4669,6 @@
     "videoId": "FxoZBXNDmK4",
     "videoUrl": "https://youtu.be/FxoZBXNDmK4",
     "videoQP": "?t=10415"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "78cc1cafa53c1ef1e14f581d9f26dfd5fd1be8e1",
-    "abbrevHash": "78cc1ca",
-    "subject": "Add temporary signup flow",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-09T17:57:49.000Z",
-    "interesting": false,
-    "videoId": "FxoZBXNDmK4",
-    "videoUrl": "https://youtu.be/FxoZBXNDmK4",
-    "videoQP": "?t=9029"
   },
   {
     "repo": "ctznry",
@@ -4633,18 +4729,6 @@
     "videoId": "FxoZBXNDmK4",
     "videoUrl": "https://youtu.be/FxoZBXNDmK4",
     "videoQP": "?t=4588"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "fd2e9d87d82903d9a85afb1521e176b8bb923baf",
-    "abbrevHash": "fd2e9d8",
-    "subject": "Add hyperspaceHost and hyperspaceStorage config params",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-09T16:24:10.000Z",
-    "interesting": false,
-    "videoId": "FxoZBXNDmK4",
-    "videoUrl": "https://youtu.be/FxoZBXNDmK4",
-    "videoQP": "?t=3410"
   },
   {
     "repo": "ctzn",
