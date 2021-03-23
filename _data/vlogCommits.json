@@ -897,14 +897,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "bcb92571ed0bacead5d3cc49d7d3dbbfa1d974a5",
-    "abbrevHash": "bcb9257",
-    "subject": "Add static .html files",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-09T19:09:45.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "fa2ae659b83ed1ab55762e6dfb63bffb377b45f3",
     "abbrevHash": "fa2ae65",
     "subject": "Add vercel.json with user route",
@@ -1070,6 +1062,14 @@
     "subject": "Use https by default on HTTP_ENDPOINT 'constants'",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-10T17:52:47.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "94be2242e5dcec18a66ad88667eb5d5d1304a24a",
+    "abbrevHash": "94be224",
+    "subject": "Fix a couple overflow issues",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-10T18:04:35.000Z"
   },
   {
     "repo": "ctznry",
@@ -2457,14 +2457,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "7ed2d89db1eef517782bf9e3613930edd9bfc1aa",
-    "abbrevHash": "7ed2d89",
-    "subject": "Handle swipes to the right on mobile by opening the menu",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-01T20:34:06.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "480bff09e863991e0a75dccff120e0fb2d756e1f",
     "abbrevHash": "480bff0",
     "subject": "Improve spacing and sizing of popups on mobile",
@@ -2582,6 +2574,14 @@
     "subject": "Enforce an avatar file-size limit",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-02T17:50:29.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "1d90a2b9b6d071f8c02e719a8088adbc27c60d6c",
+    "abbrevHash": "1d90a2b",
+    "subject": "Resize avatar during signup",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-02T17:58:16.000Z"
   },
   {
     "repo": "ctznry",
@@ -4126,5 +4126,93 @@
     "subject": "0.20.0",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-22T20:05:26.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "a5e0e2410ee3119ea9268a326151f1e407aaf9c5",
+    "abbrevHash": "a5e0e24",
+    "subject": "Rework mobile shell - remove top bar and use only bottom bar",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-23T15:30:54.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "a4b531165de6562850553f48d5920901080029bc",
+    "abbrevHash": "a4b5311",
+    "subject": "Add 'frosted transparent' effect to mobile bot nav",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-23T15:43:35.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "d6c86054664616525ab62bed390d1292e5112b48",
+    "abbrevHash": "d6c8605",
+    "subject": "Add prefix for backdrop-filter effect",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-23T15:51:19.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "ecb95eb4e2000e0b704361a7fd6c3e2d2772813c",
+    "abbrevHash": "ecb95eb",
+    "subject": "Rework profile headers",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-23T16:53:36.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "75959e954f667a0b99759a068f1eb976b33dbdde",
+    "abbrevHash": "75959e9",
+    "subject": "Tweaks and fixes to profile, including scrollable nav on mobile",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-23T17:45:41.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "9f89c291ffd7743cebb9bc4f5d1466f111dd5aa0",
+    "abbrevHash": "9f89c29",
+    "subject": "Profile page for citizens merge network into 'about'; start using square profile pics",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-23T20:25:27.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "b8a38a7cb6a1a1c3f0db6f65079f5cf1897ef1e6",
+    "abbrevHash": "b8a38a7",
+    "subject": "More profile updates, including moving members into about for communities",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-23T21:02:44.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "b751debd6b723e3f61274145fb3a0c206c003969",
+    "abbrevHash": "b751deb",
+    "subject": "Rework shell and nav",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-23T22:53:17.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "5429d5296b0ff4e2fd05f4299adea37110b59aff",
+    "abbrevHash": "5429d52",
+    "subject": "Visual tweaks",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-23T23:05:11.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "dac1175e23ff0d7fb72874ea60f1440881939182",
+    "abbrevHash": "dac1175",
+    "subject": "Add 'new post' header to home for desktop, fix 'new post' on mobile",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-23T23:25:51.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "663c3772c4089c3d21df13f3f2f8442159ab9a2f",
+    "abbrevHash": "663c377",
+    "subject": "Fix: load feed on post event",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-23T23:37:48.000Z"
   }
 ]
