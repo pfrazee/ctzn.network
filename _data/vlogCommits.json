@@ -977,14 +977,6 @@
   },
   {
     "repo": "ctzn",
-    "hash": "d97d3a18c482d737f4974fd87fa924544a785ee0",
-    "abbrevHash": "d97d3a1",
-    "subject": "Add shebang to bin.js",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-09T20:15:25.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "358cfabfaba987b62c59b8a547b6906fc0347e5d",
     "abbrevHash": "358cfab",
     "subject": "0.1.2",
@@ -1006,6 +998,14 @@
     "subject": "Fix view path configuration",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-09T20:24:25.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "359c47effd3d1a560147a4e278a896d28c5012ac",
+    "abbrevHash": "359c47e",
+    "subject": "0.1.3",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-09T20:24:34.000Z"
   },
   {
     "repo": "ctzn",
@@ -1062,14 +1062,6 @@
     "subject": "Use https by default on HTTP_ENDPOINT 'constants'",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-10T17:52:47.000Z"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "94be2242e5dcec18a66ad88667eb5d5d1304a24a",
-    "abbrevHash": "94be224",
-    "subject": "Fix a couple overflow issues",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-10T18:04:35.000Z"
   },
   {
     "repo": "ctznry",
@@ -1190,6 +1182,14 @@
     "subject": "Update composer to use tailwinds",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-10T21:49:35.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "d0f2dc92d1dde6fd7a6672b3286eeec3887df772",
+    "abbrevHash": "d0f2dc9",
+    "subject": "Update feed to use tailwind",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-10T21:57:01.000Z"
   },
   {
     "repo": "ctznry",
@@ -2585,14 +2585,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "1d90a2b9b6d071f8c02e719a8088adbc27c60d6c",
-    "abbrevHash": "1d90a2b",
-    "subject": "Resize avatar during signup",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-02T17:58:16.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "e05c1513a9aa211fa231ccbf994129981c2e911b",
     "abbrevHash": "e05c151",
     "subject": "Dont put target=_blank on linkified urls",
@@ -2662,6 +2654,14 @@
     "subject": "Handle empty-states in suggested communities",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-02T19:38:10.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "7df5697543a44a4f9322594818f994e8149edb0c",
+    "abbrevHash": "7df5697",
+    "subject": "Increase threshold for detecting right-swipes",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-02T19:42:32.000Z"
   },
   {
     "repo": "ctznry",
@@ -2753,14 +2753,6 @@
   },
   {
     "repo": "ctzn",
-    "hash": "e1ff2835a4efe48a3d3124db651d96f7283da877",
-    "abbrevHash": "e1ff283",
-    "subject": "0.13.1",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-02T22:18:40.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "96477bf9986449459720eca5fbcd43edba6c05d9",
     "abbrevHash": "96477bf",
     "subject": "More information for creating a PTR Setup",
@@ -2790,6 +2782,14 @@
     "subject": "Add accounts TUI and a tool to delete users",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-03T20:34:07.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "f36dba6b97a76fd088438f207805e3a50208d025",
+    "abbrevHash": "f36dba6",
+    "subject": "0.14.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-03T20:34:09.000Z"
   },
   {
     "repo": "ctzn",
@@ -4214,5 +4214,101 @@
     "subject": "Fix: load feed on post event",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-23T23:37:48.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "95551132b6488247ec3ca6d08d3cb05cefc43c63",
+    "abbrevHash": "9555113",
+    "subject": "Add put-blob-method",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T18:21:34.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "420d43560964c1f7d22512a6aa25c25e61bea816",
+    "abbrevHash": "420d435",
+    "subject": "0.21.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T18:21:38.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "ab4a51a8159521a11cd8689d7ecd95c2a357c18b",
+    "abbrevHash": "ab4a51a",
+    "subject": "Fix: filter out not-found entries in the feed",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T18:23:14.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "e7e372cdef0d18381ba4092e1f858c075a260392",
+    "abbrevHash": "e7e372c",
+    "subject": "0.21.1",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T18:23:19.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "4a72bc842a746c0ca0b9556a14bcc71490438d2d",
+    "abbrevHash": "4a72bc8",
+    "subject": "Add profile-banner to edit profile controls",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T18:23:58.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "429ec3d7646430fb94b77b8401a95446cc5f7127",
+    "abbrevHash": "429ec3d",
+    "subject": "Add 'view media' popup that triggers on clicking an avatar",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T18:53:32.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "23703c2e19aa5920304dcb01e3d3feac1e787f6d",
+    "abbrevHash": "23703c2",
+    "subject": "Open and scroll to expandable sections in profiles when clicking on metrics",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T19:13:57.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "65a0c70eabd77069d6e97a85b252e268ba6527d3",
+    "abbrevHash": "65a0c70",
+    "subject": "Rework the 'post-view'",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T20:39:49.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "ca8247f7fe055a850268005a55e003af18958411",
+    "abbrevHash": "ca8247f",
+    "subject": "Update the communities page to match aesthetic updates",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T20:52:24.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "dfb89b6e5ece61b4b3702a6a36f09cfc4d1cf7cc",
+    "abbrevHash": "dfb89b6",
+    "subject": "Lighten the user info on the right side when viewing a post",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T21:13:20.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "82231b87998337d0037b6af468cf2cd0c1c13b12",
+    "abbrevHash": "82231b8",
+    "subject": "Update the aesthetics of notifications to match everything else",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T21:19:20.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "4de9c7ef7ec388e7932a3fa7a03e1a384ff5017e",
+    "abbrevHash": "4de9c7e",
+    "subject": "Add comment-composer popup for mobile",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T21:45:56.000Z"
   }
 ]

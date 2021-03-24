@@ -1,6 +1,150 @@
 [
   {
     "repo": "ctznry",
+    "hash": "4de9c7ef7ec388e7932a3fa7a03e1a384ff5017e",
+    "abbrevHash": "4de9c7e",
+    "subject": "Add comment-composer popup for mobile",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T21:45:56.000Z",
+    "interesting": false,
+    "videoId": "xPFZHQN5y94",
+    "videoUrl": "https://youtu.be/xPFZHQN5y94",
+    "videoQP": "?t=18985"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "82231b87998337d0037b6af468cf2cd0c1c13b12",
+    "abbrevHash": "82231b8",
+    "subject": "Update the aesthetics of notifications to match everything else",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T21:19:20.000Z",
+    "interesting": false,
+    "videoId": "xPFZHQN5y94",
+    "videoUrl": "https://youtu.be/xPFZHQN5y94",
+    "videoQP": "?t=17389"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "dfb89b6e5ece61b4b3702a6a36f09cfc4d1cf7cc",
+    "abbrevHash": "dfb89b6",
+    "subject": "Lighten the user info on the right side when viewing a post",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T21:13:20.000Z",
+    "interesting": false,
+    "videoId": "xPFZHQN5y94",
+    "videoUrl": "https://youtu.be/xPFZHQN5y94",
+    "videoQP": "?t=17029"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "ca8247f7fe055a850268005a55e003af18958411",
+    "abbrevHash": "ca8247f",
+    "subject": "Update the communities page to match aesthetic updates",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T20:52:24.000Z",
+    "interesting": false,
+    "videoId": "xPFZHQN5y94",
+    "videoUrl": "https://youtu.be/xPFZHQN5y94",
+    "videoQP": "?t=15773"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "65a0c70eabd77069d6e97a85b252e268ba6527d3",
+    "abbrevHash": "65a0c70",
+    "subject": "Rework the 'post-view'",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T20:39:49.000Z",
+    "interesting": false,
+    "videoId": "xPFZHQN5y94",
+    "videoUrl": "https://youtu.be/xPFZHQN5y94",
+    "videoQP": "?t=15018"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "23703c2e19aa5920304dcb01e3d3feac1e787f6d",
+    "abbrevHash": "23703c2",
+    "subject": "Open and scroll to expandable sections in profiles when clicking on metrics",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T19:13:57.000Z",
+    "interesting": false,
+    "videoId": "xPFZHQN5y94",
+    "videoUrl": "https://youtu.be/xPFZHQN5y94",
+    "videoQP": "?t=9866"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "429ec3d7646430fb94b77b8401a95446cc5f7127",
+    "abbrevHash": "429ec3d",
+    "subject": "Add 'view media' popup that triggers on clicking an avatar",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T18:53:32.000Z",
+    "interesting": false,
+    "videoId": "xPFZHQN5y94",
+    "videoUrl": "https://youtu.be/xPFZHQN5y94",
+    "videoQP": "?t=8641"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "4a72bc842a746c0ca0b9556a14bcc71490438d2d",
+    "abbrevHash": "4a72bc8",
+    "subject": "Add profile-banner to edit profile controls",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T18:23:58.000Z",
+    "interesting": false,
+    "videoId": "xPFZHQN5y94",
+    "videoUrl": "https://youtu.be/xPFZHQN5y94",
+    "videoQP": "?t=6867"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "e7e372cdef0d18381ba4092e1f858c075a260392",
+    "abbrevHash": "e7e372c",
+    "subject": "0.21.1",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T18:23:19.000Z",
+    "interesting": false,
+    "videoId": "xPFZHQN5y94",
+    "videoUrl": "https://youtu.be/xPFZHQN5y94",
+    "videoQP": "?t=6828"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "ab4a51a8159521a11cd8689d7ecd95c2a357c18b",
+    "abbrevHash": "ab4a51a",
+    "subject": "Fix: filter out not-found entries in the feed",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T18:23:14.000Z",
+    "interesting": false,
+    "videoId": "xPFZHQN5y94",
+    "videoUrl": "https://youtu.be/xPFZHQN5y94",
+    "videoQP": "?t=6823"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "420d43560964c1f7d22512a6aa25c25e61bea816",
+    "abbrevHash": "420d435",
+    "subject": "0.21.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T18:21:38.000Z",
+    "interesting": false,
+    "videoId": "xPFZHQN5y94",
+    "videoUrl": "https://youtu.be/xPFZHQN5y94",
+    "videoQP": "?t=6727"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "95551132b6488247ec3ca6d08d3cb05cefc43c63",
+    "abbrevHash": "9555113",
+    "subject": "Add put-blob-method",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T18:21:34.000Z",
+    "interesting": false,
+    "videoId": "xPFZHQN5y94",
+    "videoUrl": "https://youtu.be/xPFZHQN5y94",
+    "videoQP": "?t=6723"
+  },
+  {
+    "repo": "ctznry",
     "hash": "663c3772c4089c3d21df13f3f2f8442159ab9a2f",
     "abbrevHash": "663c377",
     "subject": "Fix: load feed on post event",
@@ -2125,6 +2269,18 @@
   },
   {
     "repo": "ctzn",
+    "hash": "f36dba6b97a76fd088438f207805e3a50208d025",
+    "abbrevHash": "f36dba6",
+    "subject": "0.14.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-03T20:34:09.000Z",
+    "interesting": false,
+    "videoId": "2td-CHJqgl4",
+    "videoUrl": "https://youtu.be/2td-CHJqgl4",
+    "videoQP": "?t=2791"
+  },
+  {
+    "repo": "ctzn",
     "hash": "d9f7fc24f442089eef4ba1b5630fc63be246b8cd",
     "abbrevHash": "d9f7fc2",
     "subject": "Add accounts TUI and a tool to delete users",
@@ -2164,18 +2320,6 @@
     "authorName": "Martin Heidegger",
     "authorDate": "2021-03-03T15:25:54.000Z",
     "interesting": false
-  },
-  {
-    "repo": "ctzn",
-    "hash": "e1ff2835a4efe48a3d3124db651d96f7283da877",
-    "abbrevHash": "e1ff283",
-    "subject": "0.13.1",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-02T22:18:40.000Z",
-    "interesting": false,
-    "videoId": "t17pO4Bnvbo",
-    "videoUrl": "https://youtu.be/t17pO4Bnvbo",
-    "videoQP": "?t=18392"
   },
   {
     "repo": "ctzn",
@@ -2311,6 +2455,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "7df5697543a44a4f9322594818f994e8149edb0c",
+    "abbrevHash": "7df5697",
+    "subject": "Increase threshold for detecting right-swipes",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-02T19:42:32.000Z",
+    "interesting": false,
+    "videoId": "t17pO4Bnvbo",
+    "videoUrl": "https://youtu.be/t17pO4Bnvbo",
+    "videoQP": "?t=9024"
+  },
+  {
+    "repo": "ctznry",
     "hash": "4efe80432c64ce11b891b698e5e255d1d67fbe40",
     "abbrevHash": "4efe804",
     "subject": "Handle empty-states in suggested communities",
@@ -2416,18 +2572,6 @@
     "videoId": "t17pO4Bnvbo",
     "videoUrl": "https://youtu.be/t17pO4Bnvbo",
     "videoQP": "?t=2843"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "1d90a2b9b6d071f8c02e719a8088adbc27c60d6c",
-    "abbrevHash": "1d90a2b",
-    "subject": "Resize avatar during signup",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-02T17:58:16.000Z",
-    "interesting": false,
-    "videoId": "t17pO4Bnvbo",
-    "videoUrl": "https://youtu.be/t17pO4Bnvbo",
-    "videoQP": "?t=2768"
   },
   {
     "repo": "ctznry",
@@ -4342,6 +4486,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "d0f2dc92d1dde6fd7a6672b3286eeec3887df772",
+    "abbrevHash": "d0f2dc9",
+    "subject": "Update feed to use tailwind",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-10T21:57:01.000Z",
+    "interesting": false,
+    "videoId": "V63gfYGxwaM",
+    "videoUrl": "https://youtu.be/V63gfYGxwaM",
+    "videoQP": "?t=18073"
+  },
+  {
+    "repo": "ctznry",
     "hash": "2102d61504752fe68f181da2905dab39de681f3d",
     "abbrevHash": "2102d61",
     "subject": "Update composer to use tailwinds",
@@ -4522,18 +4678,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "94be2242e5dcec18a66ad88667eb5d5d1304a24a",
-    "abbrevHash": "94be224",
-    "subject": "Fix a couple overflow issues",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-10T18:04:35.000Z",
-    "interesting": false,
-    "videoId": "V63gfYGxwaM",
-    "videoUrl": "https://youtu.be/V63gfYGxwaM",
-    "videoQP": "?t=4127"
-  },
-  {
-    "repo": "ctznry",
     "hash": "3006a0acfa71808b84545e5ec34d2ab5bab88cfb",
     "abbrevHash": "3006a0a",
     "subject": "Use https by default on HTTP_ENDPOINT 'constants'",
@@ -4612,6 +4756,18 @@
   },
   {
     "repo": "ctzn",
+    "hash": "359c47effd3d1a560147a4e278a896d28c5012ac",
+    "abbrevHash": "359c47e",
+    "subject": "0.1.3",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-09T20:24:34.000Z",
+    "interesting": false,
+    "videoId": "FxoZBXNDmK4",
+    "videoUrl": "https://youtu.be/FxoZBXNDmK4",
+    "videoQP": "?t=17834"
+  },
+  {
+    "repo": "ctzn",
     "hash": "b17b75ce1eb496217a68d835871e96d0b3346865",
     "abbrevHash": "b17b75c",
     "subject": "Fix view path configuration",
@@ -4645,18 +4801,6 @@
     "videoId": "FxoZBXNDmK4",
     "videoUrl": "https://youtu.be/FxoZBXNDmK4",
     "videoQP": "?t=17288"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "d97d3a18c482d737f4974fd87fa924544a785ee0",
-    "abbrevHash": "d97d3a1",
-    "subject": "Add shebang to bin.js",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-09T20:15:25.000Z",
-    "interesting": false,
-    "videoId": "FxoZBXNDmK4",
-    "videoUrl": "https://youtu.be/FxoZBXNDmK4",
-    "videoQP": "?t=17285"
   },
   {
     "repo": "ctzn",
