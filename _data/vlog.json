@@ -1,6 +1,42 @@
 [
   {
     "repo": "ctznry",
+    "hash": "9c026e67a29763a84d09500a74af7dcaf7757e1d",
+    "abbrevHash": "9c026e6",
+    "subject": "Fix logged-out view of user profiles",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-25T22:24:56.000Z",
+    "interesting": false,
+    "videoId": "FfyEuARVnCA",
+    "videoUrl": "https://youtu.be/FfyEuARVnCA",
+    "videoQP": "?t=21008"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "e42bc276b6bab38f825781db209dbc4276ae40cd",
+    "abbrevHash": "e42bc27",
+    "subject": "Fix getThread()",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-25T22:23:08.000Z",
+    "interesting": false,
+    "videoId": "FfyEuARVnCA",
+    "videoUrl": "https://youtu.be/FfyEuARVnCA",
+    "videoQP": "?t=20900"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "f089eedac9662d0ee043211e813948d654cc8520",
+    "abbrevHash": "f089eed",
+    "subject": "Rework community items view and add citizen inventory view",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-25T22:20:06.000Z",
+    "interesting": false,
+    "videoId": "FfyEuARVnCA",
+    "videoUrl": "https://youtu.be/FfyEuARVnCA",
+    "videoQP": "?t=20718"
+  },
+  {
+    "repo": "ctznry",
     "hash": "4de9c7ef7ec388e7932a3fa7a03e1a384ff5017e",
     "abbrevHash": "4de9c7e",
     "subject": "Add comment-composer popup for mobile",
@@ -2419,6 +2455,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "889a790f5959578d428964397bc2e0e71cd916a2",
+    "abbrevHash": "889a790",
+    "subject": "Add pull-to-refresh on mobile feeds (thanks BoxFactura!)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-02T20:36:46.000Z",
+    "interesting": false,
+    "videoId": "t17pO4Bnvbo",
+    "videoUrl": "https://youtu.be/t17pO4Bnvbo",
+    "videoQP": "?t=12278"
+  },
+  {
+    "repo": "ctznry",
     "hash": "82a5013775db784b0256c478bcf1e40e8451e041",
     "abbrevHash": "82a5013",
     "subject": "Adapt the mobile bottom-menu to grow according to the environment",
@@ -2440,18 +2488,6 @@
     "videoId": "t17pO4Bnvbo",
     "videoUrl": "https://youtu.be/t17pO4Bnvbo",
     "videoQP": "?t=10607"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "7df5697543a44a4f9322594818f994e8149edb0c",
-    "abbrevHash": "7df5697",
-    "subject": "Increase threshold for detecting right-swipes",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-02T19:42:32.000Z",
-    "interesting": false,
-    "videoId": "t17pO4Bnvbo",
-    "videoUrl": "https://youtu.be/t17pO4Bnvbo",
-    "videoQP": "?t=9024"
   },
   {
     "repo": "ctznry",
@@ -4450,6 +4486,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "ff8ab657f758618235de0bf2b97ae59831e24155",
+    "abbrevHash": "ff8ab65",
+    "subject": "Update notifications to use tailwind",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-10T23:48:26.000Z",
+    "interesting": false,
+    "videoId": "V63gfYGxwaM",
+    "videoUrl": "https://youtu.be/V63gfYGxwaM",
+    "videoQP": "?t=24758"
+  },
+  {
+    "repo": "ctznry",
     "hash": "6b30713b7ebd3edd72a2697da6c77527b39da921",
     "abbrevHash": "6b30713",
     "subject": "Update post to use tailwind",
@@ -4471,18 +4519,6 @@
     "videoId": "V63gfYGxwaM",
     "videoUrl": "https://youtu.be/V63gfYGxwaM",
     "videoQP": "?t=19860"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "d0f2dc92d1dde6fd7a6672b3286eeec3887df772",
-    "abbrevHash": "d0f2dc9",
-    "subject": "Update feed to use tailwind",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-10T21:57:01.000Z",
-    "interesting": false,
-    "videoId": "V63gfYGxwaM",
-    "videoUrl": "https://youtu.be/V63gfYGxwaM",
-    "videoQP": "?t=18073"
   },
   {
     "repo": "ctznry",

@@ -1193,14 +1193,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "d0f2dc92d1dde6fd7a6672b3286eeec3887df772",
-    "abbrevHash": "d0f2dc9",
-    "subject": "Update feed to use tailwind",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-10T21:57:01.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "1f1ced36e25a2764e55490982f249154d62b4e86",
     "abbrevHash": "1f1ced3",
     "subject": "Update thread to use tailwind",
@@ -1214,6 +1206,14 @@
     "subject": "Update post to use tailwind",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-10T23:28:27.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "ff8ab657f758618235de0bf2b97ae59831e24155",
+    "abbrevHash": "ff8ab65",
+    "subject": "Update notifications to use tailwind",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-10T23:48:26.000Z"
   },
   {
     "repo": "ctznry",
@@ -2665,14 +2665,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "7df5697543a44a4f9322594818f994e8149edb0c",
-    "abbrevHash": "7df5697",
-    "subject": "Increase threshold for detecting right-swipes",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-02T19:42:32.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "56e8e7669bf7026db148c57f14940f94e1031dac",
     "abbrevHash": "56e8e76",
     "subject": "Integrate the view-thread popup into history so that mobile swipe-back works",
@@ -2686,6 +2678,14 @@
     "subject": "Adapt the mobile bottom-menu to grow according to the environment",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-02T20:22:38.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "889a790f5959578d428964397bc2e0e71cd916a2",
+    "abbrevHash": "889a790",
+    "subject": "Add pull-to-refresh on mobile feeds (thanks BoxFactura!)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-02T20:36:46.000Z"
   },
   {
     "repo": "ctznry",
@@ -4310,5 +4310,29 @@
     "subject": "Add comment-composer popup for mobile",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-24T21:45:56.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "f089eedac9662d0ee043211e813948d654cc8520",
+    "abbrevHash": "f089eed",
+    "subject": "Rework community items view and add citizen inventory view",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-25T22:20:06.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "e42bc276b6bab38f825781db209dbc4276ae40cd",
+    "abbrevHash": "e42bc27",
+    "subject": "Fix getThread()",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-25T22:23:08.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "9c026e67a29763a84d09500a74af7dcaf7757e1d",
+    "abbrevHash": "9c026e6",
+    "subject": "Fix logged-out view of user profiles",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-25T22:24:56.000Z"
   }
 ]
