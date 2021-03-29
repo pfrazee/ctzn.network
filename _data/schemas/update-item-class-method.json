@@ -1,14 +1,28 @@
 {
-  "id": "ctzn.network/put-blob-method",
-  "title": "Put blob method",
-  "description": "Update a blob of the database.",
+  "id": "ctzn.network/update-item-class-method",
+  "title": "Update item class method",
+  "description": "Update an existing item class record.",
   "type": "dbmethod",
   "parameters": {
     "$schema": "http://json-schema.org/draft-07/schema#",
     "type": "object",
-    "required": ["source"],
+    "required": ["classId"],
     "properties": {
-      "source": {
+      "classId": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 64
+      },
+      "displayName": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 64
+      },
+      "description": {
+        "type": "string",
+        "maxLength": 256
+      },
+      "iconSource": {
         "type": "object",
         "required": ["dbUrl", "userId", "blobName"],
         "properties": {
@@ -25,22 +39,18 @@
           }
         }
       },
-      "target": {
-        "type": "object",
-        "required": ["blobName"],
-        "properties": {
-          "blobName": {
-            "type": "string"
-          }
-        }
+      "definition": {
+        "type": "object"
       }
     }
   },
   "definition": {
     "$schema": "http://json-schema.org/draft-07/schema#",
     "type": "object",
+    "required": ["key", "url"],
     "properties": {
-      "blobName": {"type": "string"}
+      "key": {"type": "string"},
+      "url": {"type": "string", "format": "uri"}
     }
   }
 }

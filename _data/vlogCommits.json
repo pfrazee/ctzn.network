@@ -89,14 +89,6 @@
   },
   {
     "repo": "ctzn",
-    "hash": "2a132f6c6f70bd21be07f7ba0ec507738c07eb9b",
-    "abbrevHash": "2a132f6",
-    "subject": "Use hyperspace simulator in tests",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-01-18T16:33:19.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "b1fa86c531e9fdde5effbb03d6e3f85e371e9c18",
     "abbrevHash": "b1fa86c",
     "subject": "Change the URL structure for userdata to use query params",
@@ -174,6 +166,14 @@
     "subject": "Add feed rendering and post composition",
     "authorName": "Paul Frazee",
     "authorDate": "2021-01-18T22:26:10.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "0750117c662146c1afe6b8bdbdd03f1bc972add3",
+    "abbrevHash": "0750117",
+    "subject": "Add thread viewer",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-01-18T23:08:59.000Z"
   },
   {
     "repo": "ctzn",
@@ -1224,14 +1224,6 @@
     "authorDate": "2021-02-11T05:14:05.000Z"
   },
   {
-    "repo": "ctzn",
-    "hash": "a3b6e4b08bb30e2ba717578c6def15d53f3f16e6",
-    "abbrevHash": "a3b6e4b",
-    "subject": "fix user setup in tests",
-    "authorName": "Mel Heisey",
-    "authorDate": "2021-02-11T05:14:05.000Z"
-  },
-  {
     "repo": "ctznry",
     "hash": "23dae5325b770211b12e534be33a431f4f3889f6",
     "abbrevHash": "23dae53",
@@ -1270,14 +1262,6 @@
     "subject": "Fix exception thrown in notification wrapper clicks",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-11T20:44:41.000Z"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "6b96f65f51fcac0b003834d3046dc257ca8b8ba8",
-    "abbrevHash": "6b96f65",
-    "subject": "Rework popups to use tailwind (fixes some rendering issues as well)",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-11T21:16:16.000Z"
   },
   {
     "repo": "ctznry",
@@ -1422,6 +1406,14 @@
     "subject": "Remove un-necessary blocking from external db load",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-12T21:50:49.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "effc42f59f5c5e4744803aa6e0983d942a7da1ac",
+    "abbrevHash": "effc42f",
+    "subject": "0.5.2",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-12T21:51:00.000Z"
   },
   {
     "repo": "ctzn",
@@ -1726,6 +1718,14 @@
     "subject": "Disable zoom on mobile",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-18T23:21:52.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "c81829e3f8137c77510e81bbb966a3c197bacbed",
+    "abbrevHash": "c81829e",
+    "subject": "Reduce post information density to work better on mobile",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-19T15:22:25.000Z"
   },
   {
     "repo": "ctznry",
@@ -2721,14 +2721,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "6bc5be81bd7f7f80fe41cc2f942650ef2e5e3518",
-    "abbrevHash": "6bc5be8",
-    "subject": "Tighten up whitespace in posts on mobile",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-02T21:24:50.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "7c286b5778da86be22aa5e42995b7a97422b472b",
     "abbrevHash": "7c286b5",
     "subject": "Gracefully handle socket disconnects and attempt recovery",
@@ -2902,14 +2894,6 @@
     "subject": "Include <br>s in html emails",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-04T17:06:05.000Z"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "4038839b78856eb6a71f127630e315781b4b675b",
-    "abbrevHash": "4038839",
-    "subject": "Add blobs APIs",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-04T21:03:22.000Z"
   },
   {
     "repo": "ctzn",
@@ -3097,6 +3081,14 @@
   },
   {
     "repo": "ctznry",
+    "hash": "42614f3fc0be4cd4a6958a0f330ae624b0245834",
+    "abbrevHash": "42614f3",
+    "subject": "Visual improvements to the mobile nav icons",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-05T23:16:17.000Z"
+  },
+  {
+    "repo": "ctznry",
     "hash": "cc1ad8b6c9fad113c6dd57e0db2985991be4e712",
     "abbrevHash": "cc1ad8b",
     "subject": "Hide the top menu on mobile when scrolling down",
@@ -3134,6 +3126,14 @@
     "subject": "Implement reactions UI",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-08T20:17:54.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "c9a2723611674884350859ddc1796bca3ad06b5a",
+    "abbrevHash": "c9a2723",
+    "subject": "Fix: decode the URI component of entry urls on parse",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-08T20:44:04.000Z"
   },
   {
     "repo": "ctzn",
@@ -4344,6 +4344,30 @@
     "authorDate": "2021-03-25T22:24:56.000Z"
   },
   {
+    "repo": "ctznry",
+    "hash": "8e600a3493b1350b93c6c082da2413ff66c87ff9",
+    "abbrevHash": "8e600a3",
+    "subject": "fix follow lookup",
+    "authorName": "Mel Heisey",
+    "authorDate": "2021-03-26T04:45:25.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "b63465dc253793455963a4aab111ab35897db772",
+    "abbrevHash": "b63465d",
+    "subject": "Update setting-up-a-server.md",
+    "authorName": "requiredtruth",
+    "authorDate": "2021-03-26T14:32:33.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "b537b3d5f3592efc33f06f34e69e9a8e1dacc646",
+    "abbrevHash": "b537b3d",
+    "subject": "Update setting-up-a-server.md",
+    "authorName": "requiredtruth",
+    "authorDate": "2021-03-26T15:40:51.000Z"
+  },
+  {
     "repo": "ctzn",
     "hash": "8e7bbe6a7347d2b8bf97fbdeeeef1127d6fdcbad",
     "abbrevHash": "8e7bbe6",
@@ -4446,5 +4470,237 @@
     "subject": "0.23.2",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-26T22:36:05.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "18a9761d931e3b22b735c60c35024cd16a264e88",
+    "abbrevHash": "18a9761",
+    "subject": "Improve mock composer on home",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-27T20:50:46.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "223fbf67c1a56237cfccec27757e78bf2f56687c",
+    "abbrevHash": "223fbf6",
+    "subject": "Add clarity to 'post to' explanation in post composer",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-27T20:53:05.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "e568d8da382a84d74f3cd3c6002f030db3360aea",
+    "abbrevHash": "e568d8d",
+    "subject": "Fix post clicking on margins in feed",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-27T20:56:13.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "8b3c3c507c2ead0afb510b2e861f067ba602c6dd",
+    "abbrevHash": "8b3c3c5",
+    "subject": "Dont override click behaviors inside posts",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-27T20:57:28.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "6f159363cc6620e5f3362efa798d8ea728c13079",
+    "abbrevHash": "6f15936",
+    "subject": "Improve aesthetics of inputs on mobile",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-27T21:03:45.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "a69348481e17292512f37a191c9d356516349072",
+    "abbrevHash": "a693484",
+    "subject": "Visual improvements to desktop view of profiles; also fix img fallback bug",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-27T22:19:18.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "9703a085fb1846bd2676d03c661ee41d64320b5b",
+    "abbrevHash": "9703a08",
+    "subject": "Rework desktop layout to be much denser",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-27T23:25:29.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "dcfebce9ba7d6712abeb5e705a953fb754435b1d",
+    "abbrevHash": "dcfebce",
+    "subject": "Visual and usability improvements to notifications",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-28T00:05:09.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "5899a7c9ec9ed02609d3df1cfb5a1c50aacdbc95",
+    "abbrevHash": "5899a7c",
+    "subject": "Visual improvement to post highlighting",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-28T00:12:00.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "760970a76a70c9f03538100821638bed9094dc5c",
+    "abbrevHash": "760970a",
+    "subject": "Recenter content, add 2col mode to main, add suggestions, add secondary-menu",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-28T01:06:32.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "9da4731230155136591168db11a9edacea181fd0",
+    "abbrevHash": "9da4731",
+    "subject": "Fix some overflow issues",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-28T01:14:05.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "15463b249e71604c578d50f9bdc56216a345cced",
+    "abbrevHash": "15463b2",
+    "subject": "Merge pull request #46 from requiredtruth/patch-1",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-29T14:56:04.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "ba24bfd2ae003079a1fdcb539b2f470d64aad2b0",
+    "abbrevHash": "ba24bfd",
+    "subject": "Merge pull request #6 from hamnox/woop",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-29T15:40:08.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "c4cb207dcc8d87010770db2f1853c26cd9a79add",
+    "abbrevHash": "c4cb207",
+    "subject": "Only update profile record when changes have been made",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-29T16:44:31.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "2ecea528c406cfd7d821a0e418c5ad93ba728e24",
+    "abbrevHash": "2ecea52",
+    "subject": "Merge branch 'master' of github.com:pfrazee/ctznry",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-29T16:44:34.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "3d8eaaf37e72b244496c0b8cd2a92182f302cf4e",
+    "abbrevHash": "3d8eaaf",
+    "subject": "Add a methods filter to the activity feed",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-29T16:54:02.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "0f7614cfec3a8c7e6e545c67f2612ee9cebb5b40",
+    "abbrevHash": "0f7614c",
+    "subject": "Add view-activity popup",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-29T18:23:26.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "7f750c5df303c05c7f3359fa393c5bfba3f64448",
+    "abbrevHash": "7f750c5",
+    "subject": "Add item class meta info (icon, displayName, description) and switch item-class methods to create/update rather than put",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-29T21:16:40.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "25364ded5e00c89ebeaef555379fef2f9ce86914",
+    "abbrevHash": "25364de",
+    "subject": "Add itemClass to the owned-items-view output",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-29T21:20:05.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "c9d3d87e2f73438a345b4783c8d19866c94e035c",
+    "abbrevHash": "c9d3d87",
+    "subject": "Make the target blob name optional in put-blob-method",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-29T21:20:39.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "5dc6a2e839cf0ab99e2c9fea2cc2afdadad99e47",
+    "abbrevHash": "5dc6a2e",
+    "subject": "Replace put-item-class-method with create-item-class-method and update-item-class-method; add item class meta (displayName, description, icon)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-29T21:21:24.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "44815db6b483329bb25d9ea1c0b910c749e6881d",
+    "abbrevHash": "44815db",
+    "subject": "Update item-classes to use a 'grouping' attribute rather than 'keyTemplate'",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-29T22:01:29.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "9f644150c860fcbabfdac95554feb4b11218328e",
+    "abbrevHash": "9f64415",
+    "subject": "0.24.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-29T22:01:33.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "be939f8de5232f15a425c93b330d0095cf3ea761",
+    "abbrevHash": "be939f8",
+    "subject": "Switch item classes from keyTemplates to groupings attribute",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-29T22:01:55.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "01de0e633249a4d77d45f0376f7eea7aa78ab276",
+    "abbrevHash": "01de0e6",
+    "subject": "Update the tailwind safelist",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-29T22:33:43.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "ee96011afaea64757e099005caa35ed199d5d5b9",
+    "abbrevHash": "ee96011",
+    "subject": "Handle malformed item-classes gracefully in owned-items-view",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-29T22:45:10.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "f1e351f5b5744a60f1166502561adced87343744",
+    "abbrevHash": "f1e351f",
+    "subject": "Add mimeType to blobs",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-29T23:03:37.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "a684c9c234a7c6a145f3d3e6b5bc5a2a4a2561d7",
+    "abbrevHash": "a684c9c",
+    "subject": "0.25.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-29T23:03:41.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "1d24a586c0af096e5428b1668b27422ac08fbc23",
+    "abbrevHash": "1d24a58",
+    "subject": "Add mimetypes to blob uploads",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-29T23:06:14.000Z"
   }
 ]

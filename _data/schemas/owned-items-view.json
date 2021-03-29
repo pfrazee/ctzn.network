@@ -38,6 +38,50 @@
             "key": {"type": "string"},
             "url": {"type": "string", "format": "uri"},
             "databaseId": {"type": "string", "pattern": ".+@.+"},
+            "itemClass": {
+              "type": "object",
+              "required": ["key", "seq", "url", "value"],
+              "properties": {
+                "seq": {"type": "number"},
+                "key": {"type": "string"},
+                "url": {"type": "string", "format": "uri"},
+                "value": {
+                  "type": "object",
+                  "required": ["id", "grouping", "createdAt"],
+                  "properties": {
+                    "id": {
+                      "type": "string",
+                      "pattern": "^([a-zA-Z][a-zA-Z0-9-]*[a-zA-Z0-9])$",
+                      "minLength": 1,
+                      "maxLength": 64
+                    },
+                    "grouping": {
+                      "type": "string",
+                      "enum": ["unique", "fungible"]
+                    },
+                    "displayName": {
+                      "type": "string",
+                      "minLength": 1,
+                      "maxLength": 64
+                    },
+                    "description": {
+                      "type": "string",
+                      "maxLength": 256
+                    },
+                    "iconBlobName": {
+                      "type": "string"
+                    },
+                    "definition": {
+                      "type": "object"
+                    },
+                    "createdAt": {
+                      "type": "string",
+                      "format": "date-time"
+                    }
+                  }
+                }
+              }
+            },
             "value": {
               "type": "object",
               "required": ["classId", "qty", "createdAt"],
