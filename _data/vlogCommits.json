@@ -177,14 +177,6 @@
   },
   {
     "repo": "ctzn",
-    "hash": "0750117c662146c1afe6b8bdbdd03f1bc972add3",
-    "abbrevHash": "0750117",
-    "subject": "Add thread viewer",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-01-18T23:08:59.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "7371e191428f30810edf5bde89c31f68110a702d",
     "abbrevHash": "7371e19",
     "subject": "Add thread-view UI",
@@ -198,6 +190,14 @@
     "subject": "Add user view basics",
     "authorName": "Paul Frazee",
     "authorDate": "2021-01-20T22:41:16.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "1dd6c8a725a2aeae6a13a84acb9e9517ab876016",
+    "abbrevHash": "1dd6c8a",
+    "subject": "Update votes test",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-01-20T22:58:18.000Z"
   },
   {
     "repo": "ctzn",
@@ -1417,14 +1417,6 @@
   },
   {
     "repo": "ctzn",
-    "hash": "effc42f59f5c5e4744803aa6e0983d942a7da1ac",
-    "abbrevHash": "effc42f",
-    "subject": "0.5.2",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-12T21:51:00.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "8fa006bac5e73542fd882eabc58f23ff0fa38207",
     "abbrevHash": "8fa006b",
     "subject": "Add 'setting up a server' doc",
@@ -1446,6 +1438,14 @@
     "subject": "Turn off default limits",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-13T17:29:30.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "f2e7990db61343534a1af06d342edffeb8495ed6",
+    "abbrevHash": "f2e7990",
+    "subject": "0.5.3",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-13T17:29:33.000Z"
   },
   {
     "repo": "ctzn",
@@ -1718,14 +1718,6 @@
     "subject": "Disable zoom on mobile",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-18T23:21:52.000Z"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "c81829e3f8137c77510e81bbb966a3c197bacbed",
-    "abbrevHash": "c81829e",
-    "subject": "Reduce post information density to work better on mobile",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-19T15:22:25.000Z"
   },
   {
     "repo": "ctznry",
@@ -2086,6 +2078,14 @@
     "subject": "Add infinite scroll to posts and notifications feeds",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-25T21:02:43.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "d5e7a318d4574be70462a1e7506daae405b993f5",
+    "abbrevHash": "d5e7a31",
+    "subject": "Detect new posts and show a floating 'new posts' button",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-25T21:43:28.000Z"
   },
   {
     "repo": "ctznry",
@@ -3081,14 +3081,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "42614f3fc0be4cd4a6958a0f330ae624b0245834",
-    "abbrevHash": "42614f3",
-    "subject": "Visual improvements to the mobile nav icons",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-05T23:16:17.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "cc1ad8b6c9fad113c6dd57e0db2985991be4e712",
     "abbrevHash": "cc1ad8b",
     "subject": "Hide the top menu on mobile when scrolling down",
@@ -3126,14 +3118,6 @@
     "subject": "Implement reactions UI",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-08T20:17:54.000Z"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "c9a2723611674884350859ddc1796bca3ad06b5a",
-    "abbrevHash": "c9a2723",
-    "subject": "Fix: decode the URI component of entry urls on parse",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-08T20:44:04.000Z"
   },
   {
     "repo": "ctzn",
@@ -3289,6 +3273,14 @@
   },
   {
     "repo": "ctzn",
+    "hash": "8a8f77e6d6a2be317ba1df5bbcf9b638845b9b3c",
+    "abbrevHash": "8a8f77e",
+    "subject": "Merge pull request #40 from saimonmoore/fix-remote-community-join",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-09T19:08:50.000Z"
+  },
+  {
+    "repo": "ctzn",
     "hash": "206190cec4c1b8e0245e9f0d1ec7cec0fff2d014",
     "abbrevHash": "206190c",
     "subject": "0.17.2",
@@ -3358,6 +3350,14 @@
     "subject": "Update signals in the feed when loading from cache",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-10T16:59:55.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "e219e06e87b07bb23d60c5c8f36b5e9188bf8f2c",
+    "abbrevHash": "e219e06",
+    "subject": "Fix: avoid undefined params in http queries",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-10T17:16:19.000Z"
   },
   {
     "repo": "ctznry",
@@ -4702,5 +4702,245 @@
     "subject": "Add mimetypes to blob uploads",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-29T23:06:14.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "a12b7c557db5775385bd1789dca2bdace090b693",
+    "abbrevHash": "a12b7c5",
+    "subject": "Dont require /subject/authorId in reactions-to-view",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-30T19:39:08.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "f52c3abe06ef7c2671989d2f3f7f807031541fe0",
+    "abbrevHash": "f52c3ab",
+    "subject": "Add relatedTo field to transfer-item-method; add item-fix-relation-idx; add relatedItemTransfers to content views",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-30T19:40:48.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "10bfb46d032291796ac545711979b15a42221d54",
+    "abbrevHash": "10bfb46",
+    "subject": "0.26.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-30T19:40:56.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "29fbe3bfeda5d281c5a5430a9dbd7405bc67d141",
+    "abbrevHash": "29fbe3b",
+    "subject": "Add item-gifting to posts and comments",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-30T19:42:33.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "cf35b051e1d9ac9e63f8b3a7df2cfa16f0d6d456",
+    "abbrevHash": "cf35b05",
+    "subject": "Add 'My Inventory' to nav and 'Give Item' control to other users' profiles",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-30T20:43:03.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "d4f7065c38ba7e94a410cedc60b8b4fd1e50a006",
+    "abbrevHash": "d4f7065",
+    "subject": "Show what item-transfers are for in the activity feed and popup",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T02:31:59.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "4d4031e2ceb90f0fa5f8e6a6ad6c322dfd43c00e",
+    "abbrevHash": "4d4031e",
+    "subject": "Rework header menus to include more controls",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T03:57:52.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "f285aad2d7d28fb97497335d82094ba78549fd51",
+    "abbrevHash": "f285aad",
+    "subject": "Add image lazy-loading",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T04:08:53.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "bef8a11e3ba0a18a6bc202cd443d226a78b26649",
+    "abbrevHash": "bef8a11",
+    "subject": "Disable the service worker for now",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T04:11:14.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "4c89bdef3444198153bf9a3977b70e768ee160b2",
+    "abbrevHash": "4c89bde",
+    "subject": "Optimize page loads by reducing the feeds' initial load counts",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T04:22:20.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "8a90dfe4848f4dce64d10916d0d5df9c7c8bff8d",
+    "abbrevHash": "8a90dfe",
+    "subject": "Make toast full width on thiner devices",
+    "authorName": "Freddie Gilbraith",
+    "authorDate": "2021-03-31T16:48:25.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "a705d3a1c3de61f77d8021229ee584226497f763",
+    "abbrevHash": "a705d3a",
+    "subject": "Merge pull request #8 from FreddieGilbraith/patch-1",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T17:01:39.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "98edba7c7566b6aaf2ff84568d072c1b3a92be34",
+    "abbrevHash": "98edba7",
+    "subject": "Tweaks to header menu",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T17:09:47.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "ad5e070ba2c9a3a18efb7f2713058b2f8802d6fe",
+    "abbrevHash": "ad5e070",
+    "subject": "Fix overflow issue in activity feed",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T17:11:48.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "945ce4e62ebaf9d7baf4e9db77ee2d554577b91f",
+    "abbrevHash": "945ce4e",
+    "subject": "Improve toast positioning on mobile and dismiss them on click",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T19:08:10.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "cb29d79718d3f1e58f3bac21f5967e5ac5b70c7c",
+    "abbrevHash": "cb29d79",
+    "subject": "Fix notifications overflow issue on mobile",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T19:10:28.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "315dbc018c2c123c7526a0d869e1fc1fa7cc7917",
+    "abbrevHash": "315dbc0",
+    "subject": "Remove old sidebar in user profiles",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T19:11:40.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "04bdb1bc8a89463ab36dbb882a8f70db766a082a",
+    "abbrevHash": "04bdb1b",
+    "subject": "Rework mobile footer behaviors for iOS",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T19:29:17.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "36f08bd3eb35802ab4bc5df1907c02a0bba8db7a",
+    "abbrevHash": "36f08bd",
+    "subject": "Tweak the comment highlighting to make the tree depth clearer",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T19:34:13.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "992d88a79cc3c0407259118e381121d1e201fc52",
+    "abbrevHash": "992d88a",
+    "subject": "Add 'loading more' spinners to feeds",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T19:47:30.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "92a8c2113b3a368fc889e05147ff8258c85ed58d",
+    "abbrevHash": "92a8c21",
+    "subject": "Fix positioning of account/logout in menu on mobile",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T20:04:10.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "64289fa265f30d80a870de8f3bb33f0e6a1faa92",
+    "abbrevHash": "64289fa",
+    "subject": "Improve screen-positioning behaviors on user profiles when using subnav",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T20:44:12.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "7b2e64fc0f8179c2c43e04d80562082ab6828ac4",
+    "abbrevHash": "7b2e64f",
+    "subject": "Fix user profile controls showing wrong state during load",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T20:49:32.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "c46cc6b13823b6229c94d5598ebdbaa62dee02cb",
+    "abbrevHash": "c46cc6b",
+    "subject": "Fix: allow dashes in role ids",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T20:51:59.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "57afe2fb6690e4c15a5979125ecb226409379fdc",
+    "abbrevHash": "57afe2f",
+    "subject": "Fix user profile currentView read from url",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T20:56:29.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "2f55b5d4f371271cade687df5b7997baf9a5f803",
+    "abbrevHash": "2f55b5d",
+    "subject": "Improvements and fixes to empty states",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T21:04:50.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "72f052db60163e280c92f0bcaca2ea32e7be37cd",
+    "abbrevHash": "72f052d",
+    "subject": "Fix controls not showing on citizen profiles",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T21:08:58.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "c3330b65d356a0cf2952d0865c6f85b15b61af8f",
+    "abbrevHash": "c3330b6",
+    "subject": "Fix comment reply/react controls to disable when they should",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T21:12:47.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "63ec2f7ea2512dec9e1d5ff0677bf1ea0cc0525b",
+    "abbrevHash": "63ec2f7",
+    "subject": "Fixes to emoji rendering in display names",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T21:27:27.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "5c382a4f2125b70a6af2098b4776bf9295551b36",
+    "abbrevHash": "5c382a4",
+    "subject": "Rework the reactions input to not use prompt()",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T21:48:18.000Z"
   }
 ]
