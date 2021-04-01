@@ -1,6 +1,54 @@
 [
   {
     "repo": "ctznry",
+    "hash": "191262a7ecb4e292c065011e5038eb9ef749c50c",
+    "abbrevHash": "191262a",
+    "subject": "Fix bugs in the invite modal",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-01T23:26:59.000Z",
+    "interesting": false,
+    "videoId": "Uwa5JMiYXIQ",
+    "videoUrl": "https://youtu.be/Uwa5JMiYXIQ",
+    "videoQP": "?t=25252"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "eb9f496bc76e550fbb210ff1bdb0ee0cff9a758c",
+    "abbrevHash": "eb9f496",
+    "subject": "Add 'closed joinmode' to communities, community config tool, and invite tool",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-01T23:15:43.000Z",
+    "interesting": false,
+    "videoId": "Uwa5JMiYXIQ",
+    "videoUrl": "https://youtu.be/Uwa5JMiYXIQ",
+    "videoQP": "?t=24576"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "db4a54863dd279ab0d716e16dccc1721a9d0dca1",
+    "abbrevHash": "db4a548",
+    "subject": "0.27.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-01T23:14:40.000Z",
+    "interesting": false,
+    "videoId": "Uwa5JMiYXIQ",
+    "videoUrl": "https://youtu.be/Uwa5JMiYXIQ",
+    "videoQP": "?t=24513"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "39a6d31147a313d60b1c8c4dc862f22dcc281f4a",
+    "abbrevHash": "39a6d31",
+    "subject": "Add 'closed' join mode for communities (ctzn.network/community-config, community-invite, community-invite-member-method, community-update-config-method)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-01T23:14:31.000Z",
+    "interesting": false,
+    "videoId": "Uwa5JMiYXIQ",
+    "videoUrl": "https://youtu.be/Uwa5JMiYXIQ",
+    "videoQP": "?t=24504"
+  },
+  {
+    "repo": "ctznry",
     "hash": "5c382a4f2125b70a6af2098b4776bf9295551b36",
     "abbrevHash": "5c382a4",
     "subject": "Rework the reactions input to not use prompt()",
@@ -2184,6 +2232,18 @@
     "videoQP": "?t=28032"
   },
   {
+    "repo": "ctzn",
+    "hash": "157c7de13d1ee0f2e5f3e78e1bd1644e23e929c7",
+    "abbrevHash": "157c7de",
+    "subject": "Add 'views'",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-11T00:31:12.000Z",
+    "interesting": false,
+    "videoId": "S0vJBOPkQJo",
+    "videoUrl": "https://youtu.be/S0vJBOPkQJo",
+    "videoQP": "?t=28032"
+  },
+  {
     "repo": "ctznry",
     "hash": "3eacfec2bd888755f2317dea7b590073ba868f1f",
     "abbrevHash": "3eacfec",
@@ -2281,6 +2341,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "2407d5814703f5161d9d06ef9b08aa74f1f97e8f",
+    "abbrevHash": "2407d58",
+    "subject": "Restore the scroll position when you go back to home & notifications by link click",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-10T17:40:32.000Z",
+    "interesting": false,
+    "videoId": "S0vJBOPkQJo",
+    "videoUrl": "https://youtu.be/S0vJBOPkQJo",
+    "videoQP": "?t=3392"
+  },
+  {
+    "repo": "ctznry",
     "hash": "def8b86b3b5ea3a374f1c1ed3314fa3f468e861e",
     "abbrevHash": "def8b86",
     "subject": "Close all popups on back/forward",
@@ -2290,18 +2362,6 @@
     "videoId": "S0vJBOPkQJo",
     "videoUrl": "https://youtu.be/S0vJBOPkQJo",
     "videoQP": "?t=2534"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "e219e06e87b07bb23d60c5c8f36b5e9188bf8f2c",
-    "abbrevHash": "e219e06",
-    "subject": "Fix: avoid undefined params in http queries",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-10T17:16:19.000Z",
-    "interesting": false,
-    "videoId": "S0vJBOPkQJo",
-    "videoUrl": "https://youtu.be/S0vJBOPkQJo",
-    "videoQP": "?t=1939"
   },
   {
     "repo": "ctznry",
@@ -2422,18 +2482,6 @@
     "videoId": "OVHF0otRc_k",
     "videoUrl": "https://youtu.be/OVHF0otRc_k",
     "videoQP": "?t=11251"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "8a8f77e6d6a2be317ba1df5bbcf9b638845b9b3c",
-    "abbrevHash": "8a8f77e",
-    "subject": "Merge pull request #40 from saimonmoore/fix-remote-community-join",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-09T19:08:50.000Z",
-    "interesting": false,
-    "videoId": "OVHF0otRc_k",
-    "videoUrl": "https://youtu.be/OVHF0otRc_k",
-    "videoQP": "?t=11134"
   },
   {
     "repo": "ctzn",
@@ -4137,6 +4185,18 @@
     "videoQP": "?t=18494"
   },
   {
+    "repo": "ctznry",
+    "hash": "131c94ff7594144234b463756d20e08bc744b313",
+    "abbrevHash": "131c94f",
+    "subject": "Add learn-more link to signin page",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-25T22:53:56.000Z",
+    "interesting": false,
+    "videoId": "SgpMHjTnOys",
+    "videoUrl": "https://youtu.be/SgpMHjTnOys",
+    "videoQP": "?t=18494"
+  },
+  {
     "repo": "ctzn",
     "hash": "363e71ac8168bd8352424b916a86400470da2962",
     "abbrevHash": "363e71a",
@@ -4171,18 +4231,6 @@
     "videoId": "SgpMHjTnOys",
     "videoUrl": "https://youtu.be/SgpMHjTnOys",
     "videoQP": "?t=17812"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "d5e7a318d4574be70462a1e7506daae405b993f5",
-    "abbrevHash": "d5e7a31",
-    "subject": "Detect new posts and show a floating 'new posts' button",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-25T21:43:28.000Z",
-    "interesting": false,
-    "videoId": "SgpMHjTnOys",
-    "videoUrl": "https://youtu.be/SgpMHjTnOys",
-    "videoQP": "?t=14266"
   },
   {
     "repo": "ctznry",
@@ -4960,24 +5008,21 @@
   },
   {
     "repo": "ctzn",
+    "hash": "6554849ed3334b5d6ab0326c7e547e671f488734",
+    "abbrevHash": "6554849",
+    "subject": "Readme tweaks",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-15T17:08:24.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctzn",
     "hash": "e9bdff17ef191f46b444e78af0e7997c47ee506b",
     "abbrevHash": "e9bdff1",
     "subject": "Add patreon contributors",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-15T17:07:07.000Z",
     "interesting": false
-  },
-  {
-    "repo": "ctzn",
-    "hash": "f2e7990db61343534a1af06d342edffeb8495ed6",
-    "abbrevHash": "f2e7990",
-    "subject": "0.5.3",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-13T17:29:33.000Z",
-    "interesting": false,
-    "videoId": "HfaDJ_MsMNI",
-    "videoUrl": "https://youtu.be/HfaDJ_MsMNI",
-    "videoQP": "?t=1622"
   },
   {
     "repo": "ctzn",
@@ -6817,6 +6862,18 @@
   },
   {
     "repo": "ctzn",
+    "hash": "cab9d8372bd479fd540b8ca1e7f2cce46f73035e",
+    "abbrevHash": "cab9d83",
+    "subject": "Add media table and avatar serving",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-01-20T23:18:12.000Z",
+    "interesting": false,
+    "videoId": "4sVt90qxXnw",
+    "videoUrl": "https://youtu.be/4sVt90qxXnw",
+    "videoQP": "?t=8659"
+  },
+  {
+    "repo": "ctzn",
     "hash": "38d9019ee72be86b5cdb3cde29a1f1e4ce5e382c",
     "abbrevHash": "38d9019",
     "subject": "Update table schemas to use wrapper object and support binary tables",
@@ -6826,18 +6883,6 @@
     "videoId": "4sVt90qxXnw",
     "videoUrl": "https://youtu.be/4sVt90qxXnw",
     "videoQP": "?t=8619"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "1dd6c8a725a2aeae6a13a84acb9e9517ab876016",
-    "abbrevHash": "1dd6c8a",
-    "subject": "Update votes test",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-01-20T22:58:18.000Z",
-    "interesting": false,
-    "videoId": "4sVt90qxXnw",
-    "videoUrl": "https://youtu.be/4sVt90qxXnw",
-    "videoQP": "?t=7465"
   },
   {
     "repo": "ctzn",
