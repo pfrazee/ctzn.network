@@ -840,6 +840,14 @@
     "authorDate": "2021-02-09T16:10:29.000Z"
   },
   {
+    "repo": "ctznry",
+    "hash": "08e292b6ee1db32590d7e346b7a8acb327f0086a",
+    "abbrevHash": "08e292b",
+    "subject": "Fixes to home empty state",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-09T16:10:29.000Z"
+  },
+  {
     "repo": "ctzn",
     "hash": "fd2e9d87d82903d9a85afb1521e176b8bb923baf",
     "abbrevHash": "fd2e9d8",
@@ -2121,14 +2129,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "131c94ff7594144234b463756d20e08bc744b313",
-    "abbrevHash": "131c94f",
-    "subject": "Add learn-more link to signin page",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-25T22:53:56.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "01e9f47aeb6469e326642fbaeb75132c74bb6565",
     "abbrevHash": "01e9f47",
     "subject": "Add 'Alpha' indicator to signin screen",
@@ -2414,6 +2414,14 @@
     "subject": "Update the user's memberships state after join/leave",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-01T19:52:20.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "e5fb34cf27d76651ae4a53cd948cddac9fe31fc6",
+    "abbrevHash": "e5fb34c",
+    "subject": "Fix permissions check in communities",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-01T19:55:33.000Z"
   },
   {
     "repo": "ctznry",
@@ -3369,14 +3377,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "2407d5814703f5161d9d06ef9b08aa74f1f97e8f",
-    "abbrevHash": "2407d58",
-    "subject": "Restore the scroll position when you go back to home & notifications by link click",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-10T17:40:32.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "bd7b6067c1ac4a421ed54699ccfe6efbc0a8408e",
     "abbrevHash": "bd7b606",
     "subject": "UI improvements to posts and reaction controls",
@@ -3926,6 +3926,14 @@
     "subject": "Fix navigation in user view",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-16T19:12:47.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "fd85b714d617464bf556cdbf643b51e398c5150c",
+    "abbrevHash": "fd85b71",
+    "subject": "Improve call log styling",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T19:13:04.000Z"
   },
   {
     "repo": "ctznry",
@@ -4974,5 +4982,157 @@
     "subject": "Fix bugs in the invite modal",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-01T23:26:59.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "5cc537e8029be70ba2ef5e212a0c50d24c0018fa",
+    "abbrevHash": "5cc537e",
+    "subject": "Remove the hack which forces ios to keep the footer controls visible; it broke scrolling",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-02T16:21:06.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "ac0ed974889b1486ab7c2b4f2476af97f9ceea0b",
+    "abbrevHash": "ac0ed97",
+    "subject": "Slightly enlarge avatars on the feed",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-02T17:19:34.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "7e2c237dce5b42f508432a2c7f29a60a172688ef",
+    "abbrevHash": "7e2c237",
+    "subject": "Disable lazy loading for feed avatars",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-02T17:20:04.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "e16076916317d444634ad9937f071708b9a1dfd8",
+    "abbrevHash": "e160769",
+    "subject": "Disable lazy loading in feed media",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-02T17:21:00.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "371a747f5a58b5066c017bbf096044f7a9189867",
+    "abbrevHash": "371a747",
+    "subject": "Add swipe gestures and a test of a new home nav",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-02T17:51:44.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "95efcaeae593ae32af5b17d11e0274d3fe404cc5",
+    "abbrevHash": "95efcae",
+    "subject": "Remove mobile footer menu",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-02T18:00:26.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "0ac54242f631bdd3fe83890d79fd27c11eb85166",
+    "abbrevHash": "0ac5424",
+    "subject": "Tune swipe detection try 1 (easier to trigger)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-02T18:05:57.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "5c592c842e0bd228d6589a842dcb2c6d3667f3e7",
+    "abbrevHash": "5c592c8",
+    "subject": "Add more mobile swipe-navigation behaviors",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-02T18:31:17.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "a25453411f77f13dd9ee098b58ad42d9e7eee9a3",
+    "abbrevHash": "a254534",
+    "subject": "DEBUG: create a toast telling swipe gesture values on trigger",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-02T18:36:00.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "f77c91260ac620c9c1b44cf7d61f145548590d9b",
+    "abbrevHash": "f77c912",
+    "subject": "Add more gesture-tuning debug tools",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-02T18:47:00.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "0a3d7a59c50101505e1648c31a03caf05ecf3c1a",
+    "abbrevHash": "0a3d7a5",
+    "subject": "More (hopefully final) swipe gesture tuning",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-02T19:04:36.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "41e6128b13945f0f064ecf35e169265af931dcb0",
+    "abbrevHash": "41e6128",
+    "subject": "Factor out subnav component and add animated selection border",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-02T19:53:58.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "8927eb98fbc87ce83dae4b8c4a52eb7cb1e56414",
+    "abbrevHash": "8927eb9",
+    "subject": "Move ctzn-subnav classes onto the webcomponent to fix position sticky",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-02T20:06:54.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "b782ac58f56b7c6bfa79616ad4ccb717b2b280c9",
+    "abbrevHash": "b782ac5",
+    "subject": "Merge notifications into main view and add unread count to navbar",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-02T20:44:34.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "f45b3bf8aebf6d2a16a61ca66f9494cc2bc3f6d4",
+    "abbrevHash": "f45b3bf",
+    "subject": "Add 'back' to mobile nav on users",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-02T20:59:05.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "66b30be9248fc72328181458f5f3cede3806e7c9",
+    "abbrevHash": "66b30be",
+    "subject": "Embiggen the mobile nav",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-02T21:43:05.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "7de6c2685a7d4cbc5538486fc27eb57e39fe6126",
+    "abbrevHash": "7de6c26",
+    "subject": "Fixes/updates to the mobile slideout menu",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-02T21:53:32.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "9bfeb627bdfaced9286c40af72115eceb4bad149",
+    "abbrevHash": "9bfeb62",
+    "subject": "Move 'pull to refresh' to containing views",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-02T22:01:43.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "1c912ae5f785fb449765a29ba49d17727abd3dce",
+    "abbrevHash": "1c912ae",
+    "subject": "Close popups on swipes",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-02T22:07:00.000Z"
   }
 ]
