@@ -217,19 +217,19 @@
   },
   {
     "repo": "ctzn",
-    "hash": "cab9d8372bd479fd540b8ca1e7f2cce46f73035e",
-    "abbrevHash": "cab9d83",
-    "subject": "Add media table and avatar serving",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-01-20T23:18:12.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "a2599018f7412dedf8f99f9070c8be7123eb053b",
     "abbrevHash": "a259901",
     "subject": "Remove build files",
     "authorName": "Paul Frazee",
     "authorDate": "2021-01-20T23:18:50.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "beb32d6d3625aa8639da47b056a74fb1b5cd2866",
+    "abbrevHash": "beb32d6",
+    "subject": "Update .gitignore to include built files",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-01-20T23:19:08.000Z"
   },
   {
     "repo": "ctzn",
@@ -840,14 +840,6 @@
     "authorDate": "2021-02-09T16:10:29.000Z"
   },
   {
-    "repo": "ctznry",
-    "hash": "08e292b6ee1db32590d7e346b7a8acb327f0086a",
-    "abbrevHash": "08e292b",
-    "subject": "Fixes to home empty state",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-09T16:10:29.000Z"
-  },
-  {
     "repo": "ctzn",
     "hash": "fd2e9d87d82903d9a85afb1521e176b8bb923baf",
     "abbrevHash": "fd2e9d8",
@@ -1150,6 +1142,14 @@
     "subject": "0.2.2",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-10T18:52:52.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "dc7251225bc3cf94ac7f582792fced4fab4815d0",
+    "abbrevHash": "dc72512",
+    "subject": "Remove old tooltips",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-10T18:53:28.000Z"
   },
   {
     "repo": "ctznry",
@@ -1473,19 +1473,19 @@
   },
   {
     "repo": "ctzn",
-    "hash": "6554849ed3334b5d6ab0326c7e547e671f488734",
-    "abbrevHash": "6554849",
-    "subject": "Readme tweaks",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-15T17:08:24.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "7c037d91060a7de63ef1d54cbfde685acb8005c0",
     "abbrevHash": "7c037d9",
     "subject": "Add initial TUI for managing the server",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-16T20:41:33.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "67848c2ffbf9fa9fea2599949b3439d55615914e",
+    "abbrevHash": "67848c2",
+    "subject": "Integrate config tooling into server exec",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-16T22:14:23.000Z"
   },
   {
     "repo": "ctzn",
@@ -2425,14 +2425,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "e5fb34cf27d76651ae4a53cd948cddac9fe31fc6",
-    "abbrevHash": "e5fb34c",
-    "subject": "Fix permissions check in communities",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-01T19:55:33.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "a6f7b97d9bb6444784f0f1ae9ecacba32bc73985",
     "abbrevHash": "a6f7b97",
     "subject": "Improve mobile menu behavior (fix visual bugs, handle clicks outside)",
@@ -2614,6 +2606,14 @@
     "subject": "Fix styling of mobile notifications",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-02T18:12:03.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "b1fd6028db4a84fe649016c3c1893dde2e3a2380",
+    "abbrevHash": "b1fd602",
+    "subject": "Update page titles to reflect content",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-02T18:12:44.000Z"
   },
   {
     "repo": "ctznry",
@@ -3441,19 +3441,19 @@
   },
   {
     "repo": "ctzn",
-    "hash": "157c7de13d1ee0f2e5f3e78e1bd1644e23e929c7",
-    "abbrevHash": "157c7de",
-    "subject": "Add 'views'",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-11T00:31:12.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "873c8a775591f23be2b935991e611c509955ab00",
     "abbrevHash": "873c8a7",
     "subject": "Add table API, remove some unneeded views, and fix some bugs",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-11T18:25:52.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "2b13f279dd246a7f2c02a18577f3a74c90a257f7",
+    "abbrevHash": "2b13f27",
+    "subject": "Remove old getter apis",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-11T18:32:19.000Z"
   },
   {
     "repo": "ctzn",
@@ -3937,14 +3937,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "fd85b714d617464bf556cdbf643b51e398c5150c",
-    "abbrevHash": "fd85b71",
-    "subject": "Improve call log styling",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-16T19:13:04.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "9d644817aa86274dcb8fa5483cf910907ba44cfc",
     "abbrevHash": "9d64481",
     "subject": "Improve UI responsiveness to work in progress",
@@ -4278,6 +4270,14 @@
     "subject": "Add 'view media' popup that triggers on clicking an avatar",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-24T18:53:32.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "23703c2e19aa5920304dcb01e3d3feac1e787f6d",
+    "abbrevHash": "23703c2",
+    "subject": "Open and scroll to expandable sections in profiles when clicking on metrics",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T19:13:57.000Z"
   },
   {
     "repo": "ctznry",
@@ -5134,5 +5134,173 @@
     "subject": "Close popups on swipes",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-02T22:07:00.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "c701c30db63079e53ae797f520e20ae483449aaa",
+    "abbrevHash": "c701c30",
+    "subject": "Improve the post control spacing",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T16:31:18.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "9aad18cfb51bd0470b7485634517adee960771ba",
+    "abbrevHash": "9aad18c",
+    "subject": "Dont interpret pinch-zooms as swipes",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T16:35:26.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "869074726ad68fa6975caeb4afbc99c02bceacf1",
+    "abbrevHash": "8690747",
+    "subject": "Try a new velocity-based threshold for recognizing swipe gestures",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T16:51:37.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "00f29e1c315ad4a5064845d0d99543296a94abcf",
+    "abbrevHash": "00f29e1",
+    "subject": "Minor positioning fix on expanded posts gifts summary",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T16:59:52.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "f07d251c07a8295d30b995b36940056291e1aed3",
+    "abbrevHash": "f07d251",
+    "subject": "Update post and communities views to use new standard subnav",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T17:19:53.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "d77e3884c597bc5e31e81b607e79435a9d8a9b40",
+    "abbrevHash": "d77e388",
+    "subject": "Shrink the nav menu on mobile a little",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T17:24:08.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "223869ca1109554e38daee42a9a3a3a44bc9ba46",
+    "abbrevHash": "223869c",
+    "subject": "Hide tooltips on mobile screens to avoid overflow issues",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T17:43:36.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "7dc3c84abae4fc03df709e5af15211a545385918",
+    "abbrevHash": "7dc3c84",
+    "subject": "Dont allow reactions in expanded posts if not in the community/followed/etc",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T17:45:03.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "f476a5037d515d93bd01db7e8793c2eb65edcc8b",
+    "abbrevHash": "f476a50",
+    "subject": "Fix crowding issue for reactions on feed",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T18:02:42.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "b907419f8d3f91da2973903da904865c999a0ce9",
+    "abbrevHash": "b907419",
+    "subject": "Make images a little bigger in the feed on mobile",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T18:11:29.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "badfefe1ce1a856f053d382614466f6e29ff6615",
+    "abbrevHash": "badfefe",
+    "subject": "Remove the activity feed from the home screen for now",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T18:23:15.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "dc8741362228b1dfb970a10180dba528aa6c5582",
+    "abbrevHash": "dc87413",
+    "subject": "Improve input styling on mobile, especially around focus state",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T18:34:31.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "2c90a2eac56d49f1b86f77241718903d04de82a3",
+    "abbrevHash": "2c90a2e",
+    "subject": "Change default reactions to include emojis and tweak reaction UIs",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T18:51:41.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "72a02e77657732b65602f73ca51ac44e1a42726b",
+    "abbrevHash": "72a02e7",
+    "subject": "Only apply hover states to devices which support them",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T19:06:17.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "27572733fa67529a766d845de9ed9363ab722396",
+    "abbrevHash": "2757273",
+    "subject": "Fix: include relatedItemTransfers in output of community posts-view",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T19:22:57.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "50efb5c4f466821d699e47fc0beb794377e2edf4",
+    "abbrevHash": "50efb5c",
+    "subject": "0.27.1",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T19:23:01.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "4466e2c88dba3a63b7c9c20db5cc6d5f3e135535",
+    "abbrevHash": "4466e2c",
+    "subject": "Fix subnav to more consistently change current highlight",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T19:36:01.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "cb5e8ab03d6799e9a6cd7106d625ee584bfcd051",
+    "abbrevHash": "cb5e8ab",
+    "subject": "Merge 'create new item class' stages into 1 screen",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T19:47:18.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "3b11560874f79d2edce9cd3679d35c7d0da9ffcb",
+    "abbrevHash": "3b11560",
+    "subject": "Fix truncation of item description in item-view popup",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T19:50:23.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "12e6d08194c4c75638d831e277c8acbd64063323",
+    "abbrevHash": "12e6d08",
+    "subject": "Fixes to scroll-positioning on nav",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T20:10:58.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "59aa05e79d2cf0cc3bb32f300102b10e0e944de9",
+    "abbrevHash": "59aa05e",
+    "subject": "More scroll-position fixing",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T20:21:08.000Z"
   }
 ]
