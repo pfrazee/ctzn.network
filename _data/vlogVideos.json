@@ -505,12 +505,20 @@
   },
   {
     "videoId": "VZXLZRnY0Bk",
-    "videoPublishedAt": "2021-04-05T15:45:49Z",
+    "videoPublishedAt": "2021-04-05T21:50:09Z",
     "liveStreamingDetails": {
       "actualStartTime": "2021-04-05T15:50:06Z",
       "actualEndTime": "2021-04-05T21:21:27Z",
-      "scheduledStartTime": "2021-04-05T15:50:00Z",
-      "activeLiveChatId": "Cg0KC1ZaWExaUm5ZMEJrKicKGFVDU2tjTDRteTJ3Z0RSRnZqUU9KenJsZxILVlpYTFpSblkwQms"
+      "scheduledStartTime": "2021-04-05T15:50:00Z"
+    }
+  },
+  {
+    "videoId": "gwY5GBn9At8",
+    "videoPublishedAt": "2021-04-06T21:13:06Z",
+    "liveStreamingDetails": {
+      "actualStartTime": "2021-04-06T16:10:36Z",
+      "actualEndTime": "2021-04-06T20:59:33Z",
+      "scheduledStartTime": "2021-04-06T16:10:00Z"
     }
   }
 ]
