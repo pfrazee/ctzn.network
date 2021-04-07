@@ -233,19 +233,19 @@
   },
   {
     "repo": "ctzn",
-    "hash": "beb32d6d3625aa8639da47b056a74fb1b5cd2866",
-    "abbrevHash": "beb32d6",
-    "subject": "Update .gitignore to include built files",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-01-20T23:19:08.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "a90b70e355a68a3e1602b0285ea65a7bc78b4bcd",
     "abbrevHash": "a90b70e",
     "subject": "Add avatar uploader",
     "authorName": "Paul Frazee",
     "authorDate": "2021-01-20T23:41:13.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "f47aaad91de22ca50c8ccd53fbed65b427542bae",
+    "abbrevHash": "f47aaad",
+    "subject": "Rework blob storage in databases to use exterior hypercore",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-01-21T18:10:09.000Z"
   },
   {
     "repo": "ctzn",
@@ -1153,14 +1153,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "dc7251225bc3cf94ac7f582792fced4fab4815d0",
-    "abbrevHash": "dc72512",
-    "subject": "Remove old tooltips",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-10T18:53:28.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "fb85b42336ef9cccb30a4ff5fd2d968dc59c8ae2",
     "abbrevHash": "fb85b42",
     "subject": "Fix cross-browser compat",
@@ -1182,6 +1174,14 @@
     "subject": "Add view-post page and widen all layouts",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-10T20:23:34.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "2102d61504752fe68f181da2905dab39de681f3d",
+    "abbrevHash": "2102d61",
+    "subject": "Update composer to use tailwinds",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-10T21:49:35.000Z"
   },
   {
     "repo": "ctznry",
@@ -1489,19 +1489,19 @@
   },
   {
     "repo": "ctzn",
-    "hash": "67848c2ffbf9fa9fea2599949b3439d55615914e",
-    "abbrevHash": "67848c2",
-    "subject": "Integrate config tooling into server exec",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-16T22:14:23.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "064ef13b46af2f3c3c8f1ded489cb50a7ad719cc",
     "abbrevHash": "064ef13",
     "subject": "Remove leftover debugMode: true",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-16T22:41:28.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "0b2055a7bcdbb9270bc107d9c68917cf937d0cfc",
+    "abbrevHash": "0b2055a",
+    "subject": "Improve log behaviors",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-16T22:41:36.000Z"
   },
   {
     "repo": "ctzn",
@@ -2617,14 +2617,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "b1fd6028db4a84fe649016c3c1893dde2e3a2380",
-    "abbrevHash": "b1fd602",
-    "subject": "Update page titles to reflect content",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-02T18:12:44.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "bfddbbd22f6c5fc2bc5ebf34505a4d2f6178640f",
     "abbrevHash": "bfddbbd",
     "subject": "Fix bg on the - or - in the signup form",
@@ -2662,6 +2654,14 @@
     "subject": "Gracefully handle when the home server is down",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-02T19:34:15.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "4efe80432c64ce11b891b698e5e255d1d67fbe40",
+    "abbrevHash": "4efe804",
+    "subject": "Handle empty-states in suggested communities",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-02T19:38:10.000Z"
   },
   {
     "repo": "ctznry",
@@ -3457,19 +3457,19 @@
   },
   {
     "repo": "ctzn",
-    "hash": "2b13f279dd246a7f2c02a18577f3a74c90a257f7",
-    "abbrevHash": "2b13f27",
-    "subject": "Remove old getter apis",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-11T18:32:19.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "eebacba02fc3629c01b97a553ff79bdfed986550",
     "abbrevHash": "eebacba",
     "subject": "Implement blob views",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-11T18:48:52.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "9593defbedd6134890f50d52796ce801282f9a8d",
+    "abbrevHash": "9593def",
+    "subject": "Various bugfixes",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-11T19:20:53.000Z"
   },
   {
     "repo": "ctzn",
@@ -4281,14 +4281,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "23703c2e19aa5920304dcb01e3d3feac1e787f6d",
-    "abbrevHash": "23703c2",
-    "subject": "Open and scroll to expandable sections in profiles when clicking on metrics",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-24T19:13:57.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "65a0c70eabd77069d6e97a85b252e268ba6527d3",
     "abbrevHash": "65a0c70",
     "subject": "Rework the 'post-view'",
@@ -4310,6 +4302,14 @@
     "subject": "Lighten the user info on the right side when viewing a post",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-24T21:13:20.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "82231b87998337d0037b6af468cf2cd0c1c13b12",
+    "abbrevHash": "82231b8",
+    "subject": "Update the aesthetics of notifications to match everything else",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T21:19:20.000Z"
   },
   {
     "repo": "ctznry",
@@ -5302,5 +5302,53 @@
     "subject": "More scroll-position fixing",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-05T20:21:08.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "0c0db09bb67520cb3e9edd8a45cac8f2f026d147",
+    "abbrevHash": "0c0db09",
+    "subject": "Add apple-touch-icon",
+    "authorName": "Caspian Baska",
+    "authorDate": "2021-04-07T03:53:42.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "e717cc93ade33e247ee8252c58679ae77c7ba980",
+    "abbrevHash": "e717cc9",
+    "subject": "Merge pull request #10 from caspiano/add-apple-icon",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-07T16:08:24.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "be945247356cb4ccc947b11604a7245718743a45",
+    "abbrevHash": "be94524",
+    "subject": "Add UI sections to profiles",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-07T21:47:26.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "792f8921276279b4dca82619609789290f05815f",
+    "abbrevHash": "792f892",
+    "subject": "0.28.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-07T21:47:29.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "b91fc21b75f005c78424e0c62c125eed6cd2841b",
+    "abbrevHash": "b91fc21",
+    "subject": "Add ctzn-html; implement ctzn-html in profiles",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-07T21:50:44.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "70f57a130de10e4551e83da87b4d9b10b34847ce",
+    "abbrevHash": "70f57a1",
+    "subject": "Merge branch 'master' of github.com:pfrazee/ctznry",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-07T21:57:40.000Z"
   }
 ]

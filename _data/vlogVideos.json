@@ -520,5 +520,15 @@
       "actualEndTime": "2021-04-06T20:59:33Z",
       "scheduledStartTime": "2021-04-06T16:10:00Z"
     }
+  },
+  {
+    "videoId": "t6N0o3w-Ynw",
+    "videoPublishedAt": "2021-04-07T16:33:06Z",
+    "liveStreamingDetails": {
+      "actualStartTime": "2021-04-07T16:36:09Z",
+      "actualEndTime": "2021-04-07T22:07:38Z",
+      "scheduledStartTime": "2021-04-07T16:35:00Z",
+      "activeLiveChatId": "Cg0KC3Q2TjBvM3ctWW53KicKGFVDU2tjTDRteTJ3Z0RSRnZqUU9KenJsZxILdDZOMG8zdy1Zbnc"
+    }
   }
 ]

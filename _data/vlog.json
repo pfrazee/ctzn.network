@@ -1,6 +1,72 @@
 [
   {
     "repo": "ctznry",
+    "hash": "70f57a130de10e4551e83da87b4d9b10b34847ce",
+    "abbrevHash": "70f57a1",
+    "subject": "Merge branch 'master' of github.com:pfrazee/ctznry",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-07T21:57:40.000Z",
+    "interesting": false,
+    "videoId": "t6N0o3w-Ynw",
+    "videoUrl": "https://youtu.be/t6N0o3w-Ynw",
+    "videoQP": "?t=19281"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "b91fc21b75f005c78424e0c62c125eed6cd2841b",
+    "abbrevHash": "b91fc21",
+    "subject": "Add ctzn-html; implement ctzn-html in profiles",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-07T21:50:44.000Z",
+    "interesting": false,
+    "videoId": "t6N0o3w-Ynw",
+    "videoUrl": "https://youtu.be/t6N0o3w-Ynw",
+    "videoQP": "?t=18865"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "792f8921276279b4dca82619609789290f05815f",
+    "abbrevHash": "792f892",
+    "subject": "0.28.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-07T21:47:29.000Z",
+    "interesting": false,
+    "videoId": "t6N0o3w-Ynw",
+    "videoUrl": "https://youtu.be/t6N0o3w-Ynw",
+    "videoQP": "?t=18670"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "be945247356cb4ccc947b11604a7245718743a45",
+    "abbrevHash": "be94524",
+    "subject": "Add UI sections to profiles",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-07T21:47:26.000Z",
+    "interesting": false,
+    "videoId": "t6N0o3w-Ynw",
+    "videoUrl": "https://youtu.be/t6N0o3w-Ynw",
+    "videoQP": "?t=18667"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "e717cc93ade33e247ee8252c58679ae77c7ba980",
+    "abbrevHash": "e717cc9",
+    "subject": "Merge pull request #10 from caspiano/add-apple-icon",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-07T16:08:24.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "0c0db09bb67520cb3e9edd8a45cac8f2f026d147",
+    "abbrevHash": "0c0db09",
+    "subject": "Add apple-touch-icon",
+    "authorName": "Caspian Baska",
+    "authorDate": "2021-04-07T03:53:42.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
     "hash": "59aa05e79d2cf0cc3bb32f300102b10e0e944de9",
     "abbrevHash": "59aa05e",
     "subject": "More scroll-position fixing",
@@ -1417,6 +1483,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "82231b87998337d0037b6af468cf2cd0c1c13b12",
+    "abbrevHash": "82231b8",
+    "subject": "Update the aesthetics of notifications to match everything else",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T21:19:20.000Z",
+    "interesting": false,
+    "videoId": "xPFZHQN5y94",
+    "videoUrl": "https://youtu.be/xPFZHQN5y94",
+    "videoQP": "?t=17389"
+  },
+  {
+    "repo": "ctznry",
     "hash": "dfb89b6e5ece61b4b3702a6a36f09cfc4d1cf7cc",
     "abbrevHash": "dfb89b6",
     "subject": "Lighten the user info on the right side when viewing a post",
@@ -1450,18 +1528,6 @@
     "videoId": "xPFZHQN5y94",
     "videoUrl": "https://youtu.be/xPFZHQN5y94",
     "videoQP": "?t=15018"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "23703c2e19aa5920304dcb01e3d3feac1e787f6d",
-    "abbrevHash": "23703c2",
-    "subject": "Open and scroll to expandable sections in profiles when clicking on metrics",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-24T19:13:57.000Z",
-    "interesting": false,
-    "videoId": "xPFZHQN5y94",
-    "videoUrl": "https://youtu.be/xPFZHQN5y94",
-    "videoQP": "?t=9866"
   },
   {
     "repo": "ctznry",
@@ -2677,6 +2743,18 @@
   },
   {
     "repo": "ctzn",
+    "hash": "9593defbedd6134890f50d52796ce801282f9a8d",
+    "abbrevHash": "9593def",
+    "subject": "Various bugfixes",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-11T19:20:53.000Z",
+    "interesting": false,
+    "videoId": "6niXnUcooG4",
+    "videoUrl": "https://youtu.be/6niXnUcooG4",
+    "videoQP": "?t=8287"
+  },
+  {
+    "repo": "ctzn",
     "hash": "eebacba02fc3629c01b97a553ff79bdfed986550",
     "abbrevHash": "eebacba",
     "subject": "Implement blob views",
@@ -2686,18 +2764,6 @@
     "videoId": "6niXnUcooG4",
     "videoUrl": "https://youtu.be/6niXnUcooG4",
     "videoQP": "?t=6366"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "2b13f279dd246a7f2c02a18577f3a74c90a257f7",
-    "abbrevHash": "2b13f27",
-    "subject": "Remove old getter apis",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-11T18:32:19.000Z",
-    "interesting": false,
-    "videoId": "6niXnUcooG4",
-    "videoUrl": "https://youtu.be/6niXnUcooG4",
-    "videoQP": "?t=5373"
   },
   {
     "repo": "ctzn",
@@ -3871,6 +3937,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "4efe80432c64ce11b891b698e5e255d1d67fbe40",
+    "abbrevHash": "4efe804",
+    "subject": "Handle empty-states in suggested communities",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-02T19:38:10.000Z",
+    "interesting": false,
+    "videoId": "t17pO4Bnvbo",
+    "videoUrl": "https://youtu.be/t17pO4Bnvbo",
+    "videoQP": "?t=8762"
+  },
+  {
+    "repo": "ctznry",
     "hash": "4381aca2feb47cd3c688104e751c776fdbd155b4",
     "abbrevHash": "4381aca",
     "subject": "Gracefully handle when the home server is down",
@@ -3928,18 +4006,6 @@
     "videoId": "t17pO4Bnvbo",
     "videoUrl": "https://youtu.be/t17pO4Bnvbo",
     "videoQP": "?t=7434"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "b1fd6028db4a84fe649016c3c1893dde2e3a2380",
-    "abbrevHash": "b1fd602",
-    "subject": "Update page titles to reflect content",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-02T18:12:44.000Z",
-    "interesting": false,
-    "videoId": "t17pO4Bnvbo",
-    "videoUrl": "https://youtu.be/t17pO4Bnvbo",
-    "videoQP": "?t=3636"
   },
   {
     "repo": "ctznry",
@@ -5452,20 +5518,20 @@
   },
   {
     "repo": "ctzn",
+    "hash": "0b2055a7bcdbb9270bc107d9c68917cf937d0cfc",
+    "abbrevHash": "0b2055a",
+    "subject": "Improve log behaviors",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-16T22:41:36.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctzn",
     "hash": "064ef13b46af2f3c3c8f1ded489cb50a7ad719cc",
     "abbrevHash": "064ef13",
     "subject": "Remove leftover debugMode: true",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-16T22:41:28.000Z",
-    "interesting": false
-  },
-  {
-    "repo": "ctzn",
-    "hash": "67848c2ffbf9fa9fea2599949b3439d55615914e",
-    "abbrevHash": "67848c2",
-    "subject": "Integrate config tooling into server exec",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-16T22:14:23.000Z",
     "interesting": false
   },
   {
@@ -5911,6 +5977,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "2102d61504752fe68f181da2905dab39de681f3d",
+    "abbrevHash": "2102d61",
+    "subject": "Update composer to use tailwinds",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-10T21:49:35.000Z",
+    "interesting": false,
+    "videoId": "V63gfYGxwaM",
+    "videoUrl": "https://youtu.be/V63gfYGxwaM",
+    "videoQP": "?t=17627"
+  },
+  {
+    "repo": "ctznry",
     "hash": "ea28109f613273b8f90c69d7fbe8b05982f34cae",
     "abbrevHash": "ea28109",
     "subject": "Add view-post page and widen all layouts",
@@ -5944,18 +6022,6 @@
     "videoId": "V63gfYGxwaM",
     "videoUrl": "https://youtu.be/V63gfYGxwaM",
     "videoQP": "?t=7838"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "dc7251225bc3cf94ac7f582792fced4fab4815d0",
-    "abbrevHash": "dc72512",
-    "subject": "Remove old tooltips",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-10T18:53:28.000Z",
-    "interesting": false,
-    "videoId": "V63gfYGxwaM",
-    "videoUrl": "https://youtu.be/V63gfYGxwaM",
-    "videoQP": "?t=7060"
   },
   {
     "repo": "ctznry",
@@ -7306,6 +7372,18 @@
   },
   {
     "repo": "ctzn",
+    "hash": "f47aaad91de22ca50c8ccd53fbed65b427542bae",
+    "abbrevHash": "f47aaad",
+    "subject": "Rework blob storage in databases to use exterior hypercore",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-01-21T18:10:09.000Z",
+    "interesting": false,
+    "videoId": "Hmh1kFAtWGo",
+    "videoUrl": "https://youtu.be/Hmh1kFAtWGo",
+    "videoQP": "?t=3962"
+  },
+  {
+    "repo": "ctzn",
     "hash": "a90b70e355a68a3e1602b0285ea65a7bc78b4bcd",
     "abbrevHash": "a90b70e",
     "subject": "Add avatar uploader",
@@ -7315,18 +7393,6 @@
     "videoId": "4sVt90qxXnw",
     "videoUrl": "https://youtu.be/4sVt90qxXnw",
     "videoQP": "?t=10040"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "beb32d6d3625aa8639da47b056a74fb1b5cd2866",
-    "abbrevHash": "beb32d6",
-    "subject": "Update .gitignore to include built files",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-01-20T23:19:08.000Z",
-    "interesting": false,
-    "videoId": "4sVt90qxXnw",
-    "videoUrl": "https://youtu.be/4sVt90qxXnw",
-    "videoQP": "?t=8715"
   },
   {
     "repo": "ctzn",

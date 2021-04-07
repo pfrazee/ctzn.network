@@ -29,14 +29,7 @@
           "required": ["id"],
           "properties": {
             "id": {"type": "string", "maxLength": 64},
-            "label": {"type": "string", "maxLength": 64},
-            "content": {
-              "type": "object",
-              "required": ["blobName"],
-              "properties": {
-                "blobName": {"type": "string"}
-              }
-            }
+            "label": {"type": "string", "maxLength": 64}
           }
         }
       }
