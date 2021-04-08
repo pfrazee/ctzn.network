@@ -1,6 +1,258 @@
 [
   {
     "repo": "ctznry",
+    "hash": "13bed45f13e27b1390fa65dfab2b789b65c82aa6",
+    "abbrevHash": "13bed45",
+    "subject": "Add HTML support to post extended text",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-08T21:51:47.000Z",
+    "interesting": false,
+    "videoId": "1Khs7IyGkfA",
+    "videoUrl": "https://youtu.be/1Khs7IyGkfA",
+    "videoQP": "?t=19730"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "c6ad439b3bfd2c293e92ff099f4559b627091604",
+    "abbrevHash": "c6ad439",
+    "subject": "0.29.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-08T21:50:53.000Z",
+    "interesting": false,
+    "videoId": "1Khs7IyGkfA",
+    "videoUrl": "https://youtu.be/1Khs7IyGkfA",
+    "videoQP": "?t=19676"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "0c5ae6e9133b2f46f00a6d5f9f4389ede9551c2b",
+    "abbrevHash": "0c5ae6e",
+    "subject": "Add extendedTextMimeType to post schema",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-08T21:50:48.000Z",
+    "interesting": false,
+    "videoId": "1Khs7IyGkfA",
+    "videoUrl": "https://youtu.be/1Khs7IyGkfA",
+    "videoQP": "?t=19671"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "8fd9ff01446c0481a562ec7099d91165dc52ff97",
+    "abbrevHash": "8fd9ff0",
+    "subject": "Fix missing import",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-08T21:08:03.000Z",
+    "interesting": false,
+    "videoId": "1Khs7IyGkfA",
+    "videoUrl": "https://youtu.be/1Khs7IyGkfA",
+    "videoQP": "?t=17106"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "0286d6cbdd56576529edeebe18c32977bba283e0",
+    "abbrevHash": "0286d6c",
+    "subject": "Update edit-profile to include community controls; anyone can now view, but disabled if no perms",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-08T20:31:57.000Z",
+    "interesting": false,
+    "videoId": "1Khs7IyGkfA",
+    "videoUrl": "https://youtu.be/1Khs7IyGkfA",
+    "videoQP": "?t=14940"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "1885e56b54e6e5681de880df2c0d1e4ba4628f6f",
+    "abbrevHash": "1885e56",
+    "subject": "Fix rendering bug on unfollow",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-08T19:24:01.000Z",
+    "interesting": false,
+    "videoId": "1Khs7IyGkfA",
+    "videoUrl": "https://youtu.be/1Khs7IyGkfA",
+    "videoQP": "?t=10864"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "68493107a6d6a568b3eb8f3e959dcc3a7dd53cb7",
+    "abbrevHash": "6849310",
+    "subject": "Fix load new behaviors in notifications",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-08T19:15:00.000Z",
+    "interesting": false,
+    "videoId": "1Khs7IyGkfA",
+    "videoUrl": "https://youtu.be/1Khs7IyGkfA",
+    "videoQP": "?t=10323"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "672cdd4b54d0a6834461bfb6c10638b10077364a",
+    "abbrevHash": "672cdd4",
+    "subject": "Load needed state for item-classes-list",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-08T18:59:19.000Z",
+    "interesting": false,
+    "videoId": "1Khs7IyGkfA",
+    "videoUrl": "https://youtu.be/1Khs7IyGkfA",
+    "videoQP": "?t=9382"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "3821f4decfb7285161cbc4dd22634c0e527356bd",
+    "abbrevHash": "3821f4d",
+    "subject": "Add consistent handling of delete post and remove post (moderator)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-08T18:46:54.000Z",
+    "interesting": false,
+    "videoId": "1Khs7IyGkfA",
+    "videoUrl": "https://youtu.be/1Khs7IyGkfA",
+    "videoQP": "?t=8637"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "a075c53294b02058ab218040dbb45e4daea6f4fe",
+    "abbrevHash": "a075c53",
+    "subject": "Close community-selector on selection",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-08T18:39:50.000Z",
+    "interesting": false,
+    "videoId": "1Khs7IyGkfA",
+    "videoUrl": "https://youtu.be/1Khs7IyGkfA",
+    "videoQP": "?t=8213"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "844153c87f933f90a318ead2a6a5fc12cf40a77d",
+    "abbrevHash": "844153c",
+    "subject": "Avoid layout jumps in edit-profile",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-08T18:25:29.000Z",
+    "interesting": false,
+    "videoId": "1Khs7IyGkfA",
+    "videoUrl": "https://youtu.be/1Khs7IyGkfA",
+    "videoQP": "?t=7352"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "b15d558079e513b676bcb6a9659193147c141ba4",
+    "abbrevHash": "b15d558",
+    "subject": "Use spinner while edit-profile is submitting",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-08T18:23:04.000Z",
+    "interesting": false,
+    "videoId": "1Khs7IyGkfA",
+    "videoUrl": "https://youtu.be/1Khs7IyGkfA",
+    "videoQP": "?t=7207"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "91252c37669284e01bdad82ce14219887b71b726",
+    "abbrevHash": "91252c3",
+    "subject": "Improve base64 encoding to support unicode",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-08T18:09:00.000Z",
+    "interesting": false,
+    "videoId": "1Khs7IyGkfA",
+    "videoUrl": "https://youtu.be/1Khs7IyGkfA",
+    "videoQP": "?t=6363"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "eb31d4f1ebc575d33ef37083b922290cb82a998c",
+    "abbrevHash": "eb31d4f",
+    "subject": "Show all images in expanded post and add lightbox on click",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-08T17:58:14.000Z",
+    "interesting": false,
+    "videoId": "1Khs7IyGkfA",
+    "videoUrl": "https://youtu.be/1Khs7IyGkfA",
+    "videoQP": "?t=5717"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "309c84a98ee74554cdffa948ff7f921622fda9bd",
+    "abbrevHash": "309c84a",
+    "subject": "Re-add reaction/gifts view popup",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-08T17:42:26.000Z",
+    "interesting": false,
+    "videoId": "1Khs7IyGkfA",
+    "videoUrl": "https://youtu.be/1Khs7IyGkfA",
+    "videoQP": "?t=4769"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "23842b42b877aa712562edb1448f8a96e33054f1",
+    "abbrevHash": "23842b4",
+    "subject": "Default ctzn-post-view to condensed rather than full",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-08T17:27:13.000Z",
+    "interesting": false,
+    "videoId": "1Khs7IyGkfA",
+    "videoUrl": "https://youtu.be/1Khs7IyGkfA",
+    "videoQP": "?t=3856"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "f2be7f4114d28a1bd293ce21ea4e6122e080c0b8",
+    "abbrevHash": "f2be7f4",
+    "subject": "UI fixes related to tag name changes",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-08T17:16:55.000Z",
+    "interesting": false,
+    "videoId": "1Khs7IyGkfA",
+    "videoUrl": "https://youtu.be/1Khs7IyGkfA",
+    "videoQP": "?t=3238"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "bbed0d46e1970d2d5dee5b3eae472fb46ccd979e",
+    "abbrevHash": "bbed0d4",
+    "subject": "Tweak auto-sizer to larger minimum size",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-08T17:04:38.000Z",
+    "interesting": false,
+    "videoId": "1Khs7IyGkfA",
+    "videoUrl": "https://youtu.be/1Khs7IyGkfA",
+    "videoQP": "?t=2501"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "9f411f2b60d71229adbbea70665b1971d480c3bc",
+    "abbrevHash": "9f411f2",
+    "subject": "Fix overly-aggressive click handler on post-view",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-08T16:49:07.000Z",
+    "interesting": false,
+    "videoId": "1Khs7IyGkfA",
+    "videoUrl": "https://youtu.be/1Khs7IyGkfA",
+    "videoQP": "?t=1570"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "2ee7cf0b5003140f7b31ac9b0cf03c7a61871357",
+    "abbrevHash": "2ee7cf0",
+    "subject": "Add spinners to indicate loading on members-list, memberships-list, followers-list, following-list",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-08T16:47:21.000Z",
+    "interesting": false,
+    "videoId": "1Khs7IyGkfA",
+    "videoUrl": "https://youtu.be/1Khs7IyGkfA",
+    "videoQP": "?t=1464"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "6eeebfd0401f6a16775557dae74b8d959cb4bf84",
+    "abbrevHash": "6eeebfd",
+    "subject": "Fix to followers-list (add missing include)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-08T16:42:41.000Z",
+    "interesting": false,
+    "videoId": "1Khs7IyGkfA",
+    "videoUrl": "https://youtu.be/1Khs7IyGkfA",
+    "videoQP": "?t=1184"
+  },
+  {
+    "repo": "ctznry",
     "hash": "70f57a130de10e4551e83da87b4d9b10b34847ce",
     "abbrevHash": "70f57a1",
     "subject": "Merge branch 'master' of github.com:pfrazee/ctznry",
@@ -1147,6 +1399,15 @@
   },
   {
     "repo": "ctznry",
+    "hash": "9da4731230155136591168db11a9edacea181fd0",
+    "abbrevHash": "9da4731",
+    "subject": "Fix some overflow issues",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-28T01:14:05.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
     "hash": "760970a76a70c9f03538100821638bed9094dc5c",
     "abbrevHash": "760970a",
     "subject": "Recenter content, add 2col mode to main, add suggestions, add secondary-menu",
@@ -1468,18 +1729,6 @@
     "videoId": "xPFZHQN5y94",
     "videoUrl": "https://youtu.be/xPFZHQN5y94",
     "videoQP": "?t=18985"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "82231b87998337d0037b6af468cf2cd0c1c13b12",
-    "abbrevHash": "82231b8",
-    "subject": "Update the aesthetics of notifications to match everything else",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-24T21:19:20.000Z",
-    "interesting": false,
-    "videoId": "xPFZHQN5y94",
-    "videoUrl": "https://youtu.be/xPFZHQN5y94",
-    "videoQP": "?t=17389"
   },
   {
     "repo": "ctznry",
@@ -2707,6 +2956,18 @@
   },
   {
     "repo": "ctzn",
+    "hash": "952f21e5d7665aab5e4dce138cd26864ea0e58c8",
+    "abbrevHash": "952f21e",
+    "subject": "Implement database methods",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-11T22:53:30.000Z",
+    "interesting": true,
+    "videoId": "6niXnUcooG4",
+    "videoUrl": "https://youtu.be/6niXnUcooG4",
+    "videoQP": "?t=21044"
+  },
+  {
+    "repo": "ctzn",
     "hash": "003f48704718d0084032fc5def7e4bbde1000ea4",
     "abbrevHash": "003f487",
     "subject": "Add keyTemplates & table.insert/update/del, remove old mutators",
@@ -2728,18 +2989,6 @@
     "videoId": "6niXnUcooG4",
     "videoUrl": "https://youtu.be/6niXnUcooG4",
     "videoQP": "?t=8312"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "9593defbedd6134890f50d52796ce801282f9a8d",
-    "abbrevHash": "9593def",
-    "subject": "Various bugfixes",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-11T19:20:53.000Z",
-    "interesting": false,
-    "videoId": "6niXnUcooG4",
-    "videoUrl": "https://youtu.be/6niXnUcooG4",
-    "videoQP": "?t=8287"
   },
   {
     "repo": "ctzn",
@@ -3484,6 +3733,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "08bea51232e81afba2e45d01e2b4071c49d762c7",
+    "abbrevHash": "08bea51",
+    "subject": "Improve image sizing and loading behaviors",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-05T20:41:12.000Z",
+    "interesting": false,
+    "videoId": "7Q-l2sobpYY",
+    "videoUrl": "https://youtu.be/7Q-l2sobpYY",
+    "videoQP": "?t=1481"
+  },
+  {
+    "repo": "ctznry",
     "hash": "c370f39539c6caf8823df6df355f3d057d281046",
     "abbrevHash": "c370f39",
     "subject": "Show captions on images in expanded posts",
@@ -3922,18 +4183,6 @@
     "videoId": "t17pO4Bnvbo",
     "videoUrl": "https://youtu.be/t17pO4Bnvbo",
     "videoQP": "?t=9024"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "4efe80432c64ce11b891b698e5e255d1d67fbe40",
-    "abbrevHash": "4efe804",
-    "subject": "Handle empty-states in suggested communities",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-02T19:38:10.000Z",
-    "interesting": false,
-    "videoId": "t17pO4Bnvbo",
-    "videoUrl": "https://youtu.be/t17pO4Bnvbo",
-    "videoQP": "?t=8762"
   },
   {
     "repo": "ctznry",
@@ -5346,6 +5595,15 @@
     "interesting": false
   },
   {
+    "repo": "ctznry",
+    "hash": "b6db45d19122106d99ced3e51d24e30aba1d0098",
+    "abbrevHash": "b6db45d",
+    "subject": "Big UI rework",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-18T02:48:42.000Z",
+    "interesting": false
+  },
+  {
     "repo": "ctzn",
     "hash": "9cf6a3db392d35fae1fa0a08331eefa98f0e6567",
     "abbrevHash": "9cf6a3d",
@@ -5500,20 +5758,20 @@
   },
   {
     "repo": "ctzn",
+    "hash": "4586081c665cbe884230bc186516b85dbbd950ac",
+    "abbrevHash": "4586081",
+    "subject": "Fix various config bugs",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-17T00:32:32.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctzn",
     "hash": "f9ac4ad79f67e9690ec7382061ddee04efc94ef9",
     "abbrevHash": "f9ac4ad",
     "subject": "Add loopback WS authentication",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-16T23:09:58.000Z",
-    "interesting": false
-  },
-  {
-    "repo": "ctzn",
-    "hash": "0b2055a7bcdbb9270bc107d9c68917cf937d0cfc",
-    "abbrevHash": "0b2055a",
-    "subject": "Improve log behaviors",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-16T22:41:36.000Z",
     "interesting": false
   },
   {
@@ -5962,18 +6220,6 @@
     "videoId": "V63gfYGxwaM",
     "videoUrl": "https://youtu.be/V63gfYGxwaM",
     "videoQP": "?t=18073"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "2102d61504752fe68f181da2905dab39de681f3d",
-    "abbrevHash": "2102d61",
-    "subject": "Update composer to use tailwinds",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-10T21:49:35.000Z",
-    "interesting": false,
-    "videoId": "V63gfYGxwaM",
-    "videoUrl": "https://youtu.be/V63gfYGxwaM",
-    "videoQP": "?t=17627"
   },
   {
     "repo": "ctznry",
@@ -7348,6 +7594,18 @@
   },
   {
     "repo": "ctzn",
+    "hash": "0905c7e10dc9c2c53a4fe05e923af3c7bc38d221",
+    "abbrevHash": "0905c7e",
+    "subject": "Add following and unfollowing",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-01-21T18:51:10.000Z",
+    "interesting": false,
+    "videoId": "Hmh1kFAtWGo",
+    "videoUrl": "https://youtu.be/Hmh1kFAtWGo",
+    "videoQP": "?t=6423"
+  },
+  {
+    "repo": "ctzn",
     "hash": "4be57ae1dd97812f58bd9d4be19a06e2baa6d9bc",
     "abbrevHash": "4be57ae",
     "subject": "Add create-user CLI command",
@@ -7357,18 +7615,6 @@
     "videoId": "Hmh1kFAtWGo",
     "videoUrl": "https://youtu.be/Hmh1kFAtWGo",
     "videoQP": "?t=4642"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "f47aaad91de22ca50c8ccd53fbed65b427542bae",
-    "abbrevHash": "f47aaad",
-    "subject": "Rework blob storage in databases to use exterior hypercore",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-01-21T18:10:09.000Z",
-    "interesting": false,
-    "videoId": "Hmh1kFAtWGo",
-    "videoUrl": "https://youtu.be/Hmh1kFAtWGo",
-    "videoQP": "?t=3962"
   },
   {
     "repo": "ctzn",
