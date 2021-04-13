@@ -1,6 +1,129 @@
 [
   {
     "repo": "ctznry",
+    "hash": "8fd08d2c6f896cb22baed04a2e91444c930244ca",
+    "abbrevHash": "8fd08d2",
+    "subject": "Add WIP tinymce editor to post composer",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-13T01:01:51.000Z",
+    "interesting": false,
+    "videoId": "xGI4DiSczew",
+    "videoUrl": "https://youtu.be/xGI4DiSczew",
+    "videoQP": "?t=33526"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "44f1b9090cdb770d7ffcf38faf853692efca48e7",
+    "abbrevHash": "44f1b90",
+    "subject": "Fix: in view-item, show community members as potential transfer targets",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-12T20:12:27.000Z",
+    "interesting": false,
+    "videoId": "xGI4DiSczew",
+    "videoUrl": "https://youtu.be/xGI4DiSczew",
+    "videoQP": "?t=16162"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "af2f849917a6916df40b4455206c5d434c80a2ec",
+    "abbrevHash": "af2f849",
+    "subject": "Apply a hackfix to break-words class",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-12T20:10:00.000Z",
+    "interesting": false,
+    "videoId": "xGI4DiSczew",
+    "videoUrl": "https://youtu.be/xGI4DiSczew",
+    "videoQP": "?t=16015"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "ba2d67b8c1654932973db31f1b6cc2b6d02fdbec",
+    "abbrevHash": "ba2d67b",
+    "subject": "Fix the infinite scroll in home and notifications feeds",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-12T20:02:17.000Z",
+    "interesting": false,
+    "videoId": "xGI4DiSczew",
+    "videoUrl": "https://youtu.be/xGI4DiSczew",
+    "videoQP": "?t=15552"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "7dd9a4abb65d0951d2a522d3eafc842709c3ae08",
+    "abbrevHash": "7dd9a4a",
+    "subject": "Fixes to comments-feed",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-12T19:56:26.000Z",
+    "interesting": false,
+    "videoId": "xGI4DiSczew",
+    "videoUrl": "https://youtu.be/xGI4DiSczew",
+    "videoQP": "?t=15201"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "14145b79eee9dc35496fe3c0187b1255ead120bc",
+    "abbrevHash": "14145b7",
+    "subject": "Rework comment-view tag to derive from previews app-comment tag; remove app-comment",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-12T19:56:18.000Z",
+    "interesting": false,
+    "videoId": "xGI4DiSczew",
+    "videoUrl": "https://youtu.be/xGI4DiSczew",
+    "videoQP": "?t=15193"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "d40de6024acd94dc0c2d0f8049ddc2bbaf090375",
+    "abbrevHash": "d40de60",
+    "subject": "Rework post-view tag mode to be default, expanded, content-only",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-12T19:54:23.000Z",
+    "interesting": false,
+    "videoId": "xGI4DiSczew",
+    "videoUrl": "https://youtu.be/xGI4DiSczew",
+    "videoQP": "?t=15078"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "fbce9e92cfacfce414646a6447486071f83d3e3c",
+    "abbrevHash": "fbce9e9",
+    "subject": "Fix permission check in comment-view",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-12T18:30:06.000Z",
+    "interesting": false,
+    "videoId": "xGI4DiSczew",
+    "videoUrl": "https://youtu.be/xGI4DiSczew",
+    "videoQP": "?t=10021"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "1f3bef4a4db717aaccb49733810e98309eb6751a",
+    "abbrevHash": "1f3bef4",
+    "subject": "fixup! add ctzn-comments-feed",
+    "authorName": "Mel Heisey",
+    "authorDate": "2021-04-10T23:31:29.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "95f443cf3888ad54f6b6e860e183d8bdb861f1ab",
+    "abbrevHash": "95f443c",
+    "subject": "add ctzn-comments-feed",
+    "authorName": "Mel Heisey",
+    "authorDate": "2021-04-10T23:23:06.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "004d4330fd34957ff16c25dfac9f94be92178082",
+    "abbrevHash": "004d433",
+    "subject": "add comment-view element",
+    "authorName": "Mel Heisey",
+    "authorDate": "2021-04-10T22:12:17.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
     "hash": "ad0a3aec98aa1b16fd6a1d96e48d0db855cd12e7",
     "abbrevHash": "ad0a3ae",
     "subject": "Make sure the X is always visible in the lightbox",
@@ -1126,6 +1249,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "7e2c237dce5b42f508432a2c7f29a60a172688ef",
+    "abbrevHash": "7e2c237",
+    "subject": "Disable lazy loading for feed avatars",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-02T17:20:04.000Z",
+    "interesting": false,
+    "videoId": "O1Wtl63KlKA",
+    "videoUrl": "https://youtu.be/O1Wtl63KlKA",
+    "videoQP": "?t=3915"
+  },
+  {
+    "repo": "ctznry",
     "hash": "ac0ed974889b1486ab7c2b4f2476af97f9ceea0b",
     "abbrevHash": "ac0ed97",
     "subject": "Slightly enlarge avatars on the feed",
@@ -1267,18 +1402,6 @@
     "videoId": "8X-1bTGf5XE",
     "videoUrl": "https://youtu.be/8X-1bTGf5XE",
     "videoQP": "?t=7091"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "c46cc6b13823b6229c94d5598ebdbaa62dee02cb",
-    "abbrevHash": "c46cc6b",
-    "subject": "Fix: allow dashes in role ids",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-31T20:51:59.000Z",
-    "interesting": false,
-    "videoId": "8X-1bTGf5XE",
-    "videoUrl": "https://youtu.be/8X-1bTGf5XE",
-    "videoQP": "?t=6821"
   },
   {
     "repo": "ctznry",
@@ -3466,6 +3589,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "14b6f439aa66771db12868873cd5c4b09551ef89",
+    "abbrevHash": "14b6f43",
+    "subject": "Improve thread-rendering UI on mobile",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-10T18:26:18.000Z",
+    "interesting": false,
+    "videoId": "S0vJBOPkQJo",
+    "videoUrl": "https://youtu.be/S0vJBOPkQJo",
+    "videoQP": "?t=6138"
+  },
+  {
+    "repo": "ctznry",
     "hash": "711ef0bfdd7a8087dfd13b27b79606677794d266",
     "abbrevHash": "711ef0b",
     "subject": "Fix: load threads from community home-server when viewing a post in a community",
@@ -3583,18 +3718,6 @@
     "videoId": "OVHF0otRc_k",
     "videoUrl": "https://youtu.be/OVHF0otRc_k",
     "videoQP": "?t=21872"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "055685a57a2f8f26ca92a7aee0d526709162acfe",
-    "abbrevHash": "055685a",
-    "subject": "Fix mobile styles for post view",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-09T21:34:29.000Z",
-    "interesting": false,
-    "videoId": "OVHF0otRc_k",
-    "videoUrl": "https://youtu.be/OVHF0otRc_k",
-    "videoQP": "?t=19873"
   },
   {
     "repo": "ctznry",
@@ -5169,6 +5292,15 @@
     "interesting": false
   },
   {
+    "repo": "ctznry",
+    "hash": "9540e8500455b8cd22ac6133c8e65f6a3bdff6af",
+    "abbrevHash": "9540e85",
+    "subject": "Include pink colors in purge safelist, not being picked up automatically",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-27T16:40:43.000Z",
+    "interesting": false
+  },
+  {
     "repo": "ctzn",
     "hash": "a3bf422ae60ab4a77150ca95cac85682960f6098",
     "abbrevHash": "a3bf422",
@@ -5476,18 +5608,6 @@
     "videoId": "Qq4K16whWX0",
     "videoUrl": "https://youtu.be/Qq4K16whWX0",
     "videoQP": "?t=20680"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "6556a2b4c8c4b0c2aed2d661873d99b8bac62f80",
-    "abbrevHash": "6556a2b",
-    "subject": "Rework login and signup UIs",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-23T23:20:09.000Z",
-    "interesting": false,
-    "videoId": "8FraHpJjztg",
-    "videoUrl": "https://youtu.be/8FraHpJjztg",
-    "videoQP": "?t=20380"
   },
   {
     "repo": "ctznry",

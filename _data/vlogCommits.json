@@ -2025,14 +2025,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "6556a2b4c8c4b0c2aed2d661873d99b8bac62f80",
-    "abbrevHash": "6556a2b",
-    "subject": "Rework login and signup UIs",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-23T23:20:09.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "3b5f9927ce0f96ba010e03c53a8a2da76f44b4ec",
     "abbrevHash": "3b5f992",
     "subject": "UI reworks, including mobile",
@@ -2238,6 +2230,14 @@
     "subject": "Expect nullability consistently",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-26T21:04:26.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "9540e8500455b8cd22ac6133c8e65f6a3bdff6af",
+    "abbrevHash": "9540e85",
+    "subject": "Include pink colors in purge safelist, not being picked up automatically",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-27T16:40:43.000Z"
   },
   {
     "repo": "ctznry",
@@ -3305,14 +3305,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "055685a57a2f8f26ca92a7aee0d526709162acfe",
-    "abbrevHash": "055685a",
-    "subject": "Fix mobile styles for post view",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-09T21:34:29.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "0d4dfc791b1fb7cd8c90f8d1cb5ace0eca554d80",
     "abbrevHash": "0d4dfc7",
     "subject": "Improve feeds scrolling behaviors and use a cache to speed things up",
@@ -3390,6 +3382,14 @@
     "subject": "Fix: load threads from community home-server when viewing a post in a community",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-10T18:20:14.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "14b6f439aa66771db12868873cd5c4b09551ef89",
+    "abbrevHash": "14b6f43",
+    "subject": "Improve thread-rendering UI on mobile",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-10T18:26:18.000Z"
   },
   {
     "repo": "ctznry",
@@ -4897,14 +4897,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "c46cc6b13823b6229c94d5598ebdbaa62dee02cb",
-    "abbrevHash": "c46cc6b",
-    "subject": "Fix: allow dashes in role ids",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-31T20:51:59.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "57afe2fb6690e4c15a5979125ecb226409379fdc",
     "abbrevHash": "57afe2f",
     "subject": "Fix user profile currentView read from url",
@@ -4998,6 +4990,14 @@
     "subject": "Slightly enlarge avatars on the feed",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-02T17:19:34.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "7e2c237dce5b42f508432a2c7f29a60a172688ef",
+    "abbrevHash": "7e2c237",
+    "subject": "Disable lazy loading for feed avatars",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-02T17:20:04.000Z"
   },
   {
     "repo": "ctznry",
@@ -5758,5 +5758,93 @@
     "subject": "Make sure the X is always visible in the lightbox",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-09T20:24:39.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "004d4330fd34957ff16c25dfac9f94be92178082",
+    "abbrevHash": "004d433",
+    "subject": "add comment-view element",
+    "authorName": "Mel Heisey",
+    "authorDate": "2021-04-10T22:12:17.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "95f443cf3888ad54f6b6e860e183d8bdb861f1ab",
+    "abbrevHash": "95f443c",
+    "subject": "add ctzn-comments-feed",
+    "authorName": "Mel Heisey",
+    "authorDate": "2021-04-10T23:23:06.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "1f3bef4a4db717aaccb49733810e98309eb6751a",
+    "abbrevHash": "1f3bef4",
+    "subject": "fixup! add ctzn-comments-feed",
+    "authorName": "Mel Heisey",
+    "authorDate": "2021-04-10T23:31:29.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "fbce9e92cfacfce414646a6447486071f83d3e3c",
+    "abbrevHash": "fbce9e9",
+    "subject": "Fix permission check in comment-view",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-12T18:30:06.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "d40de6024acd94dc0c2d0f8049ddc2bbaf090375",
+    "abbrevHash": "d40de60",
+    "subject": "Rework post-view tag mode to be default, expanded, content-only",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-12T19:54:23.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "14145b79eee9dc35496fe3c0187b1255ead120bc",
+    "abbrevHash": "14145b7",
+    "subject": "Rework comment-view tag to derive from previews app-comment tag; remove app-comment",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-12T19:56:18.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "7dd9a4abb65d0951d2a522d3eafc842709c3ae08",
+    "abbrevHash": "7dd9a4a",
+    "subject": "Fixes to comments-feed",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-12T19:56:26.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "ba2d67b8c1654932973db31f1b6cc2b6d02fdbec",
+    "abbrevHash": "ba2d67b",
+    "subject": "Fix the infinite scroll in home and notifications feeds",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-12T20:02:17.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "af2f849917a6916df40b4455206c5d434c80a2ec",
+    "abbrevHash": "af2f849",
+    "subject": "Apply a hackfix to break-words class",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-12T20:10:00.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "44f1b9090cdb770d7ffcf38faf853692efca48e7",
+    "abbrevHash": "44f1b90",
+    "subject": "Fix: in view-item, show community members as potential transfer targets",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-12T20:12:27.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "8fd08d2c6f896cb22baed04a2e91444c930244ca",
+    "abbrevHash": "8fd08d2",
+    "subject": "Add WIP tinymce editor to post composer",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-13T01:01:51.000Z"
   }
 ]
