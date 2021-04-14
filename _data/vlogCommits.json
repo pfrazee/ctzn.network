@@ -265,19 +265,19 @@
   },
   {
     "repo": "ctzn",
-    "hash": "0905c7e10dc9c2c53a4fe05e923af3c7bc38d221",
-    "abbrevHash": "0905c7e",
-    "subject": "Add following and unfollowing",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-01-21T18:51:10.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "cf67914141527a5badf932e506f99c4849bcf78f",
     "abbrevHash": "cf67914",
     "subject": "Add follower/following user list views",
     "authorName": "Paul Frazee",
     "authorDate": "2021-01-21T19:42:02.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "40a47ed7962418e0707213a6055656b70501d1ef",
+    "abbrevHash": "40a47ed",
+    "subject": "Add simple listHomeFeed impl",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-01-21T20:12:20.000Z"
   },
   {
     "repo": "ctzn",
@@ -785,14 +785,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "1a0fe707db912775d8c23fb53aca6da90e4680e0",
-    "abbrevHash": "1a0fe70",
-    "subject": "Indicate the community a post is in",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-08T22:36:53.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "0016ed050cab000624dd6e42cd87e3df85a31b20",
     "abbrevHash": "0016ed0",
     "subject": "Indicate community in notifications",
@@ -1150,6 +1142,14 @@
     "subject": "0.2.2",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-10T18:52:52.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "dc7251225bc3cf94ac7f582792fced4fab4815d0",
+    "abbrevHash": "dc72512",
+    "subject": "Remove old tooltips",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-10T18:53:28.000Z"
   },
   {
     "repo": "ctznry",
@@ -1521,19 +1521,19 @@
   },
   {
     "repo": "ctzn",
-    "hash": "4586081c665cbe884230bc186516b85dbbd950ac",
-    "abbrevHash": "4586081",
-    "subject": "Fix various config bugs",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-17T00:32:32.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "14824b92172a4982b1fc86fa1d9d587fc5631d1b",
     "abbrevHash": "14824b9",
     "subject": "Implement Hyperspace TUI",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-17T01:08:26.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "5e95fb68aafc866929fbd5609bee561378bfbc94",
+    "abbrevHash": "5e95fb6",
+    "subject": "0.6.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-17T01:08:30.000Z"
   },
   {
     "repo": "ctzn",
@@ -2409,14 +2409,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "a3fdb220c29c7f0d984695d5105c0b342d310074",
-    "abbrevHash": "a3fdb22",
-    "subject": "Add comment page",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-01T19:43:38.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "abed60474b243c91983843769b2f304a8bac78bd",
     "abbrevHash": "abed604",
     "subject": "Update the user's memberships state after join/leave",
@@ -2614,6 +2606,14 @@
     "subject": "Fix styling of mobile notifications",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-02T18:12:03.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "b1fd6028db4a84fe649016c3c1893dde2e3a2380",
+    "abbrevHash": "b1fd602",
+    "subject": "Update page titles to reflect content",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-02T18:12:44.000Z"
   },
   {
     "repo": "ctznry",
@@ -3497,19 +3497,19 @@
   },
   {
     "repo": "ctzn",
-    "hash": "952f21e5d7665aab5e4dce138cd26864ea0e58c8",
-    "abbrevHash": "952f21e",
-    "subject": "Implement database methods",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-11T22:53:30.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "3b4e658572063adba755ca85720661ba08c9b3ba",
     "abbrevHash": "3b4e658",
     "subject": "Add dbmethod schemas and automatic validation",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-12T17:57:32.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "7af5109c539ef0f48dbae336683d57089edb96aa",
+    "abbrevHash": "7af5109",
+    "subject": "Add tooling for defining dbmethods and schemas for multiple planned methods",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-12T18:09:55.000Z"
   },
   {
     "repo": "ctzn",
@@ -3921,14 +3921,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "c05e0923f39420d7e452d2867ec1352e796c6675",
-    "abbrevHash": "c05e092",
-    "subject": "Fix vercel config again",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-16T18:57:27.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "7b6f216493ccd395612d64a1f1a99b64e8cb3f18",
     "abbrevHash": "7b6f216",
     "subject": "Fix navigation in user view",
@@ -4278,6 +4270,14 @@
     "subject": "Add 'view media' popup that triggers on clicking an avatar",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-24T18:53:32.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "23703c2e19aa5920304dcb01e3d3feac1e787f6d",
+    "abbrevHash": "23703c2",
+    "subject": "Open and scroll to expandable sections in profiles when clicking on metrics",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T19:13:57.000Z"
   },
   {
     "repo": "ctznry",
@@ -5121,14 +5121,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "7de6c2685a7d4cbc5538486fc27eb57e39fe6126",
-    "abbrevHash": "7de6c26",
-    "subject": "Fixes/updates to the mobile slideout menu",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-04-02T21:53:32.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "9bfeb627bdfaced9286c40af72115eceb4bad149",
     "abbrevHash": "9bfeb62",
     "subject": "Move 'pull to refresh' to containing views",
@@ -5302,6 +5294,14 @@
     "subject": "Fixes to scroll-positioning on nav",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-05T20:10:58.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "59aa05e79d2cf0cc3bb32f300102b10e0e944de9",
+    "abbrevHash": "59aa05e",
+    "subject": "More scroll-position fixing",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T20:21:08.000Z"
   },
   {
     "repo": "ctznry",
@@ -5966,5 +5966,189 @@
     "subject": "Rework custom-html to use CSS rules and improve aesthetics a bit",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-13T23:56:21.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "8de33c008b1704de4c90051dd44921a07e4b0763",
+    "abbrevHash": "8de33c0",
+    "subject": "Update edit-profile to use rich editor; add posts-feed to rich editor",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T17:08:03.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "8d622513b743d3507ecdb122160618ae0c9ac409",
+    "abbrevHash": "8d62251",
+    "subject": "Fix post-composer",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T17:27:31.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "1f7ef0dd14b46a507109a2d7038e69f267f79851",
+    "abbrevHash": "1f7ef0d",
+    "subject": "Add comments-feed com to rich editor",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T17:31:25.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "84685cb0c1f65a683b30884ed7a4b0ef10908f42",
+    "abbrevHash": "84685cb",
+    "subject": "Add community-members-list to rich editor",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T17:53:17.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "f4daa4ee2d2a4d0666eaddbb4541a65d66853269",
+    "abbrevHash": "f4daa4e",
+    "subject": "Add community-memberships-list to rich editor",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T18:02:45.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "f6a5b047cadcce69dd6633216c5a2e189cbdf9bb",
+    "abbrevHash": "f6a5b04",
+    "subject": "Add followers-list and following-list to rich editor",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T18:09:41.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "993591a9cd6baf9f49dcbd4675aaf9d5fa8d14f5",
+    "abbrevHash": "993591a",
+    "subject": "Add dbmethods-feed to rich editor",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T19:00:01.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "62bfebb51f03328f6bf3f8a6dd5840d7302d1132",
+    "abbrevHash": "62bfebb",
+    "subject": "Add item-classes-list and owned-items-list to rich editor",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T19:05:23.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "81327c399f59c370577a8a6752e37e36b8ed85ae",
+    "abbrevHash": "81327c3",
+    "subject": "Add card to rich editor",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T20:26:33.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "57fad409ecde417c47bc53fe276a4cf507df70d6",
+    "abbrevHash": "57fad40",
+    "subject": "Say 'OK' rather than 'Save' in ui editor popup, for clarity",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T20:26:55.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "852b5b646d13700befe11ac918709b449c08f27a",
+    "abbrevHash": "852b5b6",
+    "subject": "Fix styling in html preview",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T20:27:07.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "cf075c984547f81c095cf6d65da9219c693a7451",
+    "abbrevHash": "cf075c9",
+    "subject": "Remove tinymce URL filtering (it was wrong)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T20:27:21.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "a28ae57a7d57f103f7f6b304427eeb01d3e9e8b2",
+    "abbrevHash": "a28ae57",
+    "subject": "Rename community-memberships-list in editor for clarity",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T20:27:45.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "b0496e8cf649a172f22a820c17c02558724f622b",
+    "abbrevHash": "b0496e8",
+    "subject": "Filter out empty nodes from tinymce",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T20:27:58.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "17cbc257c39dd1d7c21e04dcc67cd965e2c40091",
+    "abbrevHash": "17cbc25",
+    "subject": "Fixes to editor tags",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T20:28:13.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "53d0f2fccd245a62978ecf1f24c1183bf16809ab",
+    "abbrevHash": "53d0f2f",
+    "subject": "Fix caching in comments and posts feeds",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T20:28:20.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "c758f236a79fb8e8787f75e45cb7105bc58cb4f5",
+    "abbrevHash": "c758f23",
+    "subject": "Fix ctzn-code escaping",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T20:48:37.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "ac6550889dec066232f6532dfe889d455dc03340",
+    "abbrevHash": "ac65508",
+    "subject": "Fix timing issue which caused rich editor to disappear after first load",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T21:01:16.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "bbf1fde14767e9b3843a9972be1890b51436a3a4",
+    "abbrevHash": "bbf1fde",
+    "subject": "Add loading spinner to rich editor",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T21:03:26.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "a5f48e69f547401e409672e55d82687c383268da",
+    "abbrevHash": "a5f48e6",
+    "subject": "Fix a terrible, terrible mistake in the loopback API security. Yikes, paul. Yikes.",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T21:22:54.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "e278ab6270342aa2982a0f19c2b4680b9992ca5f",
+    "abbrevHash": "e278ab6",
+    "subject": "0.29.1",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T21:23:01.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "032cdf74c5a3b20ed2d1aed19f324ebdfef836e6",
+    "abbrevHash": "032cdf7",
+    "subject": "Add simple community-recommendations algorithm (followed users' memberships)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T23:03:18.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "90ffc28827d51af984a75df5bcad46fb16e2b9c3",
+    "abbrevHash": "90ffc28",
+    "subject": "Add suggested communities to communities page",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T23:17:35.000Z"
   }
 ]
