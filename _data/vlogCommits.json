@@ -785,6 +785,14 @@
   },
   {
     "repo": "ctznry",
+    "hash": "1a0fe707db912775d8c23fb53aca6da90e4680e0",
+    "abbrevHash": "1a0fe70",
+    "subject": "Indicate the community a post is in",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-08T22:36:53.000Z"
+  },
+  {
+    "repo": "ctznry",
     "hash": "0016ed050cab000624dd6e42cd87e3df85a31b20",
     "abbrevHash": "0016ed0",
     "subject": "Indicate community in notifications",
@@ -2241,14 +2249,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "9540e8500455b8cd22ac6133c8e65f6a3bdff6af",
-    "abbrevHash": "9540e85",
-    "subject": "Include pink colors in purge safelist, not being picked up automatically",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-27T16:40:43.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "2abc42d643210e8b8e9836087e2984e796005d71",
     "abbrevHash": "2abc42d",
     "subject": "Remove debug suggested communities",
@@ -2398,6 +2398,14 @@
     "subject": "Remove duplicate views dir and serve html files in the bin.js mode",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-01T19:41:13.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "a3fdb220c29c7f0d984695d5105c0b342d310074",
+    "abbrevHash": "a3fdb22",
+    "subject": "Add comment page",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-01T19:43:38.000Z"
   },
   {
     "repo": "ctznry",
@@ -3393,14 +3401,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "14b6f439aa66771db12868873cd5c4b09551ef89",
-    "abbrevHash": "14b6f43",
-    "subject": "Improve thread-rendering UI on mobile",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-10T18:26:18.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "613da6d348984c9fb4c2f6d971a2fb6780391626",
     "abbrevHash": "613da6d",
     "subject": "Apply content-visibility CSS optimization to the feed",
@@ -3910,6 +3910,14 @@
     "subject": "Fix vercel config",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-16T18:54:59.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "c05e0923f39420d7e452d2867ec1352e796c6675",
+    "abbrevHash": "c05e092",
+    "subject": "Fix vercel config again",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T18:57:27.000Z"
   },
   {
     "repo": "ctznry",
@@ -5001,14 +5009,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "7e2c237dce5b42f508432a2c7f29a60a172688ef",
-    "abbrevHash": "7e2c237",
-    "subject": "Disable lazy loading for feed avatars",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-04-02T17:20:04.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "e16076916317d444634ad9937f071708b9a1dfd8",
     "abbrevHash": "e160769",
     "subject": "Disable lazy loading in feed media",
@@ -5110,6 +5110,14 @@
     "subject": "Embiggen the mobile nav",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-02T21:43:05.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "7de6c2685a7d4cbc5538486fc27eb57e39fe6126",
+    "abbrevHash": "7de6c26",
+    "subject": "Fixes/updates to the mobile slideout menu",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-02T21:53:32.000Z"
   },
   {
     "repo": "ctznry",
@@ -5846,5 +5854,117 @@
     "subject": "Add WIP tinymce editor to post composer",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-13T01:01:51.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "391fd68ed4c11c3040d2c88f202e9733a9e3c046",
+    "abbrevHash": "391fd68",
+    "subject": "added meta tags for ios PWA",
+    "authorName": "Freddie Gilbraith",
+    "authorDate": "2021-04-13T08:53:53.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "ec87c26d48a708b2bf1b4951938cfd2f764a2f76",
+    "abbrevHash": "ec87c26",
+    "subject": "Merge pull request #16 from FreddieGilbraith/master",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-13T15:11:47.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "ff3dacbebd641ae86443368f7272caafcb0cc8c0",
+    "abbrevHash": "ff3dacb",
+    "subject": "Add framework for custom tags in tinymce; implement post-view",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-13T17:57:19.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "d6c7d4d4581e1007e58152212ecfa2e4b40e3644",
+    "abbrevHash": "d6c7d4d",
+    "subject": "Add ctzn-comment-view to rich editor",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-13T18:08:39.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "61ade1a3b0c3f94ceebb099024b93112eb8076e4",
+    "abbrevHash": "61ade1a",
+    "subject": "Add ctzn-iframe to rich editor",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-13T18:21:16.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "eb8f57d2d328e5d420998c9e86a23a3a2308aad9",
+    "abbrevHash": "eb8f57d",
+    "subject": "Add ctzn-code to rich editor",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-13T19:59:57.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "cdae037e45f1650e81f91762505a1616ac0d13e4",
+    "abbrevHash": "cdae037",
+    "subject": "Move the tinymce attribution to somewhere less likely to be clicked",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-13T20:04:28.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "ba32d674007b3178a392787971df68965eb98079",
+    "abbrevHash": "ba32d67",
+    "subject": "Fix strikethrough element in rich editor",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-13T20:10:10.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "d9581913f8901b8870644d7b541361029ee5bee9",
+    "abbrevHash": "d958191",
+    "subject": "Disable indent/outdent button on rich editor until we can figure out how to constrain it to lists only",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-13T20:19:41.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "2a4fa5c4838d47fbe192d4e64cb755f54043b103",
+    "abbrevHash": "2a4fa5c",
+    "subject": "Add placeholder to rich editor",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-13T20:27:25.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "53f261391a36a0c54ee86952ca36947baaed7387",
+    "abbrevHash": "53f2613",
+    "subject": "Increase rich editor height",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-13T20:28:48.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "13e388b6064d57c40594ca209a3dda0d084d7888",
+    "abbrevHash": "13e388b",
+    "subject": "Improved post-composer preview",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-13T20:52:19.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "3d78a2d5484501f11e1329650861090f7617e9e7",
+    "abbrevHash": "3d78a2d",
+    "subject": "Merge branch 'master' of github.com:pfrazee/ctznry",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-13T20:52:43.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "2be4d7315f5c7d100cef07e91191f6a0b706ccc5",
+    "abbrevHash": "2be4d73",
+    "subject": "Rework custom-html to use CSS rules and improve aesthetics a bit",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-13T23:56:21.000Z"
   }
 ]
