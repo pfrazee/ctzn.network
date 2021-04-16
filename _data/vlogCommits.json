@@ -1153,14 +1153,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "dc7251225bc3cf94ac7f582792fced4fab4815d0",
-    "abbrevHash": "dc72512",
-    "subject": "Remove old tooltips",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-10T18:53:28.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "fb85b42336ef9cccb30a4ff5fd2d968dc59c8ae2",
     "abbrevHash": "fb85b42",
     "subject": "Fix cross-browser compat",
@@ -1366,6 +1358,14 @@
     "subject": "Fix potential undefined accesses",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-12T17:11:30.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "688114bf4e1e9d55581d74db7313c4b2b5d6b861",
+    "abbrevHash": "688114b",
+    "subject": "Correctly handle error conditions",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-12T17:44:52.000Z"
   },
   {
     "repo": "ctznry",
@@ -2617,14 +2617,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "b1fd6028db4a84fe649016c3c1893dde2e3a2380",
-    "abbrevHash": "b1fd602",
-    "subject": "Update page titles to reflect content",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-02T18:12:44.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "bfddbbd22f6c5fc2bc5ebf34505a4d2f6178640f",
     "abbrevHash": "bfddbbd",
     "subject": "Fix bg on the - or - in the signup form",
@@ -2958,6 +2950,14 @@
     "subject": "0.16.1",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-04T21:39:32.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "774374116e882785ad02394bdc77076fbd722e6b",
+    "abbrevHash": "7743741",
+    "subject": "Allow posts with images but no text",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-04T21:39:53.000Z"
   },
   {
     "repo": "ctznry",
@@ -4281,14 +4281,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "23703c2e19aa5920304dcb01e3d3feac1e787f6d",
-    "abbrevHash": "23703c2",
-    "subject": "Open and scroll to expandable sections in profiles when clicking on metrics",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-24T19:13:57.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "65a0c70eabd77069d6e97a85b252e268ba6527d3",
     "abbrevHash": "65a0c70",
     "subject": "Rework the 'post-view'",
@@ -4542,6 +4534,14 @@
     "subject": "Visual and usability improvements to notifications",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-28T00:05:09.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "5899a7c9ec9ed02609d3df1cfb5a1c50aacdbc95",
+    "abbrevHash": "5899a7c",
+    "subject": "Visual improvement to post highlighting",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-28T00:12:00.000Z"
   },
   {
     "repo": "ctznry",
@@ -5305,14 +5305,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "59aa05e79d2cf0cc3bb32f300102b10e0e944de9",
-    "abbrevHash": "59aa05e",
-    "subject": "More scroll-position fixing",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-04-05T20:21:08.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "0c0db09bb67520cb3e9edd8a45cac8f2f026d147",
     "abbrevHash": "0c0db09",
     "subject": "Add apple-touch-icon",
@@ -5486,6 +5478,14 @@
     "subject": "Fix rendering bug on unfollow",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-08T19:24:01.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "0286d6cbdd56576529edeebe18c32977bba283e0",
+    "abbrevHash": "0286d6c",
+    "subject": "Update edit-profile to include community controls; anyone can now view, but disabled if no perms",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-08T20:31:57.000Z"
   },
   {
     "repo": "ctznry",
@@ -6150,5 +6150,173 @@
     "subject": "Add suggested communities to communities page",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-14T23:17:35.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "ac32a09a7a2ec93c2ae1db2ad8db5019f872ddc3",
+    "abbrevHash": "ac32a09",
+    "subject": "Add antialiasing to the UI",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-15T16:04:19.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "9ef4851550b0c70c64ff78de7dc87af32dac474e",
+    "abbrevHash": "9ef4851",
+    "subject": "Increase the contrast on reactions to improve readability",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-15T16:43:41.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "3a499ce90245d56c3687ae4ba0b00f366886e49e",
+    "abbrevHash": "3a499ce",
+    "subject": "Update subnavs to show 'mobile' controls at tablet sizes, and to recalc underline when items show/hide",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-15T16:50:49.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "093fd5d4cb4ef42cab99514a094a3c9303582a38",
+    "abbrevHash": "093fd5d",
+    "subject": "Improve the vertical mobile spacer",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-15T17:09:36.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "d7233b36866314662268bd90f56f50f390d5bb6c",
+    "abbrevHash": "d7233b3",
+    "subject": "Fix breakpoints to cover all ranges",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-15T17:13:13.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "4f749e978d92807ba8fb131582c86fba0f06c487",
+    "abbrevHash": "4f749e9",
+    "subject": "Fix some bugs in logged out views",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-15T17:20:35.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "3b300e3a0d28b62e6b1c73db3955bc6ab4011eaf",
+    "abbrevHash": "3b300e3",
+    "subject": "Slightly nicer logged-out state UI",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-15T17:51:10.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "ebdb79a07f7344f620ca2dffff1ef7aa559ccf31",
+    "abbrevHash": "ebdb79a",
+    "subject": "Fix blob-fetch when logged out",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-15T17:59:04.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "44f32e163cf324ffe1e2fad901838c209f3e34a4",
+    "abbrevHash": "44f32e1",
+    "subject": "Update edit-profile to use more resilient blob fetch",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-15T18:00:48.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "a67ce10eb564325e06406d93fa63ccc76d6a0158",
+    "abbrevHash": "a67ce10",
+    "subject": "Open links in posts and comments in a new window to avoid losing scroll position",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-15T18:25:40.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "08a3df4e1748a4d5e87bfb177512ed76c1e348e6",
+    "abbrevHash": "08a3df4",
+    "subject": "Add search to the secondary-menu's users list",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-15T18:58:21.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "bad5d4e321e51cd819c2b95af39dba0b292bb7d3",
+    "abbrevHash": "bad5d4e",
+    "subject": "Fix comment text color",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-15T19:00:32.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "d08daa38c97a101ae778d6417d6747670f089e1f",
+    "abbrevHash": "d08daa3",
+    "subject": "Add search page to mobile",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-15T19:19:26.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "dafe126d1f7e79d3cd813d3b1d88cbf5877010a0",
+    "abbrevHash": "dafe126",
+    "subject": "Fix bug in links opening in new windows",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-15T19:23:42.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "9f06bde0a5eaaaf49c11d24f718a6c225df84f71",
+    "abbrevHash": "9f06bde",
+    "subject": "Fix bad ref",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-15T20:00:42.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "8175f16ea2258b1e5e8024e58adcbe556a60d65f",
+    "abbrevHash": "8175f16",
+    "subject": "Remove some dead code",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-15T20:06:16.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "fdda3141dc36087f13ea78d9f936660ce321086b",
+    "abbrevHash": "fdda314",
+    "subject": "Add popups to show followers, members, and memberships on profiles",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-15T20:18:19.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "0223bdd182f2c4d6ca5b2c23a99b772d3cbf10c9",
+    "abbrevHash": "0223bdd",
+    "subject": "Fix attribute updates in rich editor custom components",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-15T20:38:58.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "bea22860193ce10efc72ee92de1346dee35eedb1",
+    "abbrevHash": "bea2286",
+    "subject": "Move images in expanded posts from below the extended text to above",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-16T17:39:14.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "e1b40ff123b492075fe737df0af2e96be453bdf8",
+    "abbrevHash": "e1b40ff",
+    "subject": "Add a 'be kind' reminder to the post and comment composers",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-16T18:09:23.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "c3cd655898bdf14ce1bf551e22a022a13b76753f",
+    "abbrevHash": "c3cd655",
+    "subject": "Add 2-column layout to profiles on desktop and merge about & items sections",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-16T19:55:12.000Z"
   }
 ]
