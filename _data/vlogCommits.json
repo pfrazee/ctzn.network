@@ -281,14 +281,6 @@
   },
   {
     "repo": "ctzn",
-    "hash": "40a47ed7962418e0707213a6055656b70501d1ef",
-    "abbrevHash": "40a47ed",
-    "subject": "Add simple listHomeFeed impl",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-01-21T20:12:20.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "dac6d585eef395e9a88c22a92b2e1881254a95a5",
     "abbrevHash": "dac6d58",
     "subject": "Update home feed on post",
@@ -326,6 +318,14 @@
     "subject": "Add private user databases",
     "authorName": "Paul Frazee",
     "authorDate": "2021-01-25T19:10:50.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "0c8f8f436ec5042c3b90896e9e42c98b6f1ab71f",
+    "abbrevHash": "0c8f8f4",
+    "subject": "Add watch-based secondary indexing",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-01-25T21:17:34.000Z"
   },
   {
     "repo": "ctzn",
@@ -1537,14 +1537,6 @@
   },
   {
     "repo": "ctzn",
-    "hash": "5e95fb68aafc866929fbd5609bee561378bfbc94",
-    "abbrevHash": "5e95fb6",
-    "subject": "0.6.0",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-17T01:08:30.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "27093f1e8796ca96150c6ad9fc3a5b0ca115c1d6",
     "abbrevHash": "27093f1",
     "subject": "Fix default hyperspace storage dir",
@@ -1582,6 +1574,14 @@
     "subject": "Show home first",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-17T02:51:19.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "b9b10aed48cd28af52ee18c1f812e08048aa51bc",
+    "abbrevHash": "b9b10ae",
+    "subject": "0.6.3",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-17T02:51:22.000Z"
   },
   {
     "repo": "ctzn",
@@ -3513,14 +3513,6 @@
   },
   {
     "repo": "ctzn",
-    "hash": "7af5109c539ef0f48dbae336683d57089edb96aa",
-    "abbrevHash": "7af5109",
-    "subject": "Add tooling for defining dbmethods and schemas for multiple planned methods",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-12T18:09:55.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "d88f3105e73a4209f34cda90ca63bb825f14223a",
     "abbrevHash": "d88f310",
     "subject": "Track the active config in a global",
@@ -3558,6 +3550,14 @@
     "subject": "Replace communities.deleteRole with community-delete-role-method",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-12T19:21:12.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "a1a818d071519f6cc77569e4f911cef77211b5e4",
+    "abbrevHash": "a1a818d",
+    "subject": "Replace communities.assignRole and .unassignRole with community-set-member-roles-method",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-12T19:29:07.000Z"
   },
   {
     "repo": "ctzn",
@@ -6318,5 +6318,53 @@
     "subject": "Add 2-column layout to profiles on desktop and merge about & items sections",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-16T19:55:12.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "79cc5266f24e2c8b238bf38b36aaac088e0827d2",
+    "abbrevHash": "79cc526",
+    "subject": "Add WIP admin UI (includes much of the hyperspace tooling)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T00:01:54.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "c10b6158efffa1370bcd0f510b6126ec8a38b3ec",
+    "abbrevHash": "c10b615",
+    "subject": "0.30.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T00:01:57.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "b3ad44061e9aba2b39b1f83329321ca4a2dd6528",
+    "abbrevHash": "b3ad440",
+    "subject": "Fix some paths and git repo config",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T00:11:41.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "46a0966b76f346bc30c08f1d2c241133642c4d4e",
+    "abbrevHash": "46a0966",
+    "subject": "0.30.1",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T00:11:50.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "81e60ee6a4beea584f7572ad7783421c32cf8cbb",
+    "abbrevHash": "81e60ee",
+    "subject": "Add quick login UI to admin",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T00:20:43.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "a2db456608d78476edabf60d1fa94f2cae2dcd12",
+    "abbrevHash": "a2db456",
+    "subject": "0.30.2",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T00:20:46.000Z"
   }
 ]
