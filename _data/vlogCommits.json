@@ -329,14 +329,6 @@
   },
   {
     "repo": "ctzn",
-    "hash": "0c8f8f436ec5042c3b90896e9e42c98b6f1ab71f",
-    "abbrevHash": "0c8f8f4",
-    "subject": "Add watch-based secondary indexing",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-01-25T21:17:34.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "1abb3897b6d79bd186468bbeeb4caf6e22ba8b4f",
     "abbrevHash": "1abb389",
     "subject": "Add notifications index and API",
@@ -478,6 +470,14 @@
     "subject": "Add perf-measurement tooling, bench script, and optimize catchupIndexes a bit",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-01T19:58:22.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "b0ca93a5dbd194a7190d2e2d3404fc1f12ab275f",
+    "abbrevHash": "b0ca93a",
+    "subject": "Fix server notification indexing key-gen",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-01T20:20:12.000Z"
   },
   {
     "repo": "ctzn",
@@ -1585,14 +1585,6 @@
   },
   {
     "repo": "ctzn",
-    "hash": "b9b10aed48cd28af52ee18c1f812e08048aa51bc",
-    "abbrevHash": "b9b10ae",
-    "subject": "0.6.3",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-17T02:51:22.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "d8df75aa456988ffb261a1cc29d26b170e4e41cd",
     "abbrevHash": "d8df75a",
     "subject": "Fix coersion issue",
@@ -1934,6 +1926,14 @@
     "subject": "Fix empty notifications view",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-22T19:06:02.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "9197231f1c1c0e6629d3b258322f1ad9f2237e1d",
+    "abbrevHash": "9197231",
+    "subject": "Add communities TUI",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-22T20:58:40.000Z"
   },
   {
     "repo": "ctzn",
@@ -3561,14 +3561,6 @@
   },
   {
     "repo": "ctzn",
-    "hash": "a1a818d071519f6cc77569e4f911cef77211b5e4",
-    "abbrevHash": "a1a818d",
-    "subject": "Replace communities.assignRole and .unassignRole with community-set-member-roles-method",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-12T19:29:07.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "114a8b3605ad4fb5bd674301a1ad4d3bcfb29d36",
     "abbrevHash": "114a8b3",
     "subject": "Replace communities.removeMember with community-remove-member-method",
@@ -3718,6 +3710,14 @@
     "subject": "Correctly handle null list opts",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-15T19:44:04.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "5c39cedea0f6ba17e05321e90d24ec253ae3ebc3",
+    "abbrevHash": "5c39ced",
+    "subject": "Handle unsupported table schemas more gracefully",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-15T20:23:45.000Z"
   },
   {
     "repo": "ctzn",
@@ -6366,5 +6366,157 @@
     "subject": "0.30.2",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-20T00:20:46.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "279fee7d614c310e6ddf93b4eeef0504b45f031d",
+    "abbrevHash": "279fee7",
+    "subject": "Admin UI: Group similar entries in the hyperspace log",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T14:32:02.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "8f32d1fccf2ce351f2b97256da868ce9633ad75e",
+    "abbrevHash": "8f32d1f",
+    "subject": "0.30.3",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T14:32:05.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "1bfdeeb7f0d0c21348335ee3f823838d0acad434",
+    "abbrevHash": "1bfdeeb",
+    "subject": "Admin UI: improvements to hyperspace-log collapsing",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T14:42:40.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "d3440bed26395e7710dde553cf279ab6fe2b6057",
+    "abbrevHash": "d3440be",
+    "subject": "0.30.4",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T14:42:43.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "1335f0264abd25d8107be7dd7f8a6f4fe36134f4",
+    "abbrevHash": "1335f02",
+    "subject": "Admin UI: more improvements to hyperspace-log collapsing",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T14:52:20.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "e02878a6092a006bb7531a1deb8c7d415b6baa5f",
+    "abbrevHash": "e02878a",
+    "subject": "0.30.5",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T14:52:22.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "c1b89bb8011e379ef04b45aefe7228a40694841c",
+    "abbrevHash": "c1b89bb",
+    "subject": "Admin UI: a few more (hopefully final) improvements to the collapsed hyperspace log rendering",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T14:59:38.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "96d5af43af0543609436d085ced9b5b7768a8888",
+    "abbrevHash": "96d5af4",
+    "subject": "0.30.6",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T14:59:43.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "d26ae067d4c60a8df523f7a94e12812129e4759c",
+    "abbrevHash": "d26ae06",
+    "subject": "Unload hypercores from memory after inactivity, then reload them on demand",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T17:05:31.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "fa5d9898b8911d6fca6ca73b6187c12eaa155726",
+    "abbrevHash": "fa5d989",
+    "subject": "Add some db.touch() calls where needed (1 of n)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T17:13:21.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "188c53272064d7f0df6afb1573f0019570d3d35c",
+    "abbrevHash": "188c532",
+    "subject": "Remove old private db lookup",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T17:55:23.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "7276360a23f3831e547b3bbc0d72742af8626041",
+    "abbrevHash": "7276360",
+    "subject": "Switch to a more resilient bee-instance fetch for tables and blobs",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T18:06:52.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "1f796b61ba09acc5acb75c73a1a2181b046ac59f",
+    "abbrevHash": "1f796b6",
+    "subject": "Disable loading the private citizen DB for now (still create them just in case)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T18:53:22.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "e93632e945b6ef374f4882ba3487547a4f32f0ff",
+    "abbrevHash": "e93632e",
+    "subject": "Fix: delay update() checks",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T19:50:16.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "c0162a1e499654addeab70ba68c61ae278f21bd4",
+    "abbrevHash": "c0162a1",
+    "subject": "0.30.7",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T20:22:14.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "bab4f1bb455a7d77a756ce60844f308b585c9454",
+    "abbrevHash": "bab4f1b",
+    "subject": "Fixes to db creation",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T20:49:09.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "50b9420b81a1c983f1e6df635ad94e6562b56cd7",
+    "abbrevHash": "50b9420",
+    "subject": "0.30.8",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T20:49:22.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "7d3f0e433b2e36ea962637168606bac4bea87f39",
+    "abbrevHash": "7d3f0e4",
+    "subject": "Fix edge case in the beeShallowList() alg",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T20:56:08.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "919d388e6edea14b663896b9f924b2de519a8432",
+    "abbrevHash": "919d388",
+    "subject": "Add users to the admin UI",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T22:40:30.000Z"
   }
 ]

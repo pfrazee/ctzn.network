@@ -1,6 +1,234 @@
 [
   {
     "repo": "ctzn",
+    "hash": "919d388e6edea14b663896b9f924b2de519a8432",
+    "abbrevHash": "919d388",
+    "subject": "Add users to the admin UI",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T22:40:30.000Z",
+    "interesting": false,
+    "videoId": "G0kWo2E8u9g",
+    "videoUrl": "https://youtu.be/G0kWo2E8u9g",
+    "videoQP": "?t=30516"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "7d3f0e433b2e36ea962637168606bac4bea87f39",
+    "abbrevHash": "7d3f0e4",
+    "subject": "Fix edge case in the beeShallowList() alg",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T20:56:08.000Z",
+    "interesting": false,
+    "videoId": "G0kWo2E8u9g",
+    "videoUrl": "https://youtu.be/G0kWo2E8u9g",
+    "videoQP": "?t=24254"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "50b9420b81a1c983f1e6df635ad94e6562b56cd7",
+    "abbrevHash": "50b9420",
+    "subject": "0.30.8",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T20:49:22.000Z",
+    "interesting": false,
+    "videoId": "G0kWo2E8u9g",
+    "videoUrl": "https://youtu.be/G0kWo2E8u9g",
+    "videoQP": "?t=23848"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "bab4f1bb455a7d77a756ce60844f308b585c9454",
+    "abbrevHash": "bab4f1b",
+    "subject": "Fixes to db creation",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T20:49:09.000Z",
+    "interesting": false,
+    "videoId": "G0kWo2E8u9g",
+    "videoUrl": "https://youtu.be/G0kWo2E8u9g",
+    "videoQP": "?t=23835"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "c0162a1e499654addeab70ba68c61ae278f21bd4",
+    "abbrevHash": "c0162a1",
+    "subject": "0.30.7",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T20:22:14.000Z",
+    "interesting": false,
+    "videoId": "G0kWo2E8u9g",
+    "videoUrl": "https://youtu.be/G0kWo2E8u9g",
+    "videoQP": "?t=22220"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "e93632e945b6ef374f4882ba3487547a4f32f0ff",
+    "abbrevHash": "e93632e",
+    "subject": "Fix: delay update() checks",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T19:50:16.000Z",
+    "interesting": false,
+    "videoId": "G0kWo2E8u9g",
+    "videoUrl": "https://youtu.be/G0kWo2E8u9g",
+    "videoQP": "?t=20302"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "1f796b61ba09acc5acb75c73a1a2181b046ac59f",
+    "abbrevHash": "1f796b6",
+    "subject": "Disable loading the private citizen DB for now (still create them just in case)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T18:53:22.000Z",
+    "interesting": false,
+    "videoId": "G0kWo2E8u9g",
+    "videoUrl": "https://youtu.be/G0kWo2E8u9g",
+    "videoQP": "?t=16888"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "7276360a23f3831e547b3bbc0d72742af8626041",
+    "abbrevHash": "7276360",
+    "subject": "Switch to a more resilient bee-instance fetch for tables and blobs",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T18:06:52.000Z",
+    "interesting": false,
+    "videoId": "G0kWo2E8u9g",
+    "videoUrl": "https://youtu.be/G0kWo2E8u9g",
+    "videoQP": "?t=14098"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "188c53272064d7f0df6afb1573f0019570d3d35c",
+    "abbrevHash": "188c532",
+    "subject": "Remove old private db lookup",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T17:55:23.000Z",
+    "interesting": false,
+    "videoId": "G0kWo2E8u9g",
+    "videoUrl": "https://youtu.be/G0kWo2E8u9g",
+    "videoQP": "?t=13409"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "fa5d9898b8911d6fca6ca73b6187c12eaa155726",
+    "abbrevHash": "fa5d989",
+    "subject": "Add some db.touch() calls where needed (1 of n)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T17:13:21.000Z",
+    "interesting": false,
+    "videoId": "G0kWo2E8u9g",
+    "videoUrl": "https://youtu.be/G0kWo2E8u9g",
+    "videoQP": "?t=10887"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "d26ae067d4c60a8df523f7a94e12812129e4759c",
+    "abbrevHash": "d26ae06",
+    "subject": "Unload hypercores from memory after inactivity, then reload them on demand",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T17:05:31.000Z",
+    "interesting": false,
+    "videoId": "G0kWo2E8u9g",
+    "videoUrl": "https://youtu.be/G0kWo2E8u9g",
+    "videoQP": "?t=10417"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "96d5af43af0543609436d085ced9b5b7768a8888",
+    "abbrevHash": "96d5af4",
+    "subject": "0.30.6",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T14:59:43.000Z",
+    "interesting": false,
+    "videoId": "G0kWo2E8u9g",
+    "videoUrl": "https://youtu.be/G0kWo2E8u9g",
+    "videoQP": "?t=2869"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "c1b89bb8011e379ef04b45aefe7228a40694841c",
+    "abbrevHash": "c1b89bb",
+    "subject": "Admin UI: a few more (hopefully final) improvements to the collapsed hyperspace log rendering",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T14:59:38.000Z",
+    "interesting": false,
+    "videoId": "G0kWo2E8u9g",
+    "videoUrl": "https://youtu.be/G0kWo2E8u9g",
+    "videoQP": "?t=2864"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "e02878a6092a006bb7531a1deb8c7d415b6baa5f",
+    "abbrevHash": "e02878a",
+    "subject": "0.30.5",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T14:52:22.000Z",
+    "interesting": false,
+    "videoId": "G0kWo2E8u9g",
+    "videoUrl": "https://youtu.be/G0kWo2E8u9g",
+    "videoQP": "?t=2428"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "1335f0264abd25d8107be7dd7f8a6f4fe36134f4",
+    "abbrevHash": "1335f02",
+    "subject": "Admin UI: more improvements to hyperspace-log collapsing",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T14:52:20.000Z",
+    "interesting": false,
+    "videoId": "G0kWo2E8u9g",
+    "videoUrl": "https://youtu.be/G0kWo2E8u9g",
+    "videoQP": "?t=2426"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "d3440bed26395e7710dde553cf279ab6fe2b6057",
+    "abbrevHash": "d3440be",
+    "subject": "0.30.4",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T14:42:43.000Z",
+    "interesting": false,
+    "videoId": "G0kWo2E8u9g",
+    "videoUrl": "https://youtu.be/G0kWo2E8u9g",
+    "videoQP": "?t=1849"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "1bfdeeb7f0d0c21348335ee3f823838d0acad434",
+    "abbrevHash": "1bfdeeb",
+    "subject": "Admin UI: improvements to hyperspace-log collapsing",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T14:42:40.000Z",
+    "interesting": false,
+    "videoId": "G0kWo2E8u9g",
+    "videoUrl": "https://youtu.be/G0kWo2E8u9g",
+    "videoQP": "?t=1846"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "8f32d1fccf2ce351f2b97256da868ce9633ad75e",
+    "abbrevHash": "8f32d1f",
+    "subject": "0.30.3",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T14:32:05.000Z",
+    "interesting": false,
+    "videoId": "G0kWo2E8u9g",
+    "videoUrl": "https://youtu.be/G0kWo2E8u9g",
+    "videoQP": "?t=1211"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "279fee7d614c310e6ddf93b4eeef0504b45f031d",
+    "abbrevHash": "279fee7",
+    "subject": "Admin UI: Group similar entries in the hyperspace log",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-20T14:32:02.000Z",
+    "interesting": false,
+    "videoId": "G0kWo2E8u9g",
+    "videoUrl": "https://youtu.be/G0kWo2E8u9g",
+    "videoQP": "?t=1208"
+  },
+  {
+    "repo": "ctzn",
     "hash": "a2db456608d78476edabf60d1fa94f2cae2dcd12",
     "abbrevHash": "a2db456",
     "subject": "0.30.2",
@@ -3850,6 +4078,18 @@
   },
   {
     "repo": "ctzn",
+    "hash": "5c39cedea0f6ba17e05321e90d24ec253ae3ebc3",
+    "abbrevHash": "5c39ced",
+    "subject": "Handle unsupported table schemas more gracefully",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-15T20:23:45.000Z",
+    "interesting": false,
+    "videoId": "3oFiL3H3-Zs",
+    "videoUrl": "https://youtu.be/3oFiL3H3-Zs",
+    "videoQP": "?t=19938"
+  },
+  {
+    "repo": "ctzn",
     "hash": "57ddaff685a66dd5fc75d7bfd49042f32c0a9218",
     "abbrevHash": "57ddaff",
     "subject": "Correctly handle null list opts",
@@ -4075,18 +4315,6 @@
     "videoId": "oFTI_WC4VLU",
     "videoUrl": "https://youtu.be/oFTI_WC4VLU",
     "videoQP": "?t=10648"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "a1a818d071519f6cc77569e4f911cef77211b5e4",
-    "abbrevHash": "a1a818d",
-    "subject": "Replace communities.assignRole and .unassignRole with community-set-member-roles-method",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-12T19:29:07.000Z",
-    "interesting": true,
-    "videoId": "oFTI_WC4VLU",
-    "videoUrl": "https://youtu.be/oFTI_WC4VLU",
-    "videoQP": "?t=9511"
   },
   {
     "repo": "ctzn",
@@ -6498,6 +6726,18 @@
     "videoQP": "?t=14730"
   },
   {
+    "repo": "ctzn",
+    "hash": "9197231f1c1c0e6629d3b258322f1ad9f2237e1d",
+    "abbrevHash": "9197231",
+    "subject": "Add communities TUI",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-22T20:58:40.000Z",
+    "interesting": false,
+    "videoId": "i4Y_wn2XbgY",
+    "videoUrl": "https://youtu.be/i4Y_wn2XbgY",
+    "videoQP": "?t=14730"
+  },
+  {
     "repo": "ctznry",
     "hash": "9b3d9bca2fa064128878e51e24d85e5b8ffd75b7",
     "abbrevHash": "9b3d9bc",
@@ -6894,15 +7134,6 @@
     "subject": "Fix coersion issue",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-17T02:56:11.000Z",
-    "interesting": false
-  },
-  {
-    "repo": "ctzn",
-    "hash": "b9b10aed48cd28af52ee18c1f812e08048aa51bc",
-    "abbrevHash": "b9b10ae",
-    "subject": "0.6.3",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-17T02:51:22.000Z",
     "interesting": false
   },
   {
@@ -8506,6 +8737,18 @@
   },
   {
     "repo": "ctzn",
+    "hash": "b0ca93a5dbd194a7190d2e2d3404fc1f12ab275f",
+    "abbrevHash": "b0ca93a",
+    "subject": "Fix server notification indexing key-gen",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-01T20:20:12.000Z",
+    "interesting": false,
+    "videoId": "2F18I_Nnppk",
+    "videoUrl": "https://youtu.be/2F18I_Nnppk",
+    "videoQP": "?t=19569"
+  },
+  {
+    "repo": "ctzn",
     "hash": "97008735d9de62a8804bdef06267ea0a89fb40ce",
     "abbrevHash": "9700873",
     "subject": "Add perf-measurement tooling, bench script, and optimize catchupIndexes a bit",
@@ -8716,18 +8959,6 @@
     "videoId": "hHlS6xtBf9A",
     "videoUrl": "https://youtu.be/hHlS6xtBf9A",
     "videoQP": "?t=18373"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "0c8f8f436ec5042c3b90896e9e42c98b6f1ab71f",
-    "abbrevHash": "0c8f8f4",
-    "subject": "Add watch-based secondary indexing",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-01-25T21:17:34.000Z",
-    "interesting": false,
-    "videoId": "hHlS6xtBf9A",
-    "videoUrl": "https://youtu.be/hHlS6xtBf9A",
-    "videoQP": "?t=15095"
   },
   {
     "repo": "ctzn",
