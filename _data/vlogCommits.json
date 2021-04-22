@@ -481,14 +481,6 @@
   },
   {
     "repo": "ctzn",
-    "hash": "b0ca93a5dbd194a7190d2e2d3404fc1f12ab275f",
-    "abbrevHash": "b0ca93a",
-    "subject": "Fix server notification indexing key-gen",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-01T20:20:12.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "458de76dc7c7232359043ce7aa436d4c07212cf0",
     "abbrevHash": "458de76",
     "subject": "Track the identities of DBs for debugging",
@@ -558,6 +550,14 @@
     "subject": "Initial commit",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-02T22:02:26.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "ea4c5820024e5e238aeaa5620e77d7e21c3e56a8",
+    "abbrevHash": "ea4c582",
+    "subject": "Remove frontend (now in ctznry app)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-03T16:06:52.000Z"
   },
   {
     "repo": "ctzn",
@@ -1937,14 +1937,6 @@
   },
   {
     "repo": "ctzn",
-    "hash": "9197231f1c1c0e6629d3b258322f1ad9f2237e1d",
-    "abbrevHash": "9197231",
-    "subject": "Add communities TUI",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-22T20:58:40.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "8c831243835aad5768de0c26c8cdd4fcbb49df2b",
     "abbrevHash": "8c83124",
     "subject": "Add comment HTTP endpoint",
@@ -2110,6 +2102,14 @@
     "subject": "Add privacy policy & ToS section to signup",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-25T22:43:29.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "363e71ac8168bd8352424b916a86400470da2962",
+    "abbrevHash": "363e71a",
+    "subject": "Update deployment docs",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-25T22:47:53.000Z"
   },
   {
     "repo": "ctzn",
@@ -3721,14 +3721,6 @@
   },
   {
     "repo": "ctzn",
-    "hash": "5c39cedea0f6ba17e05321e90d24ec253ae3ebc3",
-    "abbrevHash": "5c39ced",
-    "subject": "Handle unsupported table schemas more gracefully",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-15T20:23:45.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "ca0feccf48484ae4279a6d203201ad98957512e1",
     "abbrevHash": "ca0fecc",
     "subject": "Fix http .view param parsing",
@@ -3806,6 +3798,14 @@
     "subject": "0.18.1",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-16T16:56:50.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "cc21c927342916a7ee55dcdf8df25717812b4693",
+    "abbrevHash": "cc21c92",
+    "subject": "Expand the hyperbee stall hack to cover more operations",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T17:23:36.000Z"
   },
   {
     "repo": "ctzn",
@@ -6518,5 +6518,77 @@
     "subject": "Add users to the admin UI",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-20T22:40:30.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "ade2f31c62500ad82b8c527c08932ce3534ee6ca",
+    "abbrevHash": "ade2f31",
+    "subject": "Admin UI: visual improvements",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-21T17:40:03.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "d350222176132468b2611a53008535ee7e9d1e40",
+    "abbrevHash": "d350222",
+    "subject": "Add metrics collection and a dashboard for viewing the metrics on the admin UI",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-21T19:29:27.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "08a58e1d652598e573a4d54f2875595e80a731b8",
+    "abbrevHash": "08a58e1",
+    "subject": "0.31.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-21T19:29:34.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "4e5a5a3d4493e7e264d208c594560fb9f778f1df",
+    "abbrevHash": "4e5a5a3",
+    "subject": "Remove vendored chartjs package.json as it was affecting the npm packaging (chart.min.js missing)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-21T19:40:59.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "9b0551b44074d7abf884c0a4a803ffd549d15ef3",
+    "abbrevHash": "9b0551b",
+    "subject": "0.31.1",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-21T19:41:03.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "c2a7a9bd6a29cd139e4404b394e75797b787de3e",
+    "abbrevHash": "c2a7a9b",
+    "subject": "Admin UI: Apply unique constraint to login metric",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-21T20:00:32.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "3c7f3c90ca2ba79288a34f2a68f728417a65edf2",
+    "abbrevHash": "3c7f3c9",
+    "subject": "0.31.2",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-21T20:00:36.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "4293fa47d361d6408ab80c177e86b587a3177afe",
+    "abbrevHash": "4293fa4",
+    "subject": "Admin UI: add issues",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-22T00:20:28.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "bac4b8a3f61ed1b6589e3943e337a8d5f1ed85d2",
+    "abbrevHash": "bac4b8a",
+    "subject": "0.32.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-22T00:20:35.000Z"
   }
 ]
