@@ -1,6 +1,102 @@
 [
   {
     "repo": "ctzn",
+    "hash": "d3af4aa33904c0eb9e1fa24ca2b90a568fba28ce",
+    "abbrevHash": "d3af4aa",
+    "subject": "Admin UI: Add chart of metrics over past month",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-22T21:52:34.000Z",
+    "interesting": false,
+    "videoId": "6P8v5IjH-NA",
+    "videoUrl": "https://youtu.be/6P8v5IjH-NA",
+    "videoQP": "?t=23516"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "210288aa043964c4e80afac2d5f9fae1e7faf8cb",
+    "abbrevHash": "210288a",
+    "subject": "Add error logging to member db load",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-22T20:47:21.000Z",
+    "interesting": false,
+    "videoId": "6P8v5IjH-NA",
+    "videoUrl": "https://youtu.be/6P8v5IjH-NA",
+    "videoQP": "?t=19603"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "924fb1ae9f5578832324ca0226141ed7790f8e1e",
+    "abbrevHash": "924fb1a",
+    "subject": "Link to patrons list that's kept updated daily",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-22T20:29:05.000Z",
+    "interesting": false,
+    "videoId": "6P8v5IjH-NA",
+    "videoUrl": "https://youtu.be/6P8v5IjH-NA",
+    "videoQP": "?t=18507"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "954f71a4a378d882bf7fa20517b046337fd783b6",
+    "abbrevHash": "954f71a",
+    "subject": "0.32.2",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-22T20:20:03.000Z",
+    "interesting": false,
+    "videoId": "6P8v5IjH-NA",
+    "videoUrl": "https://youtu.be/6P8v5IjH-NA",
+    "videoQP": "?t=17965"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "9ae99876e0fbf866ef9ee920d9e62de27753303a",
+    "abbrevHash": "9ae9987",
+    "subject": "Catch a few error conditions",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-22T20:20:01.000Z",
+    "interesting": false,
+    "videoId": "6P8v5IjH-NA",
+    "videoUrl": "https://youtu.be/6P8v5IjH-NA",
+    "videoQP": "?t=17963"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "b5f08129fb36e12e4c7567c058ea7a5c934c0aca",
+    "abbrevHash": "b5f0812",
+    "subject": "0.32.1",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-22T15:50:40.000Z",
+    "interesting": false,
+    "videoId": "6P8v5IjH-NA",
+    "videoUrl": "https://youtu.be/6P8v5IjH-NA",
+    "videoQP": "?t=1802"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "3d625e7d0fb670cc39302a1ad88d94c86173238b",
+    "abbrevHash": "3d625e7",
+    "subject": "Guard against some possible bad references",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-22T15:50:36.000Z",
+    "interesting": false,
+    "videoId": "6P8v5IjH-NA",
+    "videoUrl": "https://youtu.be/6P8v5IjH-NA",
+    "videoQP": "?t=1798"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "8392da944f3e36c523d9f76fa144ef7490bff0f7",
+    "abbrevHash": "8392da9",
+    "subject": "Admin UI: aesthetic improvements",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-22T15:48:55.000Z",
+    "interesting": false,
+    "videoId": "6P8v5IjH-NA",
+    "videoUrl": "https://youtu.be/6P8v5IjH-NA",
+    "videoQP": "?t=1697"
+  },
+  {
+    "repo": "ctzn",
     "hash": "bac4b8a3f61ed1b6589e3943e337a8d5f1ed85d2",
     "abbrevHash": "bac4b8a",
     "subject": "0.32.0",
@@ -3849,6 +3945,18 @@
     "videoQP": "?t=27460"
   },
   {
+    "repo": "ctzn",
+    "hash": "0613b7daf3c26a9d0abf359f44cb0225a3c41d40",
+    "abbrevHash": "0613b7d",
+    "subject": "Implement items",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-16T23:38:28.000Z",
+    "interesting": false,
+    "videoId": "IRlHghjapqk",
+    "videoUrl": "https://youtu.be/IRlHghjapqk",
+    "videoQP": "?t=27460"
+  },
+  {
     "repo": "ctznry",
     "hash": "9d644817aa86274dcb8fa5483cf910907ba44cfc",
     "abbrevHash": "9d64481",
@@ -4039,18 +4147,6 @@
     "videoId": "IRlHghjapqk",
     "videoUrl": "https://youtu.be/IRlHghjapqk",
     "videoQP": "?t=4972"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "cc21c927342916a7ee55dcdf8df25717812b4693",
-    "abbrevHash": "cc21c92",
-    "subject": "Expand the hyperbee stall hack to cover more operations",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-16T17:23:36.000Z",
-    "interesting": false,
-    "videoId": "IRlHghjapqk",
-    "videoUrl": "https://youtu.be/IRlHghjapqk",
-    "videoQP": "?t=4968"
   },
   {
     "repo": "ctzn",
@@ -6439,6 +6535,18 @@
   },
   {
     "repo": "ctzn",
+    "hash": "d153ea6dc7e59c9cad8be6caba8ef3b9d05b6031",
+    "abbrevHash": "d153ea6",
+    "subject": "Add timeouts to all hyperbee reads",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-26T20:31:47.000Z",
+    "interesting": false,
+    "videoId": "RyObd_MAUkg",
+    "videoUrl": "https://youtu.be/RyObd_MAUkg",
+    "videoQP": "?t=14798"
+  },
+  {
+    "repo": "ctzn",
     "hash": "1f49c22ec21afd217a2aafabf8f47f7095f26340",
     "abbrevHash": "1f49c22",
     "subject": "Fix communities test to properly cleanup servers",
@@ -6556,18 +6664,6 @@
     "videoId": "SgpMHjTnOys",
     "videoUrl": "https://youtu.be/SgpMHjTnOys",
     "videoQP": "?t=18494"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "363e71ac8168bd8352424b916a86400470da2962",
-    "abbrevHash": "363e71a",
-    "subject": "Update deployment docs",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-25T22:47:53.000Z",
-    "interesting": false,
-    "videoId": "SgpMHjTnOys",
-    "videoUrl": "https://youtu.be/SgpMHjTnOys",
-    "videoQP": "?t=18131"
   },
   {
     "repo": "ctzn",
@@ -8617,6 +8713,18 @@
   },
   {
     "repo": "ctzn",
+    "hash": "4be59465f565eabd717714de03cfa7fe1e092deb",
+    "abbrevHash": "4be5946",
+    "subject": "Add communities and merge comments and posts into one type (posts)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-05T20:48:18.000Z",
+    "interesting": false,
+    "videoId": "li0_4gcY4mw",
+    "videoUrl": "https://youtu.be/li0_4gcY4mw",
+    "videoQP": "?t=19374"
+  },
+  {
+    "repo": "ctzn",
     "hash": "ed670a2a57cf1a7548dd99b8d033e82bf42a7831",
     "abbrevHash": "ed670a2",
     "subject": "Use a local DHT in tests",
@@ -8710,18 +8818,6 @@
     "videoId": "6IEkuur_xIY",
     "videoUrl": "https://youtu.be/6IEkuur_xIY",
     "videoQP": "?t=3642"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "ea4c5820024e5e238aeaa5620e77d7e21c3e56a8",
-    "abbrevHash": "ea4c582",
-    "subject": "Remove frontend (now in ctznry app)",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-03T16:06:52.000Z",
-    "interesting": false,
-    "videoId": "YymMn0cwYhU",
-    "videoUrl": "https://youtu.be/YymMn0cwYhU",
-    "videoQP": "?t=863"
   },
   {
     "repo": "ctzn",
