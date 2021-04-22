@@ -3,7 +3,7 @@ layout: base-layout.liquid
 title: CTZN.network - A decentralized social protocol
 ---
 
-<div class="mb-32 mt-12 sm:mt-24 mx-auto px-2 text-center" style="max-width: 640px;">
+<div class="mb-20 mt-12 sm:mt-24 mx-auto px-2 text-center" style="max-width: 640px;">
   <h1 class="font-semibold mb-3 text-4xl sm:text-6xl">
     CTZN.network
   </h1>
@@ -28,4 +28,37 @@ title: CTZN.network - A decentralized social protocol
     href="https://ctznry.com"
     class="block sm:inline-block font-mono text-blue-600 px-4 py-4 rounded bg-gray-50 mb-2 hover:underline"
   >Alpha Build</a>
+</div>
+
+<div class="mb-32 mt-12 border-t border-b sm:border border-gray-200 sm:rounded sm:mt-24 mx-auto px-4 py-8 text-center" style="max-width: 640px;">
+  <h2 class="font-semibold mb-3 text-4xl">Patrons</h2>
+  <p class="mb-8 text-lg">
+    Ctzn is developed with the incredible support of our patrons.
+    <a class="text-blue-600" href="https://www.patreon.com/paul_maf_and_andrew" target="_blank">Join the Patreon</a>
+    to help us continue this work and have your name listed here.
+  </p>
+  <h3 class="font-semibold mb-3 text-xl sm:text-2xl">Sponsors ($100+/mo)</h3>
+  <div class="mb-8">
+    {% for patron in patrons.sponsors %}
+      <span class="mr-2">
+        {% if patron.twitter != "" %}
+          <a class="text-blue-600" href="https://twitter.com/{{patron.twitter}}" target="_blank">{{ patron.name }}</a>
+        {% else %}
+          {{ patron.name }}
+        {% endif %}
+      </span>
+    {% endfor %}
+  </div>
+  <h3 class="font-semibold mb-3 text-xl sm:text-2xl">Super Contributors ($10+/mo)</h3>
+  <div class="mb-8">
+    {% for patron in patrons.superContribs %}
+      <span class="mr-2">{{ patron.name }}</span>
+    {% endfor %}
+  </div>
+  <h3 class="font-semibold mb-3 text-xl sm:text-2xl">Contributors ($5+/mo)</h3>
+  <div>
+    {% for patron in patrons.contribs %}
+      <span class="mr-2">{{ patron.name }}</span>
+    {% endfor %}
+  </div>
 </div>

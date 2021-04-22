@@ -1,7 +1,6 @@
 const path = require('path')
 const fs = require('fs')
 
-
 const commits = JSON.parse(fs.readFileSync(path.join(__dirname, '..', '_data', 'vlogCommits.json')))
 const videos = JSON.parse(fs.readFileSync(path.join(__dirname, '..', '_data', 'vlogVideos.json')))
 const interestingCommits = fs.readFileSync(path.join(__dirname, '..', '_data', 'vlogInterestingCommits.txt'), 'utf8').split('\n').filter(Boolean)
