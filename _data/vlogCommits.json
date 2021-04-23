@@ -1368,14 +1368,6 @@
     "authorDate": "2021-02-12T17:44:52.000Z"
   },
   {
-    "repo": "ctznry",
-    "hash": "688114bf4e1e9d55581d74db7313c4b2b5d6b861",
-    "abbrevHash": "688114b",
-    "subject": "Correctly handle error conditions",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-12T17:44:52.000Z"
-  },
-  {
     "repo": "ctzn",
     "hash": "5f5734d076d998ff509987db9b3dc3eb07bb286b",
     "abbrevHash": "5f5734d",
@@ -1686,6 +1678,14 @@
     "subject": "Change composer to select post destination on post rather than optionally",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-18T15:42:13.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "5b914dd39ae740fa31633ed2bb894fdd42c48df5",
+    "abbrevHash": "5b914dd",
+    "subject": "First pass on mobile styles",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-18T16:19:19.000Z"
   },
   {
     "repo": "ctznry",
@@ -2961,14 +2961,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "774374116e882785ad02394bdc77076fbd722e6b",
-    "abbrevHash": "7743741",
-    "subject": "Allow posts with images but no text",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-04T21:39:53.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "c370f39539c6caf8823df6df355f3d057d281046",
     "abbrevHash": "c370f39",
     "subject": "Show captions on images in expanded posts",
@@ -3046,6 +3038,14 @@
     "subject": "Improve the 'Post To' UI in the composer",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-05T22:12:48.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "d3123b0a62592429a21e1659ca38fc6f0f0671a8",
+    "abbrevHash": "d3123b0",
+    "subject": "Submit new posts and comments on ctrl/cmd+enter",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-05T22:20:07.000Z"
   },
   {
     "repo": "ctznry",
@@ -4545,14 +4545,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "5899a7c9ec9ed02609d3df1cfb5a1c50aacdbc95",
-    "abbrevHash": "5899a7c",
-    "subject": "Visual improvement to post highlighting",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-28T00:12:00.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "760970a76a70c9f03538100821638bed9094dc5c",
     "abbrevHash": "760970a",
     "subject": "Recenter content, add 2col mode to main, add suggestions, add secondary-menu",
@@ -4606,6 +4598,14 @@
     "subject": "Add a methods filter to the activity feed",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-29T16:54:02.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "0f7614cfec3a8c7e6e545c67f2612ee9cebb5b40",
+    "abbrevHash": "0f7614c",
+    "subject": "Add view-activity popup",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-29T18:23:26.000Z"
   },
   {
     "repo": "ctznry",
@@ -5489,14 +5489,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "0286d6cbdd56576529edeebe18c32977bba283e0",
-    "abbrevHash": "0286d6c",
-    "subject": "Update edit-profile to include community controls; anyone can now view, but disabled if no perms",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-04-08T20:31:57.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "8fd9ff01446c0481a562ec7099d91165dc52ff97",
     "abbrevHash": "8fd9ff0",
     "subject": "Fix missing import",
@@ -5558,6 +5550,14 @@
     "subject": "Add 'pre > code' selector for rendering code blocks",
     "authorName": "Benjamin Herman",
     "authorDate": "2021-04-09T08:14:30.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "7b810c75d3c5a21b0c333cce99cf56069baebf97",
+    "abbrevHash": "7b810c7",
+    "subject": "Merge branch 'user-input-images' of https://github.com/hamnox/ctznry into hamnox-user-input-images",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-09T15:41:18.000Z"
   },
   {
     "repo": "ctznry",
@@ -6320,6 +6320,22 @@
     "authorDate": "2021-04-16T19:55:12.000Z"
   },
   {
+    "repo": "ctznry",
+    "hash": "d539a2f12d932c63d305a3cf76853ae0ef119e72",
+    "abbrevHash": "d539a2f",
+    "subject": "fix profile follow switch",
+    "authorName": "Mel Heisey",
+    "authorDate": "2021-04-17T01:14:53.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "ad988a4cf8e6e79df3ed454a79eb4df6f33ce9fc",
+    "abbrevHash": "ad988a4",
+    "subject": "Merge pull request #19 from hamnox/fix-bad-follow-check",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-19T15:19:30.000Z"
+  },
+  {
     "repo": "ctzn",
     "hash": "79cc5266f24e2c8b238bf38b36aaac088e0827d2",
     "abbrevHash": "79cc526",
@@ -6654,5 +6670,45 @@
     "subject": "Admin UI: Add chart of metrics over past month",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-22T21:52:34.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "33f001185632ae571100407ce953f4a6b0b5b00e",
+    "abbrevHash": "33f0011",
+    "subject": "Switch from lit-element to the new lit",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-23T01:06:59.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "87b72f35bf16402f27a4883bef1a425058521bd2",
+    "abbrevHash": "87b72f3",
+    "subject": "Merge branch 'master' of github.com:pfrazee/ctznry",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-23T01:14:49.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "f5280747f85b55c0edc497ebf721602985052d4d",
+    "abbrevHash": "f528074",
+    "subject": "Clean up the desktop shell",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-23T02:39:59.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "32d3e34dd98a3edc0e3fa5a3cbf629123044b8c1",
+    "abbrevHash": "32d3e34",
+    "subject": "Move to a much lighter and whitespace-heavy aesthetic (WIP)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-23T20:13:00.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "f9c7184083fd8708b54c77ab22a9a8c47bd7ef2d",
+    "abbrevHash": "f9c7184",
+    "subject": "Update thread-view styles to match new aesthetic",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-23T21:29:59.000Z"
   }
 ]
