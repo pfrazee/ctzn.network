@@ -1,29 +1,236 @@
 [
   {
     "repo": "ctznry",
-    "hash": "f9c7184083fd8708b54c77ab22a9a8c47bd7ef2d",
-    "abbrevHash": "f9c7184",
-    "subject": "Update thread-view styles to match new aesthetic",
+    "hash": "fc89eea48e2817d5d7f615402932f5920fb7e08c",
+    "abbrevHash": "fc89eea",
+    "subject": "Re-enable the check for new posts now that the server can handle it",
     "authorName": "Paul Frazee",
-    "authorDate": "2021-04-23T21:29:59.000Z",
-    "interesting": false
+    "authorDate": "2021-04-26T22:04:46.000Z",
+    "interesting": false,
+    "videoId": "D6R0IV7ySuA",
+    "videoUrl": "https://youtu.be/D6R0IV7ySuA",
+    "videoQP": "?t=26371"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "8202b08f2da1ffe36bbb75557d28b1e602fc7d48",
+    "abbrevHash": "8202b08",
+    "subject": "0.34.3",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-26T21:54:25.000Z",
+    "interesting": false,
+    "videoId": "D6R0IV7ySuA",
+    "videoUrl": "https://youtu.be/D6R0IV7ySuA",
+    "videoQP": "?t=25750"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "2ac5bc9c4a8ac992dabbf2132add560cf7e82e3c",
+    "abbrevHash": "2ac5bc9",
+    "subject": "Add caching to posts-view",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-26T21:54:20.000Z",
+    "interesting": false,
+    "videoId": "D6R0IV7ySuA",
+    "videoUrl": "https://youtu.be/D6R0IV7ySuA",
+    "videoQP": "?t=25745"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "670fb7efc88f20cb1383b058789cf2d6922ee18f",
+    "abbrevHash": "670fb7e",
+    "subject": "0.34.2",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-26T21:35:20.000Z",
+    "interesting": false,
+    "videoId": "D6R0IV7ySuA",
+    "videoUrl": "https://youtu.be/D6R0IV7ySuA",
+    "videoQP": "?t=24605"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "d76a2a76132cdf169a2bc7e3a414ecddcda1acaf",
+    "abbrevHash": "d76a2a7",
+    "subject": "Add a little more flexibility to the home feed cache",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-26T21:35:17.000Z",
+    "interesting": false,
+    "videoId": "D6R0IV7ySuA",
+    "videoUrl": "https://youtu.be/D6R0IV7ySuA",
+    "videoQP": "?t=24602"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "b300a55becbf02805f1b8ee6b986783908f8d3b2",
+    "abbrevHash": "b300a55",
+    "subject": "0.34.1",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-26T21:21:52.000Z",
+    "interesting": false,
+    "videoId": "D6R0IV7ySuA",
+    "videoUrl": "https://youtu.be/D6R0IV7ySuA",
+    "videoQP": "?t=23797"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "547a4baba361249fcd65941efac3df6ab0bfe46f",
+    "abbrevHash": "547a4ba",
+    "subject": "Add a simple, temporary caching solution to the feed-view",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-26T21:21:49.000Z",
+    "interesting": false,
+    "videoId": "D6R0IV7ySuA",
+    "videoUrl": "https://youtu.be/D6R0IV7ySuA",
+    "videoQP": "?t=23794"
   },
   {
     "repo": "ctznry",
-    "hash": "32d3e34dd98a3edc0e3fa5a3cbf629123044b8c1",
-    "abbrevHash": "32d3e34",
-    "subject": "Move to a much lighter and whitespace-heavy aesthetic (WIP)",
+    "hash": "599e63407f284d82b8da4d319463ff8e7f6f1483",
+    "abbrevHash": "599e634",
+    "subject": "Fixes to notifications caching",
     "authorName": "Paul Frazee",
-    "authorDate": "2021-04-23T20:13:00.000Z",
-    "interesting": false
+    "authorDate": "2021-04-26T20:52:02.000Z",
+    "interesting": false,
+    "videoId": "D6R0IV7ySuA",
+    "videoUrl": "https://youtu.be/D6R0IV7ySuA",
+    "videoQP": "?t=22007"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "3cba45f7afe5499e37d1ef003ec0aa49122dae9b",
+    "abbrevHash": "3cba45f",
+    "subject": "0.34.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-26T20:34:35.000Z",
+    "interesting": false,
+    "videoId": "D6R0IV7ySuA",
+    "videoUrl": "https://youtu.be/D6R0IV7ySuA",
+    "videoQP": "?t=20960"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "732878b86a54249680f01ff8a021cc8252553952",
+    "abbrevHash": "732878b",
+    "subject": "Apply rate limiting to websocket calls",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-26T20:34:32.000Z",
+    "interesting": false,
+    "videoId": "D6R0IV7ySuA",
+    "videoUrl": "https://youtu.be/D6R0IV7ySuA",
+    "videoQP": "?t=20957"
   },
   {
     "repo": "ctznry",
-    "hash": "f5280747f85b55c0edc497ebf721602985052d4d",
-    "abbrevHash": "f528074",
-    "subject": "Clean up the desktop shell",
+    "hash": "22dc767acead908068f5167e87954c0f4250652f",
+    "abbrevHash": "22dc767",
+    "subject": "Disable 'checkNewItems()' calls in feeds",
     "authorName": "Paul Frazee",
-    "authorDate": "2021-04-23T02:39:59.000Z",
+    "authorDate": "2021-04-26T18:39:15.000Z",
+    "interesting": false,
+    "videoId": "D6R0IV7ySuA",
+    "videoUrl": "https://youtu.be/D6R0IV7ySuA",
+    "videoQP": "?t=14040"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "41a6749dbecae1b7bbbb0d2061ac722743cde54e",
+    "abbrevHash": "41a6749",
+    "subject": "Reduce frequency of feed check-new calls",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-26T18:26:10.000Z",
+    "interesting": false,
+    "videoId": "D6R0IV7ySuA",
+    "videoUrl": "https://youtu.be/D6R0IV7ySuA",
+    "videoQP": "?t=13255"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "65dc48737cc04483d9ffff457a6b911ecbb1e0ba",
+    "abbrevHash": "65dc487",
+    "subject": "Update notifications-fetching to occur less frequently and share results across tabs",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-26T18:21:49.000Z",
+    "interesting": false,
+    "videoId": "D6R0IV7ySuA",
+    "videoUrl": "https://youtu.be/D6R0IV7ySuA",
+    "videoQP": "?t=12994"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "32f85f17d1ccfb859b5f67a6e8af77e45012e6ee",
+    "abbrevHash": "32f85f1",
+    "subject": "Only eject databases from memory when they are in memory",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-26T17:46:57.000Z",
+    "interesting": false,
+    "videoId": "D6R0IV7ySuA",
+    "videoUrl": "https://youtu.be/D6R0IV7ySuA",
+    "videoQP": "?t=10902"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "ab4d011c6c9f0379769c23403ec4d7eb30318119",
+    "abbrevHash": "ab4d011",
+    "subject": "0.33.1",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-26T17:38:41.000Z",
+    "interesting": false,
+    "videoId": "D6R0IV7ySuA",
+    "videoUrl": "https://youtu.be/D6R0IV7ySuA",
+    "videoQP": "?t=10406"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "4f52adcd480c2befceaee4394a6dc0fb40f022a1",
+    "abbrevHash": "4f52adc",
+    "subject": "Update the debugger to only store in memory; improve the debugger UI tools",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-26T17:38:35.000Z",
+    "interesting": false,
+    "videoId": "D6R0IV7ySuA",
+    "videoUrl": "https://youtu.be/D6R0IV7ySuA",
+    "videoQP": "?t=10400"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "37f5fc4d00f852843db1c3fdb10728ad101706fc",
+    "abbrevHash": "37f5fc4",
+    "subject": "0.33.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-26T16:45:51.000Z",
+    "interesting": false,
+    "videoId": "D6R0IV7ySuA",
+    "videoUrl": "https://youtu.be/D6R0IV7ySuA",
+    "videoQP": "?t=7236"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "fff28914eb9d08233500bc301490e53741ea7ce0",
+    "abbrevHash": "fff2891",
+    "subject": "Add debug logger",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-26T16:44:14.000Z",
+    "interesting": false,
+    "videoId": "D6R0IV7ySuA",
+    "videoUrl": "https://youtu.be/D6R0IV7ySuA",
+    "videoQP": "?t=7139"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "360a2ff737bd46b11874278ceec6df072aac0109",
+    "abbrevHash": "360a2ff",
+    "subject": "0.32.3",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-23T22:50:12.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctzn",
+    "hash": "f166f86a81dd02a8349d36c484af1fb8d81aeb4a",
+    "abbrevHash": "f166f86",
+    "subject": "Fix case where errors fail to propagate in streams",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-23T22:50:09.000Z",
     "interesting": false
   },
   {
@@ -1651,6 +1858,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "23945bf40d4577d7460a3194f6692a7155193618",
+    "abbrevHash": "23945bf",
+    "subject": "Sort members-list to show newest members on top",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-09T15:55:57.000Z",
+    "interesting": false,
+    "videoId": "66LH-a0MKQA",
+    "videoUrl": "https://youtu.be/66LH-a0MKQA",
+    "videoQP": "?t=1759"
+  },
+  {
+    "repo": "ctznry",
     "hash": "00db3b2d32ba40810709d615254f38d15e51643c",
     "abbrevHash": "00db3b2",
     "subject": "Tweaks to user-input UI",
@@ -1660,18 +1879,6 @@
     "videoId": "66LH-a0MKQA",
     "videoUrl": "https://youtu.be/66LH-a0MKQA",
     "videoQP": "?t=1518"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "7b810c75d3c5a21b0c333cce99cf56069baebf97",
-    "abbrevHash": "7b810c7",
-    "subject": "Merge branch 'user-input-images' of https://github.com/hamnox/ctznry into hamnox-user-input-images",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-04-09T15:41:18.000Z",
-    "interesting": false,
-    "videoId": "66LH-a0MKQA",
-    "videoUrl": "https://youtu.be/66LH-a0MKQA",
-    "videoQP": "?t=880"
   },
   {
     "repo": "ctznry",
@@ -2976,6 +3183,18 @@
     "videoQP": "?t=20281"
   },
   {
+    "repo": "ctznry",
+    "hash": "be939f8de5232f15a425c93b330d0095cf3ea761",
+    "abbrevHash": "be939f8",
+    "subject": "Switch item classes from keyTemplates to groupings attribute",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-29T22:01:55.000Z",
+    "interesting": false,
+    "videoId": "EgIMWSHyY0o",
+    "videoUrl": "https://youtu.be/EgIMWSHyY0o",
+    "videoQP": "?t=20281"
+  },
+  {
     "repo": "ctzn",
     "hash": "9f644150c860fcbabfdac95554feb4b11218328e",
     "abbrevHash": "9f64415",
@@ -3046,18 +3265,6 @@
     "videoId": "EgIMWSHyY0o",
     "videoUrl": "https://youtu.be/EgIMWSHyY0o",
     "videoQP": "?t=17566"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "0f7614cfec3a8c7e6e545c67f2612ee9cebb5b40",
-    "abbrevHash": "0f7614c",
-    "subject": "Add view-activity popup",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-29T18:23:26.000Z",
-    "interesting": false,
-    "videoId": "EgIMWSHyY0o",
-    "videoUrl": "https://youtu.be/EgIMWSHyY0o",
-    "videoQP": "?t=7172"
   },
   {
     "repo": "ctznry",
@@ -3784,6 +3991,18 @@
   },
   {
     "repo": "ctzn",
+    "hash": "82bcb6b45bf2e3489498ffc56ac57f34db001125",
+    "abbrevHash": "82bcb6b",
+    "subject": "Add indexes rebuilding tool",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-22T18:03:41.000Z",
+    "interesting": false,
+    "videoId": "TvNVmkE12Ns",
+    "videoUrl": "https://youtu.be/TvNVmkE12Ns",
+    "videoQP": "?t=10835"
+  },
+  {
+    "repo": "ctzn",
     "hash": "642fd3aad9f7fb44babdd6ff0ba35a47943039f6",
     "abbrevHash": "642fd3a",
     "subject": "Fix feed index ordering",
@@ -3997,18 +4216,6 @@
     "videoId": "YMw1fFQql7w",
     "videoUrl": "https://youtu.be/YMw1fFQql7w",
     "videoQP": "?t=4027"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "0613b7daf3c26a9d0abf359f44cb0225a3c41d40",
-    "abbrevHash": "0613b7d",
-    "subject": "Implement items",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-16T23:38:28.000Z",
-    "interesting": false,
-    "videoId": "IRlHghjapqk",
-    "videoUrl": "https://youtu.be/IRlHghjapqk",
-    "videoQP": "?t=27460"
   },
   {
     "repo": "ctzn",
@@ -5329,6 +5536,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "4bf9a1ebf90b8041d0e7c740ae95753783439e64",
+    "abbrevHash": "4bf9a1e",
+    "subject": "Post composer now defaults to the current community when opened from the header",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-05T23:02:14.000Z",
+    "interesting": false,
+    "videoId": "7Q-l2sobpYY",
+    "videoUrl": "https://youtu.be/7Q-l2sobpYY",
+    "videoQP": "?t=9943"
+  },
+  {
+    "repo": "ctznry",
     "hash": "261560ccaa56bddbb3503c54a7e7f71d09de0446",
     "abbrevHash": "261560c",
     "subject": "Add a favicon",
@@ -5338,18 +5557,6 @@
     "videoId": "7Q-l2sobpYY",
     "videoUrl": "https://youtu.be/7Q-l2sobpYY",
     "videoQP": "?t=9647"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "d3123b0a62592429a21e1659ca38fc6f0f0671a8",
-    "abbrevHash": "d3123b0",
-    "subject": "Submit new posts and comments on ctrl/cmd+enter",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-05T22:20:07.000Z",
-    "interesting": false,
-    "videoId": "7Q-l2sobpYY",
-    "videoUrl": "https://youtu.be/7Q-l2sobpYY",
-    "videoQP": "?t=7416"
   },
   {
     "repo": "ctznry",
@@ -6046,6 +6253,18 @@
   },
   {
     "repo": "ctzn",
+    "hash": "301b9eadc8f4c1441e81b3078aa489380ca34352",
+    "abbrevHash": "301b9ea",
+    "subject": "Enforce an avatar file-size limit",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-02T17:50:29.000Z",
+    "interesting": false,
+    "videoId": "t17pO4Bnvbo",
+    "videoUrl": "https://youtu.be/t17pO4Bnvbo",
+    "videoQP": "?t=2301"
+  },
+  {
+    "repo": "ctzn",
     "hash": "3b07c247bebb554396fd6b4f0de3b3d8483a49b2",
     "abbrevHash": "3b07c24",
     "subject": "0.12.3",
@@ -6586,18 +6805,6 @@
     "videoId": "RyObd_MAUkg",
     "videoUrl": "https://youtu.be/RyObd_MAUkg",
     "videoQP": "?t=14853"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "d153ea6dc7e59c9cad8be6caba8ef3b9d05b6031",
-    "abbrevHash": "d153ea6",
-    "subject": "Add timeouts to all hyperbee reads",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-26T20:31:47.000Z",
-    "interesting": false,
-    "videoId": "RyObd_MAUkg",
-    "videoUrl": "https://youtu.be/RyObd_MAUkg",
-    "videoQP": "?t=14798"
   },
   {
     "repo": "ctzn",
@@ -7273,20 +7480,20 @@
   },
   {
     "repo": "ctznry",
+    "hash": "a07032aacd3ce4d64eadfb7165c02f6074be97da",
+    "abbrevHash": "a07032a",
+    "subject": "Small CSS fixes, also call it CTZN not CTZNRY",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-18T23:09:10.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
     "hash": "2a1c4356fe0768b57f27b8ad67fc4660f96ee9ff",
     "abbrevHash": "2a1c435",
     "subject": "Switch URL regex to be compat with safari",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-18T23:08:53.000Z",
-    "interesting": false
-  },
-  {
-    "repo": "ctznry",
-    "hash": "5b914dd39ae740fa31633ed2bb894fdd42c48df5",
-    "abbrevHash": "5b914dd",
-    "subject": "First pass on mobile styles",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-18T16:19:19.000Z",
     "interesting": false
   },
   {
@@ -8391,6 +8598,18 @@
     "videoQP": "?t=10415"
   },
   {
+    "repo": "ctzn",
+    "hash": "9c368fd13ffff7ded958d783af157aaae2833be7",
+    "abbrevHash": "9c368fd",
+    "subject": "Add password storage and verification",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-09T18:20:55.000Z",
+    "interesting": false,
+    "videoId": "FxoZBXNDmK4",
+    "videoUrl": "https://youtu.be/FxoZBXNDmK4",
+    "videoQP": "?t=10415"
+  },
+  {
     "repo": "ctznry",
     "hash": "78cc1cafa53c1ef1e14f581d9f26dfd5fd1be8e1",
     "abbrevHash": "78cc1ca",
@@ -8761,18 +8980,6 @@
     "videoId": "MylTaZx2Q_w",
     "videoUrl": "https://youtu.be/MylTaZx2Q_w",
     "videoQP": "?t=951"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "4be59465f565eabd717714de03cfa7fe1e092deb",
-    "abbrevHash": "4be5946",
-    "subject": "Add communities and merge comments and posts into one type (posts)",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-05T20:48:18.000Z",
-    "interesting": false,
-    "videoId": "li0_4gcY4mw",
-    "videoUrl": "https://youtu.be/li0_4gcY4mw",
-    "videoQP": "?t=19374"
   },
   {
     "repo": "ctzn",
