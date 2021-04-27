@@ -1705,14 +1705,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "a07032aacd3ce4d64eadfb7165c02f6074be97da",
-    "abbrevHash": "a07032a",
-    "subject": "Small CSS fixes, also call it CTZN not CTZNRY",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-18T23:09:10.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "4b9df1894bffe42374322fe30474b45d86c0978f",
     "abbrevHash": "4b9df18",
     "subject": "Disable zoom on mobile",
@@ -1822,6 +1814,14 @@
     "subject": "Add empty messages to simple-user-list",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-20T20:20:22.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "412c62b5d73f921c0b76ab1d56cd3907b5c351f8",
+    "abbrevHash": "412c62b",
+    "subject": "Disable votes",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-20T20:39:23.000Z"
   },
   {
     "repo": "ctznry",
@@ -3065,14 +3065,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "4bf9a1ebf90b8041d0e7c740ae95753783439e64",
-    "abbrevHash": "4bf9a1e",
-    "subject": "Post composer now defaults to the current community when opened from the header",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-05T23:02:14.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "7f97523ddc0b32d38510b7978377cc8ce6c72226",
     "abbrevHash": "7f97523",
     "subject": "Enlarge the avatar on mobile feeds a little",
@@ -3190,6 +3182,14 @@
     "subject": "Visual improvements to the reactions UI",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-08T22:32:44.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "6e836b5fa5c4fb6f8d61376b91242e4b9de1a324",
+    "abbrevHash": "6e836b5",
+    "subject": "Apply toLowerCase on custom reactions",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-08T22:36:30.000Z"
   },
   {
     "repo": "ctznry",
@@ -4665,14 +4665,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "be939f8de5232f15a425c93b330d0095cf3ea761",
-    "abbrevHash": "be939f8",
-    "subject": "Switch item classes from keyTemplates to groupings attribute",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-29T22:01:55.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "01de0e633249a4d77d45f0376f7eea7aa78ab276",
     "abbrevHash": "01de0e6",
     "subject": "Update the tailwind safelist",
@@ -4798,6 +4790,14 @@
     "subject": "Make toast full width on thiner devices",
     "authorName": "Freddie Gilbraith",
     "authorDate": "2021-03-31T16:48:25.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "a705d3a1c3de61f77d8021229ee584226497f763",
+    "abbrevHash": "a705d3a",
+    "subject": "Merge pull request #8 from FreddieGilbraith/patch-1",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T17:01:39.000Z"
   },
   {
     "repo": "ctznry",
@@ -5577,14 +5577,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "23945bf40d4577d7460a3194f6692a7155193618",
-    "abbrevHash": "23945bf",
-    "subject": "Sort members-list to show newest members on top",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-04-09T15:55:57.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "fdaa767eb660c5e4a5756b33add408d4579ca0b0",
     "abbrevHash": "fdaa767",
     "subject": "Merge branch 'feature/ctzn-code' of https://github.com/metanomial/ctznry into metanomial-feature/ctzn-code",
@@ -5662,6 +5654,14 @@
     "subject": "Add ctzn-iframe tag",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-09T17:20:08.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "e0828d32b84baca475f9bffb70f0a07e8e0b3485",
+    "abbrevHash": "e0828d3",
+    "subject": "Fix iframe allow list",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-09T17:30:01.000Z"
   },
   {
     "repo": "ctznry",
@@ -6688,6 +6688,30 @@
     "authorDate": "2021-04-23T01:14:49.000Z"
   },
   {
+    "repo": "ctznry",
+    "hash": "f5280747f85b55c0edc497ebf721602985052d4d",
+    "abbrevHash": "f528074",
+    "subject": "Clean up the desktop shell",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-23T02:39:59.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "32d3e34dd98a3edc0e3fa5a3cbf629123044b8c1",
+    "abbrevHash": "32d3e34",
+    "subject": "Move to a much lighter and whitespace-heavy aesthetic (WIP)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-23T20:13:00.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "f9c7184083fd8708b54c77ab22a9a8c47bd7ef2d",
+    "abbrevHash": "f9c7184",
+    "subject": "Update thread-view styles to match new aesthetic",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-23T21:29:59.000Z"
+  },
+  {
     "repo": "ctzn",
     "hash": "f166f86a81dd02a8349d36c484af1fb8d81aeb4a",
     "abbrevHash": "f166f86",
@@ -6702,6 +6726,14 @@
     "subject": "0.32.3",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-23T22:50:12.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "8fc0e444e1b6b2da329c625ea291657452885282",
+    "abbrevHash": "8fc0e44",
+    "subject": "Slightly more borders to help with stream readability",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-25T17:05:40.000Z"
   },
   {
     "repo": "ctzn",
@@ -6742,6 +6774,14 @@
     "subject": "Only eject databases from memory when they are in memory",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-26T17:46:57.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "6efaa67e156a9ecd3bc112f9712885ef76cc0c40",
+    "abbrevHash": "6efaa67",
+    "subject": "A few aesthetic updates",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-26T17:47:29.000Z"
   },
   {
     "repo": "ctznry",
@@ -6846,5 +6886,53 @@
     "subject": "Re-enable the check for new posts now that the server can handle it",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-26T22:04:46.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "21221046096b252bde46f782d9b01cfe0276fc71",
+    "abbrevHash": "2122104",
+    "subject": "Merge branch 'master' into ui-work",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-27T18:02:03.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "8fcda16ad0bc87d52557e15522d84d416f85d459",
+    "abbrevHash": "8fcda16",
+    "subject": "Update custom html rendering for new aesthetic",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-27T20:34:16.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "983ab671db35d6858a7e84dffc48ae5639cee489",
+    "abbrevHash": "983ab67",
+    "subject": "Implement header search widget",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-27T20:34:32.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "ad1c59c7bb8317f9908b37ed67f917b1896919a0",
+    "abbrevHash": "ad1c59c",
+    "subject": "Small visual improvements to the header search widget",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-27T20:40:06.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "e0cc1ffb6111bd4812d7e72f9af176a7451b028e",
+    "abbrevHash": "e0cc1ff",
+    "subject": "Update notifications for the new aesthetic",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-27T20:59:34.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "f8b760b29a8c6be89b1bd8e8c2f37a441c40fea2",
+    "abbrevHash": "f8b760b",
+    "subject": "Update communities page to match the new aesthetic",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-27T21:06:28.000Z"
   }
 ]
