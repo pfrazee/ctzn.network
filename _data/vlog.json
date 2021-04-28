@@ -1,6 +1,90 @@
 [
   {
     "repo": "ctznry",
+    "hash": "ff404d851d4bc3dc268f29bf0c56c0e20d13a60e",
+    "abbrevHash": "ff404d8",
+    "subject": "Require all profiles to have a fixed set of sections (feed, about)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-28T21:07:09.000Z",
+    "interesting": false,
+    "videoId": "xcvsuZs4h4A",
+    "videoUrl": "https://youtu.be/xcvsuZs4h4A",
+    "videoQP": "?t=10106"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "a7dddb928336f8937b104c75dd8faac03879d71c",
+    "abbrevHash": "a7dddb9",
+    "subject": "Improve profile-view scroll targeting and right column space usage",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-28T16:48:34.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctzn",
+    "hash": "c347b5d1dcc2c86f68e322767345a8493154f7b4",
+    "abbrevHash": "c347b5d",
+    "subject": "0.34.6",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-28T16:13:05.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctzn",
+    "hash": "7249ea170882662cefc8095d3df7592e6890c9bd",
+    "abbrevHash": "7249ea1",
+    "subject": "Add HTTP calls to the debug logger",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-28T16:13:02.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctzn",
+    "hash": "3112dfcd2ff8f9553533d24d6e7ff4022a23dfc5",
+    "abbrevHash": "3112dfc",
+    "subject": "0.34.5",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-28T15:45:40.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctzn",
+    "hash": "423a15a8456c40abdaf0fc321a73aab9416fb94c",
+    "abbrevHash": "423a15a",
+    "subject": "Debounce database load/unload logic to avoid slamming the DB",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-28T15:45:37.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctzn",
+    "hash": "76128f260db985d727e31331537a6be92050b39c",
+    "abbrevHash": "76128f2",
+    "subject": "0.34.4",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-28T15:24:08.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctzn",
+    "hash": "ea18c6b9f814fc7c62186c04fa477da32efd7b0d",
+    "abbrevHash": "ea18c6b",
+    "subject": "Update rate limiting to include HTTP and fall back to IP instead of socket_id",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-28T15:24:05.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "a0a7f975a9c4468199695a3bcc34a7598d44f82b",
+    "abbrevHash": "a0a7f97",
+    "subject": "Mobile and responsive updates",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-28T01:01:31.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
     "hash": "f8b760b29a8c6be89b1bd8e8c2f37a441c40fea2",
     "abbrevHash": "f8b760b",
     "subject": "Update communities page to match the new aesthetic",
@@ -1816,6 +1900,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "9f089055305b8f6d97f1f1b8a31b17a7fb665c60",
+    "abbrevHash": "9f08905",
+    "subject": "Tweak css of custom html in posts",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-09T18:00:42.000Z",
+    "interesting": false,
+    "videoId": "66LH-a0MKQA",
+    "videoUrl": "https://youtu.be/66LH-a0MKQA",
+    "videoQP": "?t=9244"
+  },
+  {
+    "repo": "ctznry",
     "hash": "1d0775eed4b148c5969e490eca6e00ee3703b8e6",
     "abbrevHash": "1d0775e",
     "subject": "Add margin to ctzn-code",
@@ -1837,18 +1933,6 @@
     "videoId": "66LH-a0MKQA",
     "videoUrl": "https://youtu.be/66LH-a0MKQA",
     "videoQP": "?t=8127"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "e0828d32b84baca475f9bffb70f0a07e8e0b3485",
-    "abbrevHash": "e0828d3",
-    "subject": "Fix iframe allow list",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-04-09T17:30:01.000Z",
-    "interesting": false,
-    "videoId": "66LH-a0MKQA",
-    "videoUrl": "https://youtu.be/66LH-a0MKQA",
-    "videoQP": "?t=7403"
   },
   {
     "repo": "ctznry",
@@ -3097,6 +3181,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "945ce4e62ebaf9d7baf4e9db77ee2d554577b91f",
+    "abbrevHash": "945ce4e",
+    "subject": "Improve toast positioning on mobile and dismiss them on click",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T19:08:10.000Z",
+    "interesting": false,
+    "videoId": "8X-1bTGf5XE",
+    "videoUrl": "https://youtu.be/8X-1bTGf5XE",
+    "videoQP": "?t=592"
+  },
+  {
+    "repo": "ctznry",
     "hash": "ad5e070ba2c9a3a18efb7f2713058b2f8802d6fe",
     "abbrevHash": "ad5e070",
     "subject": "Fix overflow issue in activity feed",
@@ -3111,15 +3207,6 @@
     "subject": "Tweaks to header menu",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-31T17:09:47.000Z",
-    "interesting": false
-  },
-  {
-    "repo": "ctznry",
-    "hash": "a705d3a1c3de61f77d8021229ee584226497f763",
-    "abbrevHash": "a705d3a",
-    "subject": "Merge pull request #8 from FreddieGilbraith/patch-1",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-31T17:01:39.000Z",
     "interesting": false
   },
   {
@@ -3910,6 +3997,18 @@
   },
   {
     "repo": "ctzn",
+    "hash": "420d43560964c1f7d22512a6aa25c25e61bea816",
+    "abbrevHash": "420d435",
+    "subject": "0.21.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T18:21:38.000Z",
+    "interesting": false,
+    "videoId": "xPFZHQN5y94",
+    "videoUrl": "https://youtu.be/xPFZHQN5y94",
+    "videoQP": "?t=6727"
+  },
+  {
+    "repo": "ctzn",
     "hash": "95551132b6488247ec3ca6d08d3cb05cefc43c63",
     "abbrevHash": "9555113",
     "subject": "Add put-blob-method",
@@ -4099,18 +4198,6 @@
     "videoId": "TvNVmkE12Ns",
     "videoUrl": "https://youtu.be/TvNVmkE12Ns",
     "videoQP": "?t=13863"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "82bcb6b45bf2e3489498ffc56ac57f34db001125",
-    "abbrevHash": "82bcb6b",
-    "subject": "Add indexes rebuilding tool",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-22T18:03:41.000Z",
-    "interesting": false,
-    "videoId": "TvNVmkE12Ns",
-    "videoUrl": "https://youtu.be/TvNVmkE12Ns",
-    "videoQP": "?t=10835"
   },
   {
     "repo": "ctzn",
@@ -5434,6 +5521,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "2f676a8a7aa6e22ce1c17bac8fc55b80a72523ac",
+    "abbrevHash": "2f676a8",
+    "subject": "Add a 'reactions summary' tool to show who reacted with what",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-09T17:43:18.000Z",
+    "interesting": false,
+    "videoId": "OVHF0otRc_k",
+    "videoUrl": "https://youtu.be/OVHF0otRc_k",
+    "videoQP": "?t=6002"
+  },
+  {
+    "repo": "ctznry",
     "hash": "c0add0c95c79543c316deb2879d75025db08b31b",
     "abbrevHash": "c0add0c",
     "subject": "Various improvements to reactions UI",
@@ -5455,18 +5554,6 @@
     "videoId": "y2WH_ccPkNc",
     "videoUrl": "https://youtu.be/y2WH_ccPkNc",
     "videoQP": "?t=22677"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "6e836b5fa5c4fb6f8d61376b91242e4b9de1a324",
-    "abbrevHash": "6e836b5",
-    "subject": "Apply toLowerCase on custom reactions",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-08T22:36:30.000Z",
-    "interesting": false,
-    "videoId": "y2WH_ccPkNc",
-    "videoUrl": "https://youtu.be/y2WH_ccPkNc",
-    "videoQP": "?t=21764"
   },
   {
     "repo": "ctznry",
@@ -6103,6 +6190,15 @@
   },
   {
     "repo": "ctzn",
+    "hash": "450eda0a5a2824f12f4d16a0f526fa277e136cff",
+    "abbrevHash": "450eda0",
+    "subject": "Merge pull request #36 from martinheidegger/patch-1",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-03T17:02:49.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctzn",
     "hash": "96477bf9986449459720eca5fbcd43edba6c05d9",
     "abbrevHash": "96477bf",
     "subject": "More information for creating a PTR Setup",
@@ -6361,18 +6457,6 @@
     "videoId": "t17pO4Bnvbo",
     "videoUrl": "https://youtu.be/t17pO4Bnvbo",
     "videoQP": "?t=2768"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "301b9eadc8f4c1441e81b3078aa489380ca34352",
-    "abbrevHash": "301b9ea",
-    "subject": "Enforce an avatar file-size limit",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-02T17:50:29.000Z",
-    "interesting": false,
-    "videoId": "t17pO4Bnvbo",
-    "videoUrl": "https://youtu.be/t17pO4Bnvbo",
-    "videoQP": "?t=2301"
   },
   {
     "repo": "ctzn",
@@ -7387,6 +7471,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "85ccd7619b6842f475033d3847de148638df6973",
+    "abbrevHash": "85ccd76",
+    "subject": "Minor updates to post rendering",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-22T18:27:04.000Z",
+    "interesting": false,
+    "videoId": "i4Y_wn2XbgY",
+    "videoUrl": "https://youtu.be/i4Y_wn2XbgY",
+    "videoQP": "?t=5634"
+  },
+  {
+    "repo": "ctznry",
     "hash": "13e8a3dc49cfc8f61d7cb1a7af17eba7820fe817",
     "abbrevHash": "13e8a3d",
     "subject": "UI tweaks",
@@ -7455,15 +7551,6 @@
     "subject": "0.8.0",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-20T20:39:42.000Z",
-    "interesting": false
-  },
-  {
-    "repo": "ctznry",
-    "hash": "412c62b5d73f921c0b76ab1d56cd3907b5c351f8",
-    "abbrevHash": "412c62b",
-    "subject": "Disable votes",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-20T20:39:23.000Z",
     "interesting": false
   },
   {
@@ -8566,6 +8653,18 @@
   },
   {
     "repo": "ctzn",
+    "hash": "3ab145d1d25678b89e7c975c5d6816ef741feb98",
+    "abbrevHash": "3ab145d",
+    "subject": "Remove old fontawesome assets",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-09T20:20:18.000Z",
+    "interesting": false,
+    "videoId": "FxoZBXNDmK4",
+    "videoUrl": "https://youtu.be/FxoZBXNDmK4",
+    "videoQP": "?t=17578"
+  },
+  {
+    "repo": "ctzn",
     "hash": "358cfabfaba987b62c59b8a547b6906fc0347e5d",
     "abbrevHash": "358cfab",
     "subject": "0.1.2",
@@ -8707,18 +8806,6 @@
     "videoId": "FxoZBXNDmK4",
     "videoUrl": "https://youtu.be/FxoZBXNDmK4",
     "videoQP": "?t=13345"
-  },
-  {
-    "repo": "ctzn",
-    "hash": "9c368fd13ffff7ded958d783af157aaae2833be7",
-    "abbrevHash": "9c368fd",
-    "subject": "Add password storage and verification",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-09T18:20:55.000Z",
-    "interesting": false,
-    "videoId": "FxoZBXNDmK4",
-    "videoUrl": "https://youtu.be/FxoZBXNDmK4",
-    "videoQP": "?t=10415"
   },
   {
     "repo": "ctzn",

@@ -888,14 +888,6 @@
     "authorDate": "2021-02-09T18:20:55.000Z"
   },
   {
-    "repo": "ctzn",
-    "hash": "9c368fd13ffff7ded958d783af157aaae2833be7",
-    "abbrevHash": "9c368fd",
-    "subject": "Add password storage and verification",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-09T18:20:55.000Z"
-  },
-  {
     "repo": "ctznry",
     "hash": "bcb92571ed0bacead5d3cc49d7d3dbbfa1d974a5",
     "abbrevHash": "bcb9257",
@@ -990,6 +982,14 @@
     "subject": "0.1.2",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-09T20:15:28.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "3ab145d1d25678b89e7c975c5d6816ef741feb98",
+    "abbrevHash": "3ab145d",
+    "subject": "Remove old fontawesome assets",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-09T20:20:18.000Z"
   },
   {
     "repo": "ctzn",
@@ -1824,14 +1824,6 @@
     "authorDate": "2021-02-20T20:39:23.000Z"
   },
   {
-    "repo": "ctznry",
-    "hash": "412c62b5d73f921c0b76ab1d56cd3907b5c351f8",
-    "abbrevHash": "412c62b",
-    "subject": "Disable votes",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-20T20:39:23.000Z"
-  },
-  {
     "repo": "ctzn",
     "hash": "b86a1d43e3b1e5c9b060a9f978f3f0f6f9128f14",
     "abbrevHash": "b86a1d4",
@@ -1894,6 +1886,14 @@
     "subject": "UI tweaks",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-21T08:03:13.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "85ccd7619b6842f475033d3847de148638df6973",
+    "abbrevHash": "85ccd76",
+    "subject": "Minor updates to post rendering",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-22T18:27:04.000Z"
   },
   {
     "repo": "ctznry",
@@ -2576,14 +2576,6 @@
     "authorDate": "2021-03-02T17:50:29.000Z"
   },
   {
-    "repo": "ctzn",
-    "hash": "301b9eadc8f4c1441e81b3078aa489380ca34352",
-    "abbrevHash": "301b9ea",
-    "subject": "Enforce an avatar file-size limit",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-02T17:50:29.000Z"
-  },
-  {
     "repo": "ctznry",
     "hash": "1d90a2b9b6d071f8c02e719a8088adbc27c60d6c",
     "abbrevHash": "1d90a2b",
@@ -2758,6 +2750,14 @@
     "subject": "More information for creating a PTR Setup",
     "authorName": "Martin Heidegger",
     "authorDate": "2021-03-03T15:25:54.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "450eda0a5a2824f12f4d16a0f526fa277e136cff",
+    "abbrevHash": "450eda0",
+    "subject": "Merge pull request #36 from martinheidegger/patch-1",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-03T17:02:49.000Z"
   },
   {
     "repo": "ctzn",
@@ -3193,14 +3193,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "6e836b5fa5c4fb6f8d61376b91242e4b9de1a324",
-    "abbrevHash": "6e836b5",
-    "subject": "Apply toLowerCase on custom reactions",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-08T22:36:30.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "9b91d4cbedc401a135eb2e9761c3fec38a7fb7be",
     "abbrevHash": "9b91d4c",
     "subject": "Show what's being reacted to in the notifications",
@@ -3214,6 +3206,14 @@
     "subject": "Various improvements to reactions UI",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-09T17:07:16.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "2f676a8a7aa6e22ce1c17bac8fc55b80a72523ac",
+    "abbrevHash": "2f676a8",
+    "subject": "Add a 'reactions summary' tool to show who reacted with what",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-09T17:43:18.000Z"
   },
   {
     "repo": "ctznry",
@@ -4097,14 +4097,6 @@
   },
   {
     "repo": "ctzn",
-    "hash": "82bcb6b45bf2e3489498ffc56ac57f34db001125",
-    "abbrevHash": "82bcb6b",
-    "subject": "Add indexes rebuilding tool",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-22T18:03:41.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "74b84a5cf1e8780a5f648b76da5a11d32f19d1cb",
     "abbrevHash": "74b84a5",
     "subject": "Add the ability to address server DBs at reserved server@{domain} userID",
@@ -4230,6 +4222,14 @@
     "subject": "Add put-blob-method",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-24T18:21:34.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "420d43560964c1f7d22512a6aa25c25e61bea816",
+    "abbrevHash": "420d435",
+    "subject": "0.21.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T18:21:38.000Z"
   },
   {
     "repo": "ctzn",
@@ -4801,14 +4801,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "a705d3a1c3de61f77d8021229ee584226497f763",
-    "abbrevHash": "a705d3a",
-    "subject": "Merge pull request #8 from FreddieGilbraith/patch-1",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-31T17:01:39.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "98edba7c7566b6aaf2ff84568d072c1b3a92be34",
     "abbrevHash": "98edba7",
     "subject": "Tweaks to header menu",
@@ -4822,6 +4814,14 @@
     "subject": "Fix overflow issue in activity feed",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-31T17:11:48.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "945ce4e62ebaf9d7baf4e9db77ee2d554577b91f",
+    "abbrevHash": "945ce4e",
+    "subject": "Improve toast positioning on mobile and dismiss them on click",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T19:08:10.000Z"
   },
   {
     "repo": "ctznry",
@@ -5665,14 +5665,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "e0828d32b84baca475f9bffb70f0a07e8e0b3485",
-    "abbrevHash": "e0828d3",
-    "subject": "Fix iframe allow list",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-04-09T17:30:01.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "e31e351a55c90e69abbbed1cef1492847c312eeb",
     "abbrevHash": "e31e351",
     "subject": "Fix ctzn-code's escaping",
@@ -5686,6 +5678,14 @@
     "subject": "Add margin to ctzn-code",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-09T17:43:55.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "9f089055305b8f6d97f1f1b8a31b17a7fb665c60",
+    "abbrevHash": "9f08905",
+    "subject": "Tweak css of custom html in posts",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-09T18:00:42.000Z"
   },
   {
     "repo": "ctznry",
@@ -6934,5 +6934,77 @@
     "subject": "Update communities page to match the new aesthetic",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-27T21:06:28.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "a0a7f975a9c4468199695a3bcc34a7598d44f82b",
+    "abbrevHash": "a0a7f97",
+    "subject": "Mobile and responsive updates",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-28T01:01:31.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "ea18c6b9f814fc7c62186c04fa477da32efd7b0d",
+    "abbrevHash": "ea18c6b",
+    "subject": "Update rate limiting to include HTTP and fall back to IP instead of socket_id",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-28T15:24:05.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "76128f260db985d727e31331537a6be92050b39c",
+    "abbrevHash": "76128f2",
+    "subject": "0.34.4",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-28T15:24:08.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "423a15a8456c40abdaf0fc321a73aab9416fb94c",
+    "abbrevHash": "423a15a",
+    "subject": "Debounce database load/unload logic to avoid slamming the DB",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-28T15:45:37.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "3112dfcd2ff8f9553533d24d6e7ff4022a23dfc5",
+    "abbrevHash": "3112dfc",
+    "subject": "0.34.5",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-28T15:45:40.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "7249ea170882662cefc8095d3df7592e6890c9bd",
+    "abbrevHash": "7249ea1",
+    "subject": "Add HTTP calls to the debug logger",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-28T16:13:02.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "c347b5d1dcc2c86f68e322767345a8493154f7b4",
+    "abbrevHash": "c347b5d",
+    "subject": "0.34.6",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-28T16:13:05.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "a7dddb928336f8937b104c75dd8faac03879d71c",
+    "abbrevHash": "a7dddb9",
+    "subject": "Improve profile-view scroll targeting and right column space usage",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-28T16:48:34.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "ff404d851d4bc3dc268f29bf0c56c0e20d13a60e",
+    "abbrevHash": "ff404d8",
+    "subject": "Require all profiles to have a fixed set of sections (feed, about)",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-28T21:07:09.000Z"
   }
 ]
