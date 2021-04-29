@@ -993,19 +993,19 @@
   },
   {
     "repo": "ctzn",
-    "hash": "3ab145d1d25678b89e7c975c5d6816ef741feb98",
-    "abbrevHash": "3ab145d",
-    "subject": "Remove old fontawesome assets",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-09T20:20:18.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "b17b75ce1eb496217a68d835871e96d0b3346865",
     "abbrevHash": "b17b75c",
     "subject": "Fix view path configuration",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-09T20:24:25.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "359c47effd3d1a560147a4e278a896d28c5012ac",
+    "abbrevHash": "359c47e",
+    "subject": "0.1.3",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-09T20:24:34.000Z"
   },
   {
     "repo": "ctzn",
@@ -1897,14 +1897,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "85ccd7619b6842f475033d3847de148638df6973",
-    "abbrevHash": "85ccd76",
-    "subject": "Minor updates to post rendering",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-22T18:27:04.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "aacb9f89dbd7f11d1823582ceafc218a7c01feda",
     "abbrevHash": "aacb9f8",
     "subject": "Update notifications for new schemas",
@@ -1958,6 +1950,14 @@
     "subject": "Add post and comment deletion",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-22T21:36:59.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "1acbc34c90ac1d2ae4b0fe531064a6397e3369cf",
+    "abbrevHash": "1acbc34",
+    "subject": "Few more UI tweaks to posts",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-23T17:44:11.000Z"
   },
   {
     "repo": "ctznry",
@@ -2760,14 +2760,6 @@
     "authorDate": "2021-03-03T17:02:49.000Z"
   },
   {
-    "repo": "ctzn",
-    "hash": "450eda0a5a2824f12f4d16a0f526fa277e136cff",
-    "abbrevHash": "450eda0",
-    "subject": "Merge pull request #36 from martinheidegger/patch-1",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-03T17:02:49.000Z"
-  },
-  {
     "repo": "ctznry",
     "hash": "9d71f99b4485d075329a02a762c0e7412a53d0a3",
     "abbrevHash": "9d71f99",
@@ -2782,6 +2774,14 @@
     "subject": "Add accounts TUI and a tool to delete users",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-03T20:34:07.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "f36dba6b97a76fd088438f207805e3a50208d025",
+    "abbrevHash": "f36dba6",
+    "subject": "0.14.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-03T20:34:09.000Z"
   },
   {
     "repo": "ctzn",
@@ -3217,14 +3217,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "2f676a8a7aa6e22ce1c17bac8fc55b80a72523ac",
-    "abbrevHash": "2f676a8",
-    "subject": "Add a 'reactions summary' tool to show who reacted with what",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-09T17:43:18.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "9d70ee61e2330518d249c212260c9b06dbcf9d03",
     "abbrevHash": "9d70ee6",
     "subject": "Automatically load new notifications when on the notifications page",
@@ -3254,6 +3246,14 @@
     "subject": "Generate the service-worker.js on deploy to invalidate cache correctly",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-09T18:52:21.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "cd128c18c2dded5a6185ac25dc5432d1207b2a3a",
+    "abbrevHash": "cd128c1",
+    "subject": "Update larger icons to match favicon styles",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-09T18:56:27.000Z"
   },
   {
     "repo": "ctznry",
@@ -4233,19 +4233,19 @@
   },
   {
     "repo": "ctzn",
-    "hash": "420d43560964c1f7d22512a6aa25c25e61bea816",
-    "abbrevHash": "420d435",
-    "subject": "0.21.0",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-24T18:21:38.000Z"
-  },
-  {
-    "repo": "ctzn",
     "hash": "ab4a51a8159521a11cd8689d7ecd95c2a357c18b",
     "abbrevHash": "ab4a51a",
     "subject": "Fix: filter out not-found entries in the feed",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-24T18:23:14.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "e7e372cdef0d18381ba4092e1f858c075a260392",
+    "abbrevHash": "e7e372c",
+    "subject": "0.21.1",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-24T18:23:19.000Z"
   },
   {
     "repo": "ctzn",
@@ -4825,14 +4825,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "945ce4e62ebaf9d7baf4e9db77ee2d554577b91f",
-    "abbrevHash": "945ce4e",
-    "subject": "Improve toast positioning on mobile and dismiss them on click",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-31T19:08:10.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "cb29d79718d3f1e58f3bac21f5967e5ac5b70c7c",
     "abbrevHash": "cb29d79",
     "subject": "Fix notifications overflow issue on mobile",
@@ -4862,6 +4854,14 @@
     "subject": "Tweak the comment highlighting to make the tree depth clearer",
     "authorName": "Paul Frazee",
     "authorDate": "2021-03-31T19:34:13.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "992d88a79cc3c0407259118e381121d1e201fc52",
+    "abbrevHash": "992d88a",
+    "subject": "Add 'loading more' spinners to feeds",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-31T19:47:30.000Z"
   },
   {
     "repo": "ctznry",
@@ -5689,14 +5689,6 @@
   },
   {
     "repo": "ctznry",
-    "hash": "9f089055305b8f6d97f1f1b8a31b17a7fb665c60",
-    "abbrevHash": "9f08905",
-    "subject": "Tweak css of custom html in posts",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-04-09T18:00:42.000Z"
-  },
-  {
-    "repo": "ctznry",
     "hash": "e161901774674e0f713ddb7ce387fdc94434bb24",
     "abbrevHash": "e161901",
     "subject": "Add limit attr to posts-feed and dbmethods-feed",
@@ -5726,6 +5718,14 @@
     "subject": "Correctly handle empty sections in profiles",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-09T18:42:22.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "303e0f055bf2292bc77b5a08f367ae36fe39b249",
+    "abbrevHash": "303e0f0",
+    "subject": "Visual fixes to the subnav, including a hackfix for a safari rendering bug",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-09T19:07:36.000Z"
   },
   {
     "repo": "ctznry",
@@ -7006,5 +7006,61 @@
     "subject": "Require all profiles to have a fixed set of sections (feed, about)",
     "authorName": "Paul Frazee",
     "authorDate": "2021-04-28T21:07:09.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "ebd5d4eb790ee27f45b7dcb539f02723cb16181f",
+    "abbrevHash": "ebd5d4e",
+    "subject": "Add page schema and dbmethods",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-29T18:03:26.000Z"
+  },
+  {
+    "repo": "ctzn",
+    "hash": "28318e73ecef8030ef8cd62d5241e2e7eef1eb73",
+    "abbrevHash": "28318e7",
+    "subject": "0.35.0",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-29T18:03:28.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "8514161cef93f8f887b5d032ca369a10f6db804e",
+    "abbrevHash": "8514161",
+    "subject": "Add pages",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-29T18:19:18.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "8d4a5fbc5d322f48aa2335f52385fa22aae462f3",
+    "abbrevHash": "8d4a5fb",
+    "subject": "Improve page styles on mobile",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-29T18:45:52.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "c8bf0070c5473ff5952d6e875adda3baf5b4fb88",
+    "abbrevHash": "c8bf007",
+    "subject": "Fix bug in page view",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-29T18:50:29.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "518da8f74a51de058f005b8a01b4bff0ca48099f",
+    "abbrevHash": "518da8f",
+    "subject": "Additional pages-list fix",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-29T19:01:09.000Z"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "7391d91abad792a5e7832ab78e0fd717d270b44a",
+    "abbrevHash": "7391d91",
+    "subject": "Add the inbox UI experiment",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-29T21:23:59.000Z"
   }
 ]
