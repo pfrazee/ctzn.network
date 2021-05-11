@@ -1,6 +1,231 @@
 [
   {
     "repo": "ctznry",
+    "hash": "76cc5a25052a364b0562868f371cf857ef063a6c",
+    "abbrevHash": "76cc5a2",
+    "subject": "Avoid updating the notifications view if it's not active",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-06T02:23:09.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "58f132663746be2ebabadf4955c59fc23bf5f12e",
+    "abbrevHash": "58f1326",
+    "subject": "Turn off the Inbox experiment for now",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-06T02:21:37.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "663696f1e5d4da1e58fccae937ca4bf2d8d7e426",
+    "abbrevHash": "663696f",
+    "subject": "Add a small dotted dividing line between post text and extended text",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-05T21:02:20.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "494fb28973b3277b5ac0f98474d7097d5730eff1",
+    "abbrevHash": "494fb28",
+    "subject": "Fixes to ctzn-community-members-list",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-05T17:41:56.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "d420bd6f6b2612c7792903bdf3ca56418016e5a0",
+    "abbrevHash": "d420bd6",
+    "subject": "More improvements to media gallery popup",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-05T00:04:47.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "941aab0078e70b239170952fc7ae21fec668df60",
+    "abbrevHash": "941aab0",
+    "subject": "Image modal now acts as a swipable/navable gallery",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-04T23:49:17.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "1fa948f74a80da6c548dcceee9c43f150f774841",
+    "abbrevHash": "1fa948f",
+    "subject": "Improve spacing of comment controls",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-04T23:16:11.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "0fece0e1ddb99c62ca7154e458e17c9985987772",
+    "abbrevHash": "0fece0e",
+    "subject": "Fix case where search can lose its highlight",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-04T19:50:40.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "1a38ca770a5985994fc8f5c2d0a433cda3f685e9",
+    "abbrevHash": "1a38ca7",
+    "subject": "Improve notification unread-state clearing",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-04T19:30:44.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "27fc5b4bbccd209e74e5ff3b5b026bf396ea2165",
+    "abbrevHash": "27fc5b4",
+    "subject": "Fix page load timing issue",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-04T19:25:57.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "49f1c465b7bd8a77417bc3f32fb5919045703129",
+    "abbrevHash": "49f1c46",
+    "subject": "Update reactions tool for usability and clarity",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-04T19:00:16.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "8c4a56897a6a6e46324d5579f37ac14faec4274e",
+    "abbrevHash": "8c4a568",
+    "subject": "Fix initial loads",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-04T17:31:06.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "b7a867e37f01530ce8794e2fd8fa5828a0b4e137",
+    "abbrevHash": "b7a867e",
+    "subject": "Place context-menus within parents so that they scroll with the page",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-04T17:21:41.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "9dcc4f5991d3f8867f9ab926194a341a463d9176",
+    "abbrevHash": "9dcc4f5",
+    "subject": "Fixes to how data is loaded on page-nav, and fix notification loading & count-clearing",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-04T16:12:17.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "4b419da0d3cd51c66d18746cee37cef61cde5e7c",
+    "abbrevHash": "4b419da",
+    "subject": "Fix stupid bug in thread scroll-into-view",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-04T02:04:50.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "dffa566a01481a56d847f2a5d6f1d869443bc229",
+    "abbrevHash": "dffa566",
+    "subject": "A few more attempts to improve scroll positioning behavior",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-04T01:39:24.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "1f14f897c892aa0a87f0d339b97de226ab457997",
+    "abbrevHash": "1f14f89",
+    "subject": "Fix import path",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-04T01:15:16.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "dc525c42b55af13e77e72b05c89e1d19b3a6fa0f",
+    "abbrevHash": "dc525c4",
+    "subject": "Fix thread-view scroll highlighted into view",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-04T00:11:20.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "28644c5ad2e98d56a039a37093fcd070a458aec9",
+    "abbrevHash": "28644c5",
+    "subject": "More fixes to gestures and subnav",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-03T23:49:18.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "ba4b041aeef18d238e3bcbf755b6e55f7627a668",
+    "abbrevHash": "ba4b041",
+    "subject": "Scroll to top on when navigating to home and notifications",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-03T23:49:11.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "ecfa7d959eb139e7862ccb175a6e0b35ea91501e",
+    "abbrevHash": "ecfa7d9",
+    "subject": "Small improvements to subnav gesture behavior",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-03T23:25:38.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "ca4f1bee0de9a72ff81630dc3df78b9380b93802",
+    "abbrevHash": "ca4f1be",
+    "subject": "Fixes & improvements to pull-to-refresh",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-03T22:11:08.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "f7fe15295bafae64b982f57408f99fa260204753",
+    "abbrevHash": "f7fe152",
+    "subject": "Apply the DOM caching to the notifications view",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-03T22:01:33.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "64be22b0a9eb1cd9c5851ac229de8e734e2301d6",
+    "abbrevHash": "64be22b",
+    "subject": "Consider 'check latest' to be a feed update",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-03T21:50:31.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
+    "hash": "21adedfbf28ddd60dd3ee7e8d1c17aa8272f10a3",
+    "abbrevHash": "21adedf",
+    "subject": "Keep the home and last-viewed-user in the DOM for better back-to-feed perf",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-05-03T21:45:30.000Z",
+    "interesting": false
+  },
+  {
+    "repo": "ctznry",
     "hash": "a36430d4aee88621db74c8c5aaee0d11390baf3b",
     "abbrevHash": "a36430d",
     "subject": "Improve scroll-positioning code",
@@ -1657,6 +1882,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "852b5b646d13700befe11ac918709b449c08f27a",
+    "abbrevHash": "852b5b6",
+    "subject": "Fix styling in html preview",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-14T20:27:07.000Z",
+    "interesting": false,
+    "videoId": "d64vsai-hUA",
+    "videoUrl": "https://youtu.be/d64vsai-hUA",
+    "videoQP": "?t=5980"
+  },
+  {
+    "repo": "ctznry",
     "hash": "57fad409ecde417c47bc53fe276a4cf507df70d6",
     "abbrevHash": "57fad40",
     "subject": "Say 'OK' rather than 'Save' in ui editor popup, for clarity",
@@ -1918,18 +2155,6 @@
     "authorName": "Freddie Gilbraith",
     "authorDate": "2021-04-13T08:53:53.000Z",
     "interesting": false
-  },
-  {
-    "repo": "ctznry",
-    "hash": "8fd08d2c6f896cb22baed04a2e91444c930244ca",
-    "abbrevHash": "8fd08d2",
-    "subject": "Add WIP tinymce editor to post composer",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-04-13T01:01:51.000Z",
-    "interesting": false,
-    "videoId": "xGI4DiSczew",
-    "videoUrl": "https://youtu.be/xGI4DiSczew",
-    "videoQP": "?t=33526"
   },
   {
     "repo": "ctznry",
@@ -2881,6 +3106,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "f476a5037d515d93bd01db7e8793c2eb65edcc8b",
+    "abbrevHash": "f476a50",
+    "subject": "Fix crowding issue for reactions on feed",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-04-05T18:02:42.000Z",
+    "interesting": false,
+    "videoId": "VZXLZRnY0Bk",
+    "videoUrl": "https://youtu.be/VZXLZRnY0Bk",
+    "videoQP": "?t=7946"
+  },
+  {
+    "repo": "ctznry",
     "hash": "7dc3c84abae4fc03df709e5af15211a545385918",
     "abbrevHash": "7dc3c84",
     "subject": "Dont allow reactions in expanded posts if not in the community/followed/etc",
@@ -3166,18 +3403,6 @@
     "videoId": "O1Wtl63KlKA",
     "videoUrl": "https://youtu.be/O1Wtl63KlKA",
     "videoQP": "?t=3971"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "7e2c237dce5b42f508432a2c7f29a60a172688ef",
-    "abbrevHash": "7e2c237",
-    "subject": "Disable lazy loading for feed avatars",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-04-02T17:20:04.000Z",
-    "interesting": false,
-    "videoId": "O1Wtl63KlKA",
-    "videoUrl": "https://youtu.be/O1Wtl63KlKA",
-    "videoQP": "?t=3915"
   },
   {
     "repo": "ctznry",
@@ -4381,6 +4606,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "ecb95eb4e2000e0b704361a7fd6c3e2d2772813c",
+    "abbrevHash": "ecb95eb",
+    "subject": "Rework profile headers",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-23T16:53:36.000Z",
+    "interesting": false,
+    "videoId": "GiaGRN4kuwc",
+    "videoUrl": "https://youtu.be/GiaGRN4kuwc",
+    "videoQP": "?t=6696"
+  },
+  {
+    "repo": "ctznry",
     "hash": "d6c86054664616525ab62bed390d1292e5112b48",
     "abbrevHash": "d6c8605",
     "subject": "Add prefix for backdrop-filter effect",
@@ -5506,18 +5743,6 @@
     "videoId": "S0vJBOPkQJo",
     "videoUrl": "https://youtu.be/S0vJBOPkQJo",
     "videoQP": "?t=6869"
-  },
-  {
-    "repo": "ctznry",
-    "hash": "14b6f439aa66771db12868873cd5c4b09551ef89",
-    "abbrevHash": "14b6f43",
-    "subject": "Improve thread-rendering UI on mobile",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-03-10T18:26:18.000Z",
-    "interesting": false,
-    "videoId": "S0vJBOPkQJo",
-    "videoUrl": "https://youtu.be/S0vJBOPkQJo",
-    "videoQP": "?t=6138"
   },
   {
     "repo": "ctznry",
@@ -6871,6 +7096,18 @@
   },
   {
     "repo": "ctznry",
+    "hash": "ce4a65109b1bd42f7949ff90dea12dd627b26320",
+    "abbrevHash": "ce4a651",
+    "subject": "Remove separation between posts on mobile",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-03-01T20:53:55.000Z",
+    "interesting": false,
+    "videoId": "6VcKU_8YAgs",
+    "videoUrl": "https://youtu.be/6VcKU_8YAgs",
+    "videoQP": "?t=19013"
+  },
+  {
+    "repo": "ctznry",
     "hash": "33469153830aa91e856fcb4f8fd6db6b6121af0f",
     "abbrevHash": "3346915",
     "subject": "Only show menu transition when opening",
@@ -7224,15 +7461,6 @@
     "subject": "Remove debug suggested communities",
     "authorName": "Paul Frazee",
     "authorDate": "2021-02-27T16:44:03.000Z",
-    "interesting": false
-  },
-  {
-    "repo": "ctznry",
-    "hash": "9540e8500455b8cd22ac6133c8e65f6a3bdff6af",
-    "abbrevHash": "9540e85",
-    "subject": "Include pink colors in purge safelist, not being picked up automatically",
-    "authorName": "Paul Frazee",
-    "authorDate": "2021-02-27T16:40:43.000Z",
     "interesting": false
   },
   {
@@ -9010,6 +9238,18 @@
     "videoId": "FxoZBXNDmK4",
     "videoUrl": "https://youtu.be/FxoZBXNDmK4",
     "videoQP": "?t=15864"
+  },
+  {
+    "repo": "ctznry",
+    "hash": "eda5b4f6bac26d612812eec9e186e5f3ab711453",
+    "abbrevHash": "eda5b4f",
+    "subject": "Improve css load ordering perf",
+    "authorName": "Paul Frazee",
+    "authorDate": "2021-02-09T19:45:13.000Z",
+    "interesting": false,
+    "videoId": "FxoZBXNDmK4",
+    "videoUrl": "https://youtu.be/FxoZBXNDmK4",
+    "videoQP": "?t=15473"
   },
   {
     "repo": "ctznry",
